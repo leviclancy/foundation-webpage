@@ -1,7 +1,7 @@
 <?
 
 // Home ... Mission statement
-— The Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region and Iraq, and providing platforms for reconciliation and coexistence with our surrounding communities.
+— Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region and Iraq, and providing platforms for reconciliation and coexistence with our surrounding communities.
 
 // Calendar
 // We will have a welcoming, multifaith prayer.
