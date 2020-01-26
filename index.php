@@ -33,6 +33,7 @@
 		font-size: 160%;
 		font-weight: 400;
 		font-style: italic;
+		padding: 50px 0 0;
 		}
 
 	h3 {
@@ -44,6 +45,14 @@
 	
 	ul, ol {
 		padding: 0;
+		}
+	
+	ul {
+		list-style-type: none;
+		}
+	
+	ol {
+		list-style-type: hebrew;
 		}
 	
 	li {
