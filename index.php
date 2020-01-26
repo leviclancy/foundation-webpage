@@ -78,14 +78,14 @@
 
 	#upcoming-news-section {
 		width: 100%;
-		background: rgba(100,100,100,1);
+		background: rgba(220,220,220,1);
 		color: #fff;
 		padding: 50px 0;
 		}
 	
 	#past-news-section {
 		width: 100%;
-		background: rgba(220,220,220,1);
+		background: rgba(100,100,100,1);
 		color: #fff;
 		padding: 50px 0;
 		}
