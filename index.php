@@ -35,17 +35,13 @@
 		font-size: 160%;
 		font-weight: 400;
 		font-style: italic;
-		padding: 50px 20px 0;
+		padding: 30px;
 		}
 
 	h3 {
 		text-align: center;
 		font-size: 130%;
 		font-weight: 400;
-		}
-	
-	ul, ol {
-		padding: 0;
 		}
 	
 	ul {
