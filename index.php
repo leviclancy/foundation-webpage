@@ -12,7 +12,7 @@
 		margin: 0;
 		padding: 0;
 		font-family: Times;
-		font-size: 1.2em;
+		font-size: 1.5em;
 		line-height: 2em;
 		}
 	
@@ -20,8 +20,6 @@
 		display: block;
 		max-width: 800px;
 		margin: 30px auto;
-		font-family: inherit;
-		font-size: inherit;
 		text-align: left;
 		}
 	
