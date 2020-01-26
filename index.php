@@ -40,7 +40,7 @@
 		}
 	
 	li {
-		margin-left: 25px;
+		margin-left: 20px;
 		}
 
 	#foundation-section {
