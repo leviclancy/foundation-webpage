@@ -128,9 +128,9 @@
 <li><b>Abrahamic: On Jews, Judaism, and Being Jewish</b> —  2019 Nov 09, Book Café, Erbil. <a href='https://www.facebook.com/events/541946113227550/'>Facebook</a></li>
 <li><b>Around each corner: Walking tour of Erbil's ancient lower city</b> —  2019 Nov 02, Erbil. <a href='https://www.facebook.com/events/2435048943483136/'>Facebook</a></li>
 <li><b>10,000 BC to Today: A Combined History of Erbil</b> —  2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/'>Facebook</a></li>
-<li><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b> —  2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/'>Facebook</a></li>
-<li><b>Coffee, objects, and a combined history of Erbil</b> —  2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/'>Facebook</a></li>
-<li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>Facebook</a></li>
+<li><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b> —  2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/'>Facebook (private)</a></li>
+<li><b>Coffee, objects, and a combined history of Erbil</b> —  2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/'>Facebook (private)</a></li>
+<li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>Facebook (private)</a></li>
 </ul>
 
 <h2>Past Foundation events</h2>
