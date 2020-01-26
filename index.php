@@ -12,8 +12,8 @@
 		margin: 0;
 		padding: 0;
 		font-family: Times;
-		font-size: 15px;
-		line-height: 25px;
+		font-size: 1.2em;
+		line-height: 2em;
 		}
 	
 	h1, h2, h3, p, ul, ol, li {
