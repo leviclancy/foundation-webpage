@@ -76,7 +76,7 @@
 	
 <h2>Contact</h2>
 	
-<p>To contact us, please reach out at +1-424-248-7101 or at hi@ours.foundation</p>
+<p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
 
 </div>
 
