@@ -12,6 +12,8 @@
 		font-family: 'Times New Roman';
 		font-size: 15px;
 		line-height: 28px;
+		margin: 0;
+		padding: 0;
 		}
 	
 	h1, h2, h3, p	{
@@ -33,6 +35,28 @@
 		font-size: 130%;
 		}
 
+	#foundation-section {
+		width: 100%;
+		background: #fff;
+		color: #000;
+		padding: 50px 0;
+		}
+
+	#museum-section {
+		width: 100%;
+		background: #fff;
+		color: #000;
+		border: 2px solid #fff;
+		box-shadow: 0 30px 40px -5px rgba(100,100,100,0.2);
+		padding: 50px 0;
+		}
+
+	#press-section {
+		width: 100%;
+		background: #000;
+		color: #fff;
+		padding: 50px 0;
+		}
 	
 	</style>	
 </head>
@@ -114,8 +138,6 @@
 </ul>
 
 </div>
-
-<div id='database-section'>
 
 <h2>Database</h2>
 
