@@ -22,7 +22,6 @@
 		margin: 30px auto;
 		font-family: inherit;
 		font-size: inherit;
-		line-height: inherit;
 		text-align: left;
 		}
 	
