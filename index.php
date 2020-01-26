@@ -54,7 +54,6 @@
 	
 	li {
 		list-style-position: inside;
-		margin-left: 20px;
 		text-align: center;
 		}
 
@@ -72,7 +71,7 @@
 		padding: 100px 0;
 		}
 
-	#upcoming-news-section {
+	#current-news-section {
 		width: 100%;
 		background: rgba(220,220,220,1);
 		color: #fff;
@@ -82,7 +81,7 @@
 	#past-news-section {
 		width: 100%;
 		background: rgba(100,100,100,1);
-		color: #fff;
+		color: #eee;
 		padding: 50px 0;
 		}
 
