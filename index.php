@@ -1,3 +1,15 @@
+<!doctype html>
+<html amp lang="en">
+<head>
+<meta charset="utf-8">
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<title>Ours</title>
+<link rel="canonical" href="https://ours.foundation/">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+</head>
+<body>
+
 <h1>Foundation of Ours</h1>
 
 <div id='foundation-section'>>
@@ -27,16 +39,18 @@
 <h2>Calendar</h2>
 	
 <ul>
-<li>Combined History of Fire</li>
-<li>Islam</li>
-<li>Christianity</li>
-<li>Judaism</li>
-<li>Judaism</li>
-<li>Judaism</li>
-<li>Combined History of Erbil</li>
-<li>Combined History of Erbil</li>
-<li>Walkig Tour of Erbil</li>
-	</ul>
+<li>Combined History of Fire: An Exhibition Covering 900BC to Today. 2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/'>Facebook</a></li>
+<li>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi. 2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/'>Facebook</a></li>
+<li>Churches of Mesopotamia: Syriac, Chaldean, and Assyrian. 2019 Dec 16, Book Café, Erbil. <a href='https://www.facebook.com/events/403693916994295/'>Facebook</a></li>
+<li>Multiculturalism and Reconciliation and the Jewish Community. 2019 Dec 08, American Corner, Duhok. <a href='https://www.facebook.com/events/814166239004509/'>Facebook</a></li>
+<li>By the Rivers of Babylon: The Jews of Erbil and Mesopotamia. 2019 Nov 12, American Corner, Erbil. <a href='https://www.facebook.com/events/517628888793532/'>Facebook</a></li>
+<li>Abrahamic: On Jews, Judaism, and Being Jewish. 2019 Nov 09, Book Café, Erbil. <a href='https://www.facebook.com/events/541946113227550/'>Facebook</a></li>
+<li>Around each corner: Walking tour of Erbil's ancient lower city. 2019 Nov 02, Erbil. <a href='https://www.facebook.com/events/2435048943483136/'>Facebook</a></li>
+<li>10,000 BC to Today: A Combined History of Erbil. 2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/'>Facebook</a></li>
+<li>Gorgeous, mesmerizing Erbil: Walking tour of the lower city. 2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/'>Facebook</a></li>
+<li>Coffee, objects, and a combined history of Erbil. 2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/'>Facebook</a></li>
+<li>Tour and lunch at the Erbil Civilization Museum! 2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>Facebook</a></li>
+</ul>
 
 </div>
 
@@ -55,3 +69,7 @@
 <p>To contact us, please reach out at +1-424-248-7101 or at hi@ours.foundation</p>
 
 </div>
+
+</body>
+	
+</html>
