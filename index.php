@@ -31,11 +31,15 @@
 	h2 {
 		text-align: center;
 		font-size: 160%;
+		font-weight: 400;
+		font-style: italic;
 		}
 
 	h3 {
 		text-align: center;
 		font-size: 130%;
+		font-weight: 400;
+		font-style: italic;
 		}
 	
 	ul, ol {
