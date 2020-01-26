@@ -47,10 +47,17 @@
 		background: #fff;
 		color: #000;
 		border: 2px solid #fff;
-		box-shadow: 0 30px 40px -5px rgba(100,100,100,0.2);
+		box-shadow: 0 10px 40px -5px rgba(100,100,100,0.2);
 		padding: 50px 0;
 		}
 
+	#calendar-section {
+		width: 100%;
+		background: #fff;
+		color: #000;
+		padding: 50px 0;
+		}
+	
 	#press-section {
 		width: 100%;
 		background: #000;
