@@ -119,7 +119,7 @@
 
 <p>Museum of Ours works in Erbil and the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
-<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>RSVP</a>!</p>
+<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>Facebook</a>.</p>
 
 <h2>Research database</h2>
 
