@@ -34,6 +34,11 @@
 	h3 {
 		font-size: 130%;
 		}
+	
+	ul, ol, li {
+		padding: 0;
+		margin: 0;
+		}
 
 	#foundation-section {
 		width: 100%;
