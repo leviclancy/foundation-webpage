@@ -14,7 +14,7 @@
 		font-family: Times;
 		font-size: 1.35em;
 		line-height: 1.5em;
-		background: rgba(250,250,250,1);
+		background: rgba(255,255,255,1);
 		}
 	
 	h1, h2, h3, p, ul, ol {
@@ -64,23 +64,23 @@
 
 	#foundation-section {
 		width: 100%;
-		background: #fff;
+		background: rgba(245,245,245,1);
 		color: #000;
-		padding: 50px 0;
+		padding: 100px 0;
 		}
 
 	#museum-section {
 		width: 100%;
 		background: rgba(220,220,220,1);
 		color: #000;
-		border: 2px solid #fff;
+		padding: 100px 0;
 		}
 
 	#upcoming-news-section {
 		width: 100%;
 		background: rgba(220,220,220,1);
 		color: #fff;
-		padding: 50px 0;
+		padding: 100px 0;
 		}
 	
 	#past-news-section {
@@ -94,7 +94,7 @@
 		width: 100%;
 		background: #000;
 		color: #fff;
-		padding: 50px 0;
+		padding: 100px 0;
 		}
 	
 	</style>	
