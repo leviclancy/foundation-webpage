@@ -74,17 +74,22 @@
 		background: rgba(220,220,220,1);
 		color: #000;
 		border: 2px solid #fff;
-		box-shadow: 0 10px 40px -5px rgba(100,100,100,0.2);
-		padding: 50px 0;
 		}
 
-	#calendar-section {
+	#upcoming-news-section {
 		width: 100%;
 		background: rgba(100,100,100,1);
 		color: #fff;
 		padding: 50px 0;
 		}
 	
+	#past-news-section {
+		width: 100%;
+		background: rgba(220,220,220,1);
+		color: #fff;
+		padding: 50px 0;
+		}
+
 	#press-section {
 		width: 100%;
 		background: #000;
@@ -123,10 +128,10 @@
 <p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>.</p>
 
 </div>
-	
-<div id='calendar-section'>
 
-<h2>Upcoming events</h2>
+<div id='Current-news-section'>
+
+<h2>Current news</h2>
 
 <h3>Museum of Ours</h3>
 
@@ -146,7 +151,11 @@
 <li><b>Community Passover in Erbil</b> — TBD. <a href='https://www.facebook.com/events/827811324346871/'>RSVP</a></li>	
 </ul>
 
-<h2>Past events</h2>
+</div>
+	
+<div id='past-news-section'>
+	
+<h2>Past news</h2>
 
 <h3>Museum of Ours</h3>
 
