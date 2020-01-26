@@ -41,7 +41,6 @@
 		text-align: center;
 		font-size: 130%;
 		font-weight: 400;
-		font-style: italic;
 		}
 	
 	ul, ol {
