@@ -24,14 +24,17 @@
 		}
 	
 	h1 {
+		text-align: center;
 		font-size: 200%;
 		}
 	
 	h2 {
+		text-align: center;
 		font-size: 160%;
 		}
 
 	h3 {
+		text-align: center;
 		font-size: 130%;
 		}
 	
@@ -40,7 +43,9 @@
 		}
 	
 	li {
+		list-style-position: inside;
 		margin-left: 20px;
+		text-align: center;
 		}
 
 	#foundation-section {
