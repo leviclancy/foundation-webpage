@@ -99,9 +99,9 @@
 
 <div id='foundation-section'>
 
-<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region and Iraq, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
+<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
-<p><i>Vision</i> — We envision a more cohesive society in the Kurdistan Region and Iraq, with better awareness of combined and reconciliatory historical narratives and greater tolerance for minorities including a Jewish presence.</p>
+<p><i>Vision</i> — We envision a more cohesive society in the Kurdistan Region, with better awareness of combined and reconciliatory historical narratives and greater tolerance for minorities including a Jewish presence.</p>
 
 <h2>Our Goals</h2>
 
