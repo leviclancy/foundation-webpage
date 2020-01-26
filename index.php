@@ -105,14 +105,18 @@
 <p>Museum of Ours works in Erbil and the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
 <p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>RSVP</a>!</p>
-	
+
+<h2>Research database</h2>
+
+<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>.</p>
+
 </div>
 	
 <div id='calendar-section'>
 
 <h2>Upcoming events</h2>
 
-<h3>Museum of Ours</3>
+<h3>Museum of Ours</h3>
 
 <ul>
 <li><b>Combined History of Water</b> — TBD.</li>
@@ -122,7 +126,7 @@
 <li><b>Event on Jewish history</b> — TBD.</li>
 </ul>
 
-<h3>Religious gatherings</3>
+<h3>Religious gatherings</h3>
 
 <ul>
 <li><b>Community Passover in Duhok</b> — TBD. <a href='https://www.facebook.com/events/598057584101194/'>RSVP</a></li>	
@@ -132,7 +136,7 @@
 
 <h2>Past events</h2>
 
-<h3>Museum of Ours</3>
+<h3>Museum of Ours</h3>
 
 <ul>
 <li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b> —  2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/'>RSVP</a></li>
@@ -148,7 +152,7 @@
 <li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>RSVP (private)</a></li>
 </ul>
 
-<h3>Religious gatherings</3>
+<h3>Religious gatherings</h3>
 
 <ul>
 <li><b>By the river Tigris: Hanukah in Duhok</b> — 2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/'>RSVP (private)</a></li>
@@ -162,10 +166,6 @@
 </ul>
 
 </div>
-
-<h2>Database</h2>
-
-<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>.</p>
 
 </div>
 
