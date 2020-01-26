@@ -110,6 +110,8 @@
 <li>Establish (then maintain) a <b>home for the Torah</b>.</li>
 <li>Provide <b>kosher living</b> including dining, lodging, and logistics.</li></ol>
 
+</div>
+	
 <div id='museum-section'>
 
 <h2>Museum of Ours</h2>
@@ -124,7 +126,7 @@
 
 </div>
 
-<div id='Current-news-section'>
+<div id='current-news-section'>
 
 <h2>Current news</h2>
 
@@ -180,8 +182,6 @@
 <li><b>Passover in Erbil</b> — 2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/'>RSVP (private)</a></li>
 <li><b>Pêseh le Hewlêr || Passover in Erbil</b> — 2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/'>RSVP (private)</a></li>
 </ul>
-
-</div>
 
 </div>
 
