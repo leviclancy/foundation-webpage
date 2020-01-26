@@ -16,7 +16,7 @@
 		line-height: 1.8em;
 		}
 	
-	h1, h2, h3, p, ul, ol, li {
+	h1, h2, h3, p, ul, ol {
 		display: block;
 		max-width: 800px;
 		margin: 30px auto;
