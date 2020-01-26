@@ -52,7 +52,7 @@
 		}
 	
 	ol {
-		list-style-type: hebrew;
+		list-style-type: lower-latin;
 		}
 	
 	li {
