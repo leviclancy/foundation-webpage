@@ -35,9 +35,13 @@
 		font-size: 130%;
 		}
 	
-	ul, ol, li {
+	ul, ol {
 		padding: 0;
 		margin: 0;
+		}
+	
+	li {
+		margin-left: 25px;
 		}
 
 	#foundation-section {
