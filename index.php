@@ -14,6 +14,7 @@
 		font-family: Times;
 		font-size: 1.35em;
 		line-height: 1.5em;
+		background: rgba(250,250,250,1);
 		}
 	
 	h1, h2, h3, p, ul, ol {
@@ -70,7 +71,7 @@
 
 	#museum-section {
 		width: 100%;
-		background: #fff;
+		background: rgba(220,220,220,1);
 		color: #000;
 		border: 2px solid #fff;
 		box-shadow: 0 10px 40px -5px rgba(100,100,100,0.2);
@@ -79,8 +80,8 @@
 
 	#calendar-section {
 		width: 100%;
-		background: #fff;
-		color: #000;
+		background: rgba(100,100,100,1);
+		color: #fff;
 		padding: 50px 0;
 		}
 	
