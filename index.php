@@ -73,8 +73,8 @@
 
 	#current-news-section {
 		width: 100%;
-		background: rgba(220,220,220,1);
-		color: #fff;
+		background: rgba(230,230,230,1);
+		color: #000;
 		padding: 100px 0;
 		}
 	
