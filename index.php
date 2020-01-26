@@ -36,8 +36,18 @@
 
 <p>Museum of Ours works in Erbil and the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
-<h2>Calendar</h2>
-	
+<h2>Upcoming events</h2>
+
+<ul>
+<li>Combined History of Water. TBD.</li>
+<li>Eloquent Universe of Lalish. TBD.</li>
+<li>Event on Kurdish Islamic history. TBD.</li>
+<li>Event on Assyro-Christian history. TBD.</li>
+<li>Event on Jewish history. TBD.</li>
+</ul>
+
+<h2>Past events</h2>
+
 <ul>
 <li>Combined History of Fire: An Exhibition Covering 900BC to Today. 2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/'>Facebook</a></li>
 <li>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi. 2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/'>Facebook</a></li>
