@@ -12,14 +12,15 @@
 		margin: 0;
 		padding: 0;
 		font-family: Times;
-		font-size: 1.3em;
+		font-size: 1.35em;
 		line-height: 1.5em;
 		}
 	
 	h1, h2, h3, p, ul, ol {
 		display: block;
-		max-width: 800px;
+		max-width: 700px;
 		margin: 30px auto;
+		padding: 20px;
 		text-align: left;
 		}
 	
@@ -33,7 +34,7 @@
 		font-size: 160%;
 		font-weight: 400;
 		font-style: italic;
-		padding: 50px 0 0;
+		padding: 50px 20px 0;
 		}
 
 	h3 {
