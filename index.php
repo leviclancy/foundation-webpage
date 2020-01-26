@@ -99,13 +99,9 @@
 
 <div id='foundation-section'>
 
-<h2>Mission</h2>
+<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region and Iraq, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
-<p>Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region and Iraq, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
-
-<h2>Vision</h2>
-
-<p>We envision a more cohesive society in the Kurdistan Region and Iraq, with better awareness of combined and reconciliatory historical narratives and greater tolerance for minorities including a Jewish presence.</p>
+<p><i>Vision</i> — We envision a more cohesive society in the Kurdistan Region and Iraq, with better awareness of combined and reconciliatory historical narratives and greater tolerance for minorities including a Jewish presence.</p>
 
 <h2>Goals</h2>
 
@@ -117,7 +113,7 @@
 
 <h2>Museum of Ours</h2>
 
-<p>Museum of Ours works in Erbil and the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
+<p><i>Mission statement</i> — Museum of Ours works in Erbil and the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
 <p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>Facebook</a>.</p>
 
