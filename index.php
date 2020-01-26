@@ -17,9 +17,11 @@
 		display: block;
 		max-width: 800px;
 		margin: 30px auto;
+
+	h1, h2, h3, p, ul, ol, li {
 		font-family: 'Times New Roman';
-		font-size: 15px;
-		line-height: 28px;
+		font-size: 18px;
+		line-height: 25px;
 		text-align: left;
 		}
 	
