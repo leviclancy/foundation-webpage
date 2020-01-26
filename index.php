@@ -9,17 +9,17 @@
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <style amp-custom>
 	body {
-		font-family: 'Times New Roman';
-		font-size: 15px;
-		line-height: 28px;
 		margin: 0;
 		padding: 0;
 		}
 	
-	h1, h2, h3, p	{
+	h1, h2, h3, p, ul, ol {
 		display: block;
 		max-width: 800px;
 		margin: 30px auto;
+		font-family: 'Times New Roman';
+		font-size: 15px;
+		line-height: 28px;
 		text-align: left;
 		}
 	
