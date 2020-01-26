@@ -99,7 +99,9 @@
 	
 <div id='calendar-section'>
 
-<h2>Upcoming Museum events</h2>
+<h2>Upcoming events</h2>
+
+<h3>Museum of Ours</3>
 
 <ul>
 <li><b>Combined History of Water</b> — TBD.</li>
@@ -108,8 +110,8 @@
 <li><b>Event on Assyro-Christian history</b> — TBD.</li>
 <li><b>Event on Jewish history</b> — TBD.</li>
 </ul>
-	
-<h2>Upcoming Foundation events</h2>
+
+<h3>Religious gatherings</3>
 
 <ul>
 <li><b>Community Passover in Duhok</b> — TBD. <a href='https://www.facebook.com/events/598057584101194/'>Facebook</a></li>	
@@ -117,7 +119,9 @@
 <li><b>Community Passover in Erbil</b> — TBD. <a href='https://www.facebook.com/events/827811324346871/'>Facebook</a></li>	
 </ul>
 
-<h2>Past Museum events</h2>
+<h2>Past events</h2>
+
+<h3>Museum of Ours</3>
 
 <ul>
 <li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b> —  2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/'>Facebook</a></li>
@@ -133,7 +137,7 @@
 <li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>Facebook (private)</a></li>
 </ul>
 
-<h2>Past Foundation events</h2>
+<h3>Religious gatherings</3>
 
 <ul>
 <li><b>By the river Tigris: Hanukah in Duhok</b> — 2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/'>Facebook (private)</a></li>
