@@ -64,7 +64,7 @@
 
 <h1>Foundation of Ours</h1>
 
-<div id='foundation-section'>>
+<div id='foundation-section'>
 
 <h2>Mission</h2>
 
@@ -80,29 +80,6 @@
 <li>Establish (then maintain) a <b>home for the Torah</b>.</li>
 <li>Provide <b>kosher living</b> including a kitchen, café, lodging, and logistics.</li></ol>
 
-<h2>Upcoming Foundation events</h2>
-
-<ul>
-<li><b>Community Passover in Duhok</b> — TBD. <a href='https://www.facebook.com/events/598057584101194/'>Facebook</a></li>	
-<li><b>Community Passover in Sulaymaniyah</b> — TBD. <a href='https://www.facebook.com/events/3494985447222465/'>Facebook</a></li>	
-<li><b>Community Passover in Erbil</b> — TBD. <a href='https://www.facebook.com/events/827811324346871/'>Facebook</a></li>	
-</ul>
-
-<h2>Past Foundation events</h2>
-
-<ul>
-<li><b>By the river Tigris: Hanukah in Duhok</b> — 2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/'>Facebook (private)</a></li>
-<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b> — 2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/'>Facebook (private)</a></li>
-<li><b>Passover + Shabbat + Erbil</b> — 2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/'>Facebook (private)</a></li>
-<li><b>Chanukah!</b> — 2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/'>Facebook (private)</a></li>
-<li><b>Passover + Shabbat <3 Erbil</b> — 2018 Mar 30, Erbil. <a href='https://www.facebook.com/events/195954320996356/'>Facebook (private)</a></li>
-<li><b>Chanukah + Shabbat</b> — 2017 Dec 15, Erbil. <a href='https://www.facebook.com/events/1762566897096564/'>Facebook (private)</a></li>
-<li><b>Passover in Erbil</b> — 2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/'>Facebook (private)</a></li>
-<li><b>Pêseh le Hewlêr || Passover in Erbil</b> — 2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/'>Facebook (private)</a></li>
-</ul>
-
-</div>
-
 <div id='museum-section'>
 
 <h2>Museum of Ours</h2>
@@ -111,6 +88,10 @@
 
 <p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>Facebook</a>!</p>
 	
+</div>
+	
+<div id='calendar-section'>
+
 <h2>Upcoming Museum events</h2>
 
 <ul>
@@ -119,6 +100,14 @@
 <li><b>Event on Kurdish Islamic history</b> — TBD.</li>
 <li><b>Event on Assyro-Christian history</b> — TBD.</li>
 <li><b>Event on Jewish history</b> — TBD.</li>
+</ul>
+	
+<h2>Upcoming Foundation events</h2>
+
+<ul>
+<li><b>Community Passover in Duhok</b> — TBD. <a href='https://www.facebook.com/events/598057584101194/'>Facebook</a></li>	
+<li><b>Community Passover in Sulaymaniyah</b> — TBD. <a href='https://www.facebook.com/events/3494985447222465/'>Facebook</a></li>	
+<li><b>Community Passover in Erbil</b> — TBD. <a href='https://www.facebook.com/events/827811324346871/'>Facebook</a></li>	
 </ul>
 
 <h2>Past Museum events</h2>
@@ -135,6 +124,19 @@
 <li><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b> —  2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/'>Facebook</a></li>
 <li><b>Coffee, objects, and a combined history of Erbil</b> —  2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/'>Facebook</a></li>
 <li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>Facebook</a></li>
+</ul>
+
+<h2>Past Foundation events</h2>
+
+<ul>
+<li><b>By the river Tigris: Hanukah in Duhok</b> — 2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/'>Facebook (private)</a></li>
+<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b> — 2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/'>Facebook (private)</a></li>
+<li><b>Passover + Shabbat + Erbil</b> — 2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/'>Facebook (private)</a></li>
+<li><b>Chanukah!</b> — 2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/'>Facebook (private)</a></li>
+<li><b>Passover + Shabbat <3 Erbil</b> — 2018 Mar 30, Erbil. <a href='https://www.facebook.com/events/195954320996356/'>Facebook (private)</a></li>
+<li><b>Chanukah + Shabbat</b> — 2017 Dec 15, Erbil. <a href='https://www.facebook.com/events/1762566897096564/'>Facebook (private)</a></li>
+<li><b>Passover in Erbil</b> — 2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/'>Facebook (private)</a></li>
+<li><b>Pêseh le Hewlêr || Passover in Erbil</b> — 2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/'>Facebook (private)</a></li>
 </ul>
 
 </div>
