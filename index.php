@@ -107,7 +107,7 @@
 
 <ol><li>Establish (then maintain) the <b>Museum of Ours</b>.</li>
 <li>Establish (then maintain) a <b>home for the Torah</b>.</li>
-<li>Provide <b>kosher living</b> including a kitchen, café, lodging, and logistics.</li></ol>
+<li>Provide <b>kosher living</b> including dining, lodging, and logistics.</li></ol>
 
 <div id='museum-section'>
 
