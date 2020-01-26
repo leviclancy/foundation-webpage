@@ -101,7 +101,7 @@
 
 <p>Museum of Ours works in Erbil and the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
-<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>Facebook</a>!</p>
+<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/'>RSVP</a>!</p>
 	
 </div>
 	
@@ -122,9 +122,9 @@
 <h3>Religious gatherings</3>
 
 <ul>
-<li><b>Community Passover in Duhok</b> — TBD. <a href='https://www.facebook.com/events/598057584101194/'>Facebook</a></li>	
-<li><b>Community Passover in Sulaymaniyah</b> — TBD. <a href='https://www.facebook.com/events/3494985447222465/'>Facebook</a></li>	
-<li><b>Community Passover in Erbil</b> — TBD. <a href='https://www.facebook.com/events/827811324346871/'>Facebook</a></li>	
+<li><b>Community Passover in Duhok</b> — TBD. <a href='https://www.facebook.com/events/598057584101194/'>RSVP</a></li>	
+<li><b>Community Passover in Sulaymaniyah</b> — TBD. <a href='https://www.facebook.com/events/3494985447222465/'>RSVP</a></li>	
+<li><b>Community Passover in Erbil</b> — TBD. <a href='https://www.facebook.com/events/827811324346871/'>RSVP</a></li>	
 </ul>
 
 <h2>Past events</h2>
@@ -132,30 +132,30 @@
 <h3>Museum of Ours</3>
 
 <ul>
-<li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b> —  2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/'>Facebook</a></li>
-<li><b>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi</b> —  2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/'>Facebook</a></li>
-<li><b>Churches of Mesopotamia: Syriac, Chaldean, and Assyrian</b> —  2019 Dec 16, Book Café, Erbil. <a href='https://www.facebook.com/events/403693916994295/'>Facebook</a></li>
-<li><b>Multiculturalism and Reconciliation and the Jewish Community</b> —  2019 Dec 08, American Corner, Duhok. <a href='https://www.facebook.com/events/814166239004509/'>Facebook</a></li>
-<li><b>By the Rivers of Babylon: The Jews of Erbil and Mesopotamia</b> —  2019 Nov 12, American Corner, Erbil. <a href='https://www.facebook.com/events/517628888793532/'>Facebook</a></li>
-<li><b>Abrahamic: On Jews, Judaism, and Being Jewish</b> —  2019 Nov 09, Book Café, Erbil. <a href='https://www.facebook.com/events/541946113227550/'>Facebook</a></li>
-<li><b>Around each corner: Walking tour of Erbil's ancient lower city</b> —  2019 Nov 02, Erbil. <a href='https://www.facebook.com/events/2435048943483136/'>Facebook</a></li>
-<li><b>10,000 BC to Today: A Combined History of Erbil</b> —  2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/'>Facebook</a></li>
-<li><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b> —  2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/'>Facebook (private)</a></li>
-<li><b>Coffee, objects, and a combined history of Erbil</b> —  2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/'>Facebook (private)</a></li>
-<li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>Facebook (private)</a></li>
+<li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b> —  2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/'>RSVP</a></li>
+<li><b>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi</b> —  2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/'>RSVP</a></li>
+<li><b>Churches of Mesopotamia: Syriac, Chaldean, and Assyrian</b> —  2019 Dec 16, Book Café, Erbil. <a href='https://www.facebook.com/events/403693916994295/'>RSVP</a></li>
+<li><b>Multiculturalism and Reconciliation and the Jewish Community</b> —  2019 Dec 08, American Corner, Duhok. <a href='https://www.facebook.com/events/814166239004509/'>RSVP</a></li>
+<li><b>By the Rivers of Babylon: The Jews of Erbil and Mesopotamia</b> —  2019 Nov 12, American Corner, Erbil. <a href='https://www.facebook.com/events/517628888793532/'>RSVP</a></li>
+<li><b>Abrahamic: On Jews, Judaism, and Being Jewish</b> —  2019 Nov 09, Book Café, Erbil. <a href='https://www.facebook.com/events/541946113227550/'>RSVP</a></li>
+<li><b>Around each corner: Walking tour of Erbil's ancient lower city</b> —  2019 Nov 02, Erbil. <a href='https://www.facebook.com/events/2435048943483136/'>RSVP</a></li>
+<li><b>10,000 BC to Today: A Combined History of Erbil</b> —  2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/'>RSVP</a></li>
+<li><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b> —  2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/'>RSVP (private)</a></li>
+<li><b>Coffee, objects, and a combined history of Erbil</b> —  2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/'>RSVP (private)</a></li>
+<li><b>Tour and lunch at the Erbil Civilization Museum!</b> —  2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/'>RSVP (private)</a></li>
 </ul>
 
 <h3>Religious gatherings</3>
 
 <ul>
-<li><b>By the river Tigris: Hanukah in Duhok</b> — 2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/'>Facebook (private)</a></li>
-<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b> — 2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/'>Facebook (private)</a></li>
-<li><b>Passover + Shabbat + Erbil</b> — 2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/'>Facebook (private)</a></li>
-<li><b>Chanukah!</b> — 2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/'>Facebook (private)</a></li>
-<li><b>Passover + Shabbat <3 Erbil</b> — 2018 Mar 30, Erbil. <a href='https://www.facebook.com/events/195954320996356/'>Facebook (private)</a></li>
-<li><b>Chanukah + Shabbat</b> — 2017 Dec 15, Erbil. <a href='https://www.facebook.com/events/1762566897096564/'>Facebook (private)</a></li>
-<li><b>Passover in Erbil</b> — 2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/'>Facebook (private)</a></li>
-<li><b>Pêseh le Hewlêr || Passover in Erbil</b> — 2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/'>Facebook (private)</a></li>
+<li><b>By the river Tigris: Hanukah in Duhok</b> — 2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/'>RSVP (private)</a></li>
+<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b> — 2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/'>RSVP (private)</a></li>
+<li><b>Passover + Shabbat + Erbil</b> — 2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/'>RSVP (private)</a></li>
+<li><b>Chanukah!</b> — 2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/'>RSVP (private)</a></li>
+<li><b>Passover + Shabbat <3 Erbil</b> — 2018 Mar 30, Erbil. <a href='https://www.facebook.com/events/195954320996356/'>RSVP (private)</a></li>
+<li><b>Chanukah + Shabbat</b> — 2017 Dec 15, Erbil. <a href='https://www.facebook.com/events/1762566897096564/'>RSVP (private)</a></li>
+<li><b>Passover in Erbil</b> — 2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/'>RSVP (private)</a></li>
+<li><b>Pêseh le Hewlêr || Passover in Erbil</b> — 2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/'>RSVP (private)</a></li>
 </ul>
 
 </div>
