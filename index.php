@@ -11,17 +11,18 @@
 	body {
 		margin: 0;
 		padding: 0;
+		font-family: Times;
+		font-size: 15px;
+		line-height: 25px;
 		}
 	
-	h1, h2, h3, p, ul, ol {
+	h1, h2, h3, p, ul, ol, li {
 		display: block;
 		max-width: 800px;
 		margin: 30px auto;
-
-	h1, h2, h3, p, ul, ol, li {
-		font-family: 'Times New Roman';
-		font-size: 18px;
-		line-height: 25px;
+		font-family: inherit;
+		font-size: inherit;
+		line-height: inherit;
 		text-align: left;
 		}
 	
