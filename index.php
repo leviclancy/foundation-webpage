@@ -70,6 +70,7 @@
 		}
 	
 	ul li a {
+		color: inherit;
 		padding: 0 15px;
 		opacity: 0.7;
 		text-decoration: none;
