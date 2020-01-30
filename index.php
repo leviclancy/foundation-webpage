@@ -49,26 +49,26 @@
 		}
 	
 	ol {
-		list-style-type: lower-roman;
+		list-style-type: none;
 		}
 	
 	li {
 		list-style-position: inside;
 		text-align: center;
-		margin: 10px 0;
+		margin: 20px 0;
 		}
 	
-	li b {
+	ul li b {
 		display: block;
 		}
 	
-	li span {
+	ul li span {
 		font-style: italic;
 		display: block;
 		font-size: 90%;
 		}
 	
-	li a {
+	ul li a {
 		padding: 0 15px;
 		color: rgba(50,50,50,0.8);
 		text-decoration: none;
@@ -126,7 +126,7 @@
 
 <ol><li>Establish (then maintain) the <b>Museum of Ours</b>.</li>
 <li>Establish (then maintain) a <b>home for the Torah</b>.</li>
-<li>Provide <b>kosher living</b> including dining, lodging, and logistics.</li></ol>
+<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ol>
 
 </div>
 	
