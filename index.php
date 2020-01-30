@@ -55,7 +55,7 @@
 	li {
 		list-style-position: inside;
 		text-align: center;
-		margin: 20px 0;
+		margin: 23px 0;
 		}
 	
 	ul li b {
@@ -65,12 +65,13 @@
 	ul li span {
 		font-style: italic;
 		display: block;
-		font-size: 90%;
+		font-size: 85%;
+		opacity: 0.9;
 		}
 	
 	ul li a {
 		padding: 0 15px;
-		color: rgba(50,50,50,0.8);
+		opacity: 0.7;
 		text-decoration: none;
 		font-style: normal;
 		}
