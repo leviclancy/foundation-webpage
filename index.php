@@ -55,7 +55,7 @@
 	li {
 		list-style-position: inside;
 		text-align: center;
-		margin: 5px 0;
+		margin: 10px 0;
 		}
 	
 	li b {
@@ -69,11 +69,7 @@
 		}
 	
 	li a {
-		font-size: 90%;
-		padding: 5px 15px;
-		margin: 0 0 0 5px;
-		background: rgba(255,255,255,0.3);
-		border-radius: 100px;
+		padding: 0 15px;
 		color: rgba(50,50,50,0.8);
 		text-decoration: none;
 		font-style: normal;
