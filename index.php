@@ -125,8 +125,8 @@
 
 <h2>Our Goals</h2>
 
-<ol><li>Establish (then maintain) the <b>Museum of Ours</b>.</li>
-<li>Establish (then maintain) a <b>home for the Torah</b>.</li>
+<ol><li>Establish and maintain the <b>Museum of Ours</b>.</li>
+<li>Establish and maintain a <b>home for the Torah</b>.</li>
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ol>
 
 </div>
