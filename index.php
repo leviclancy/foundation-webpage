@@ -63,7 +63,7 @@
 		}
 	
 	ul li span {
-		font-style: italic;
+		font-style: normal;
 		display: block;
 		font-size: 85%;
 		opacity: 0.9;
