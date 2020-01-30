@@ -55,7 +55,7 @@
 	li {
 		list-style-position: inside;
 		text-align: center;
-		margin: 23px 0;
+		margin: 0 0 45px;
 		}
 	
 	ul li b {
