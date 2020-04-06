@@ -154,10 +154,13 @@
 
 <ul>
 
-<li><b>Speaking engagement</b>
-<span>TBD.</span></li>
+<li><b>Ongoing collecting.</b>
+<span>During the coronavirus crisis, acquisitions are still ongoing.</span></li>
 	
-<li><b>Popup Exhibit: Combined History of Water</b>
+<!-- <li><b>Event name.</b>
+<span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
+
+<!-- <li><b>Popup Exhibit: Combined History of Water</b>
 <span>2020 Mar 29 - Apr 2, Book Cafe at Family Mall, Erbil. <a href='https://www.facebook.com/events/872042599897214/' target='_blank'>RSVP</a></span></li>
 
 <li><b>Eloquent Universe of Lalish</b>
@@ -170,7 +173,7 @@
 <span>TBD.</span></li>
 
 <li><b>Event on Jewish history</b>
-<span>TBD.</span></li>
+<span>TBD.</span></li> -->
 
 </ul>
 
@@ -178,14 +181,11 @@
 
 <ul>
 
-<li><b>Community Passover in Duhok</b>
-<span>TBD. <a href='https://www.facebook.com/events/598057584101194/' target='_blank'>RSVP</a></span></li>	
+<li><b>Currently on hold.</b>
+<span>Although we are moving toward our goal of acquiring land, all religious gatherings are on hold.</span></li>
 
-<li><b>Community Passover in Sulaymaniyah</b>
-<span>TBD. <a href='https://www.facebook.com/events/3494985447222465/' target='_blank'>RSVP</a></span></li>	
-
-<li><b>Community Passover in Erbil</b>
-<span>TBD. <a href='https://www.facebook.com/events/827811324346871/' target='_blank'>RSVP</a></span></li>	
+<!-- <li><b>Event name.</b>
+<span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
 
 </ul>
 
