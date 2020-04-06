@@ -182,7 +182,7 @@
 <ul>
 
 <li><b>Currently on hold.</b>
-<span>Although we are moving toward our goal of acquiring land, all religious gatherings are on hold.</span></li>
+<span>Although we are moving toward our goal of acquiring land, all religious gatherings are on hold due to the coronavirus crisis.</span></li>
 
 <!-- <li><b>Event name.</b>
 <span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
