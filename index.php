@@ -93,13 +93,16 @@
 	
 	#home-section {
 		width: 100%;
-		background: linear-gradient(217deg, rgba(110,150,120,1), rgba(70,170,90,0) 70%), linear-gradient(127deg, rgba(220,220,220,1), rgba(30,130,50,1) 70%);
-		color: #000;
+		background: linear-gradient(225deg, rgba(10,120,180,.9), rgba(150,180,190,.5) 70%), linear-gradient(135deg, rgba(25,130,220,1), rgba(30,130,50,.7) 70%);
+		color: #fff;
 		padding: 100px 0;
 		}
 
 	#kosher-section {
-		
+		width: 100%;
+		background: linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(250,10,10,1), rgba(210,120,120,.7) 70%);
+		color: #fff;
+		padding: 100px 0;
 		}
 	
 	#current-news-section {
