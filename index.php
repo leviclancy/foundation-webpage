@@ -24,7 +24,7 @@
 	h1, h2, h3, p, ul, ol {
 		display: block;
 		max-width: 700px;
-		margin: 30px auto;
+		margin: 20px auto;
 		padding: 20px;
 		text-align: left;
 		}
@@ -33,7 +33,7 @@
 		text-align: left;
 		font-size: 170%;
 		font-weight: 700;
-		padding: 40px 30px 30px;
+		padding: 40px 20px 30px;
 		}		
 	
 	h2, h3 {
@@ -41,7 +41,7 @@
 		font-size: 130%;
 		font-weight: 700;
 		font-style: italic;
-		padding: 40px 30px 0;
+		padding: 40px 20px 0;
 		}
 	
 	ul {
