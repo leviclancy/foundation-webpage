@@ -146,19 +146,18 @@
 
 <h2> Objectives for 2020 for the Foundation overall</h2>
 	
-	Incorporate as a religious nonprofit in the United States, and the Kurdistan Region.
-Establish bylaws.
-Recruit board members.
-Incorporate in Maine and Erbil.
-Consolidate a local network of heritage professionals and enthusiasts.
-Foster a sense of community.
-Engage them with the mission statement,
-Establish an online and media-friendly presence for the Foundation
-Distribute press releases for events and milestones.
-Improve functionality of the research database.
-Begin fundraising.
+<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region.
+	<ul><li>Establish bylaws.</li>
+	<li>Recruit board members.</li>
+	<li>Incorporate in Maine and Erbil.</li></ul></li>
+<li>Consolidate a local network of heritage professionals and enthusiasts.
+	<ul><li>Foster a sense of community.</li>
+	<li>Engage them with the mission statement.</li></ul></li>
+<li>Establish an online and media-friendly presence for the Foundation.
+	<ul><li>Distribute press releases for events and milestones.</li>
+	<li>Improve functionality of the research database.</li></ul></li>
+<li>Begin fundraising.</li></ul>
 
-	
 </div>
 	
 <div id='museum-section'>
