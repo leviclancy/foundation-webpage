@@ -33,19 +33,21 @@
 		text-align: left;
 		font-size: 170%;
 		font-weight: 700;
+		font-style: normal;
 		padding: 40px 20px 30px;
 		}		
 	
 	h2, h3 {
 		text-align: left;
 		font-size: 130%;
-		font-weight: 700;
+		font-weight: 400;
 		font-style: italic;
 		padding: 40px 20px 0;
 		}
 	
 	ul {
 		list-style-type: disc;
+		
 		}
 	
 	ol {
