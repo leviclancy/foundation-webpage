@@ -45,16 +45,16 @@
 		}
 	
 	ul {
-		list-style-type: none;
+		list-style-type: disc;
 		}
 	
 	ol {
-		list-style-type: none;
+		list-style-type: lower-roman;
 		}
 	
 	li {
 		list-style-position: inside;
-		text-align: center;
+		text-align: left;
 		margin: 0 0 45px;
 		}
 	
@@ -122,7 +122,7 @@
 
 <p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
-<p><i>Vision</i> — We envision a more cohesive society in the Kurdistan Region, with better awareness of combined and reconciliatory historical narratives and greater tolerance for minorities including a Jewish presence.</p>
+<p><i>Vision</i> — We envision a Jewish presence, more cohesive society in the Kurdistan Region, greater tolerance for all minorities, and better awareness of combined and reconciliatory histories.</p>
 
 <h2>Our Goals</h2>
 
@@ -130,6 +130,21 @@
 <li>Establish and maintain a <b>home for the Torah</b>.</li>
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ol>
 
+<h2> Objectives for 2020 for the Foundation overall</h2>
+	
+	Incorporate as a religious nonprofit in the United States, and the Kurdistan Region.
+Establish bylaws.
+Recruit board members.
+Incorporate in Maine and Erbil.
+Consolidate a local network of heritage professionals and enthusiasts.
+Foster a sense of community.
+Engage them with the mission statement,
+Establish an online and media-friendly presence for the Foundation
+Distribute press releases for events and milestones.
+Improve functionality of the research database.
+Begin fundraising.
+
+	
 </div>
 	
 <div id='museum-section'>
@@ -138,14 +153,102 @@
 
 <p><i>Mission statement</i> — Museum of Ours is based in Erbil and operates in the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
+<p>The Museum is equipped with its own mission statement and objectives and its own public brand and social media channels. However, the Museum is a goal of the Foundation and as such,
+must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, the Museum
+is not a separate legal entity from the Foundation and does not have authority separate from nor over the Foundation.</p>
+
 <p>Stay in the loop via the Museum's <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>.</p>
 
+<h2>Our specialized approach</h2>
+
+<ul><li>Ongoing research, but little or no institutional support.
+	<ul><li>Identifying key demographics and their leaders.</li>
+	<li>Listen to and record testimonies.</li>
+	<li>Information is interpreted.</li>
+	<li>Awareness events are iteratively developed.</li>
+	<li>The goal is in-depth and highly granular information collected over decades.</li></ul>
+	</li>
+<li>Strong events, with solid momentum.
+	<ul><li>Public and semi-public events help to improve content.</li>
+	<li>Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</li>
+	<li>Most events are seminar-oriented, but some are object-oriented exhibitions.</li>
+	<li>Reconciliation is an objective</li></ul>
+	</li>
+<li>Many acquisitions, but no permanent space.
+	<ul><li>The Museum has hundreds of objects.</li>
+	<li>Focus is on the concepts of reconciliation and repatriation.</li>
+	<li>Objects must have “social lives” that improve the world around them.</li></ul>
+	</li>
+<li>Large amounts of multimedia, with widespread distribution.
+	<ul><li>Over 8,000 photos have been uploaded to Wikimedia.</li>
+	<li>These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li>
+	<li>Some videos have also been produced.</li></ul>
+	</li>
+	</ul>
+
+<h2>Objectives for 2020 toward the Museum</h2>
+
+<ul><li>Maintain a year-round calendar of events at universities, cafes, and museums.
+	<ul><li>Focus is on Erbil, Duhok, and Sulaymaniyah.</li>
+	<li>Raise awareness through press releases.</li>
+	<li>Pursue media coverage of events.</li></ul>
+	</li>
+<li>Identify and publicize local heritage institutions’ short-term needs.
+	<ul><li>Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li></ul>
+	</li>
+<li>Digitize the entire collection of objects acquired so far.
+	<ul><li>Raise awareness with publication of materials produced via digitization.</li></ul>
+	</li>
+<li>Reach 10,000 published photos on Wikimedia.</li></ul>
+	
+<h2>In the future: a paradise for mind, body, and soul</h2>
+	
+<ul><li>The goals all envision a physical space to headquarter the Foundation.</li>
+<li>There is secular wing of the space including,
+	<ul><li>Exhibition galleries, study room, and archive/storage.</li>
+	<li>Community area with refreshments.</li>
+	<li>Semi-enclosed portico with booth for quiet study, studio work, meetings</li>
+	<li>Staging area for music performances, as music fosters interest and common ground.</li>
+	<li>Lodging for employees</li></ul>
+	</li>
+<li>There is also a non-secular wing with special oversight over halakha,
+	<ul><li>Kosher kitchen with a daily café</li>
+	<li>Home for the Torah</li>
+	<li>Guest accommodations that follow halakha</li></ul>
+	</li>
+<li>Central courtyard with eco-friendly planting and irrigation</li>
+<li>Built to last for hundreds of years</li></ul>
+	
 <h2>Research database</h2>
 
 <p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>.</p>
 
 </div>
+	
+<div id='home-section'>
+	
+<h2>Objectives for 2020 toward a home for the Torah</h2>
 
+<ul><li>Recruit rabbis to advise on what is needed to have a home for the Torah, and prepare a series of objectives based on this advice.</li>
+<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
+	
+</div>
+	
+<div id='kosher-section'>
+	
+<h2>Objectives for 2020 toward kosher living</h2>
+
+<ul><li>Recruit rabbis to advise on what is needed for a café and guesthouse to be kosher.
+	<ul><li>Prepare a prioritized list of these needs.</li>
+	<li>Cross-check with potential visitors about their priorities, e.g. particular brands.</li></ul>
+	</li>
+<li>Begin to import necessary items based on the prioritized list.</li>
+<li>Identify a process for sponsoring visas for pilgrims to the Kurdistan Region.
+	<ul><li>Look at hurdles in the Kurdistan Region government.</li>
+	<li>Look at hurdles in non-KR governments.</li></ul>
+	</li>
+	</ul>
+	
 <div id='current-news-section'>
 
 <h2>Current news</h2>
