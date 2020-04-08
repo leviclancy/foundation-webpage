@@ -17,6 +17,10 @@
 		background: rgba(255,255,255,1);
 		}
 	
+	a	{
+		color: inherit;
+		}
+	
 	h1, h2, h3, p, ul, ol {
 		display: block;
 		max-width: 700px;
@@ -139,26 +143,37 @@
 
 <p><i>Vision</i> — We envision a Jewish presence, more cohesive society in the Kurdistan Region, greater tolerance for all minorities, and better awareness of combined and reconciliatory histories.</p>
 
-<h2>Our Goals</h2>
+<h2>Our goals</h2>
 
 <ul><li>Establish and maintain the <b>Museum of Ours</b>.</li>
 <li>Establish and maintain a <b>home for the Torah</b>.</li>
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
 
-<h2> Objectives for 2020 for the Foundation overall</h2>
+<h2>Objectives for 2020 for the Foundation overall</h2>
 	
-<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region.
-	<ul><li>Establish bylaws.</li>
-	<li>Recruit board members.</li>
-	<li>Incorporate in Maine and Erbil.</li></ul></li>
-<li>Consolidate a local network of heritage professionals and enthusiasts.
-	<ul><li>Foster a sense of community.</li>
-	<li>Engage them with the mission statement.</li></ul></li>
-<li>Establish an online and media-friendly presence for the Foundation.
-	<ul><li>Distribute press releases for events and milestones.</li>
-	<li>Improve functionality of the research database.</li></ul></li>
+<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
+<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
+<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li>
 <li>Begin fundraising.</li></ul>
-
+	
+<h2>In the future: a paradise for mind, body, and soul</h2>
+	
+<ul><li>The goals all envision a physical space to headquarter the Foundation.</li>
+<li>There is secular wing of the space including:
+	<ul><li>exhibition galleries, study room, and archive/storage;</li>
+	<li>community area with refreshments;</li>
+	<li>semi-enclosed portico with booth for quiet study, studio work, meetings;</li>
+	<li>staging area for music performances, as music fosters interest and common ground;</li>
+	<li>and lodging for employees.</li></ul>
+	</li>
+<li>There is also a non-secular wing with special oversight over halakha:
+	<ul><li>kosher kitchen with a daily café;</li>
+	<li>home for the Torah;</li>
+	<li>guest accommodations that follow halakha.</li></ul>
+	</li>
+<li>Central courtyard with eco-friendly planting and irrigation.</li>
+<li>Built to last for hundreds of years.</li></ul>
+	
 </div>
 	
 <div id='museum-section'>
@@ -175,64 +190,19 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <h2>Our specialized approach</h2>
 
-<ul><li>Ongoing research, but little or no institutional support.
-	<ul><li>Identifying key demographics and their leaders.</li>
-	<li>Listen to and record testimonies.</li>
-	<li>Information is interpreted.</li>
-	<li>Awareness events are iteratively developed.</li>
-	<li>The goal is in-depth and highly granular information collected over decades.</li></ul>
-	</li>
-<li>Strong events, with solid momentum.
-	<ul><li>Public and semi-public events help to improve content.</li>
-	<li>Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</li>
-	<li>Most events are seminar-oriented, but some are object-oriented exhibitions.</li>
-	<li>Reconciliation is an objective</li></ul>
-	</li>
-<li>Many acquisitions, but no permanent space.
-	<ul><li>The Museum has hundreds of objects.</li>
-	<li>Focus is on the concepts of reconciliation and repatriation.</li>
-	<li>Objects must have “social lives” that improve the world around them.</li></ul>
-	</li>
-<li>Large amounts of multimedia, with widespread distribution.
-	<ul><li>Over 8,000 photos have been uploaded to Wikimedia.</li>
-	<li>These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li>
-	<li>Some videos have also been produced.</li></ul>
-	</li>
-	</ul>
+<ul><li><b>Ongoing research, but little or no institutional support yet.</b> This requires identifying key demographics and their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</li>
+<li><b>Strong events, with solid momentum.</b> This requires regularly organizing public, semi-public, and totally digital events. Feedback is used to help improve events. Most events are two-hour discussion-oriented seminars, but some are multi-day object-oriented exhibitions. Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</li>
+<li><b>Many acquisitions, but no permanent space yet.</b> This requires ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them.</li>
+<li><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li></ul>
 
 <h2>Objectives for 2020 toward the Museum</h2>
 
-<ul><li>Maintain a year-round calendar of events at universities, cafes, and museums.
-	<ul><li>Focus is on Erbil, Duhok, and Sulaymaniyah.</li>
-	<li>Raise awareness through press releases.</li>
-	<li>Pursue media coverage of events.</li></ul>
-	</li>
-<li>Identify and publicize local heritage institutions’ short-term needs.
-	<ul><li>Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li></ul>
-	</li>
-<li>Digitize the entire collection of objects acquired so far.
-	<ul><li>Raise awareness with publication of materials produced via digitization.</li></ul>
-	</li>
+<ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
+<li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
+<li>Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</li></ul>
+
 <li>Reach 10,000 published photos on Wikimedia.</li></ul>
-	
-<h2>In the future: a paradise for mind, body, and soul</h2>
-	
-<ul><li>The goals all envision a physical space to headquarter the Foundation.</li>
-<li>There is secular wing of the space including,
-	<ul><li>Exhibition galleries, study room, and archive/storage.</li>
-	<li>Community area with refreshments.</li>
-	<li>Semi-enclosed portico with booth for quiet study, studio work, meetings</li>
-	<li>Staging area for music performances, as music fosters interest and common ground.</li>
-	<li>Lodging for employees</li></ul>
-	</li>
-<li>There is also a non-secular wing with special oversight over halakha,
-	<ul><li>Kosher kitchen with a daily café</li>
-	<li>Home for the Torah</li>
-	<li>Guest accommodations that follow halakha</li></ul>
-	</li>
-<li>Central courtyard with eco-friendly planting and irrigation</li>
-<li>Built to last for hundreds of years</li></ul>
-	
+
 <h2>Research database</h2>
 
 <p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>.</p>
@@ -243,7 +213,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <h2>Objectives for 2020 toward a home for the Torah</h2>
 
-<ul><li>Recruit rabbis to advise on what is needed to have a home for the Torah, and prepare a series of objectives based on this advice.</li>
+<ul><li>Recruit Rabbis to advise on what is needed to have a home for the Torah, and prepare a series of objectives based on this advice.</li>
 <li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
 	
 </div>
@@ -252,16 +222,15 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <h2>Objectives for 2020 toward kosher living</h2>
 
-<ul><li>Recruit rabbis to advise on what is needed for a café and guesthouse to be kosher.
-	<ul><li>Prepare a prioritized list of these needs.</li>
-	<li>Cross-check with potential visitors about their priorities, e.g. particular brands.</li></ul>
+<ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
+	<ul><li>prepare a prioritized list of these needs;</li>
+	<li>and cross-check with potential visitors about their expectations.</li></ul>
 	</li>
 <li>Begin to import necessary items based on the prioritized list.</li>
-<li>Identify a process for sponsoring visas for pilgrims to the Kurdistan Region.
-	<ul><li>Look at hurdles in the Kurdistan Region government.</li>
-	<li>Look at hurdles in non-KR governments.</li></ul>
-	</li>
-	</ul>
+<li>Identify a process for sponsoring visas for pilgrims to the Kurdistan Region:
+	<ul><li>look at hurdles in the Kurdistan Region government;</li>
+	<li>and look at hurdles in non-KR governments.</li></ul>
+	</li></ul>
 	
 </div>
 	
