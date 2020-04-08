@@ -28,24 +28,20 @@
 		padding: 20px;
 		text-align: left;
 		}
+
+	h1:first-child, h2:first-child {
+		text-align: left;
+		font-size: 150%;
+		font-weight: 700;
+		padding: 30px;
+		}		
 	
-	h1 {
-		text-align: center;
-		font-size: 200%;
-		}
-	
-	h2 {
-		text-align: center;
-		font-size: 160%;
-		font-weight: 400;
+	h2, h3 {
+		text-align: left;
+		font-size: 130%;
+		font-weight: 700;
 		font-style: italic;
 		padding: 30px;
-		}
-
-	h3 {
-		text-align: center;
-		font-size: 130%;
-		font-weight: 400;
 		}
 	
 	ul {
@@ -135,9 +131,9 @@
 </head>
 <body>
 
-<h1>Foundation of Ours</h1>
-
 <div id='foundation-section'>
+	
+<h1>Foundation of Ours</h1>
 
 <p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
@@ -188,30 +184,31 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <p>Stay in the loop via the Museum's <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>.</p>
 
-<h2>Our specialized approach</h2>
+<h3>Our specialized approach</h3>
 
-<ul><li><b>Ongoing research, but little or no institutional support yet.</b> This requires identifying key demographics and their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</li>
+<ul><li><b>Ongoing research, but little or no institutional support yet.</b> This requires identifying key demographics, contacting their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</li>
 <li><b>Strong events, with solid momentum.</b> This requires regularly organizing public, semi-public, and totally digital events. Feedback is used to help improve events. Most events are two-hour discussion-oriented seminars, but some are multi-day object-oriented exhibitions. Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</li>
 <li><b>Many acquisitions, but no permanent space yet.</b> This requires ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them.</li>
 <li><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li></ul>
 
-<h2>Objectives for 2020 toward the Museum</h2>
+<h3>Objectives for 2020 toward the Museum</h3>
 
 <ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
 <li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
-<li>Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</li></ul>
-
+<li>Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</li>
 <li>Reach 10,000 published photos on Wikimedia.</li></ul>
 
-<h2>Research database</h2>
+<h3>Research database</h3>
 
 <p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>.</p>
 
 </div>
 	
 <div id='home-section'>
-	
-<h2>Objectives for 2020 toward a home for the Torah</h2>
+
+<h2>Home for the Torah</h2>
+
+<h3>Objectives for 2020 toward a home for the Torah</h3>
 
 <ul><li>Recruit Rabbis to advise on what is needed to have a home for the Torah, and prepare a series of objectives based on this advice.</li>
 <li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
@@ -220,7 +217,9 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <div id='kosher-section'>
 	
-<h2>Objectives for 2020 toward kosher living</h2>
+<h2>Kosher services</h2>	
+
+<h3>Objectives for 2020 toward kosher services</h3>
 
 <ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
 	<ul><li>prepare a prioritized list of these needs;</li>
