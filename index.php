@@ -93,7 +93,7 @@
 	
 	#home-section {
 		width: 100%;
-		background: linear-gradient(217deg, rgba(70,170,90,1), rgba(70,170,90,0) 70%), linear-gradient(127deg, rgba(220,220,220,1), rgba(50,140,70,1) 70%);
+		background: linear-gradient(217deg, rgba(110,150,120,1), rgba(70,170,90,0) 70%), linear-gradient(127deg, rgba(220,220,220,1), rgba(30,130,50,1) 70%);
 		color: #000;
 		padding: 100px 0;
 		}
