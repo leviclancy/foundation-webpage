@@ -29,9 +29,9 @@
 		text-align: left;
 		}
 
-	h1:first-child, h2:first-child {
+	h1, h2:first-child {
 		text-align: left;
-		font-size: 150%;
+		font-size: 170%;
 		font-weight: 700;
 		padding: 40px 30px 30px;
 		}		
