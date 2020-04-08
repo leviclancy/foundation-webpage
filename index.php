@@ -45,23 +45,25 @@
 		}
 	
 	ul {
-		list-style-type: disc;
+		list-style-type: none;
 		}
 	
 	ol {
-		list-style-type: lower-roman;
+		list-style-type: disc;
 		}
 	
 	li {
 		list-style-position: inside;
 		text-align: left;
-		margin: 0 0 45px;
+		margin: 0 0 15px;
 		}
 	
+	/* For list of news */
 	ul li b {
 		display: block;
 		}
 	
+	/* For list of news */
 	ul li span {
 		font-style: normal;
 		display: block;
@@ -140,9 +142,9 @@
 
 <h2>Our Goals</h2>
 
-<ol><li>Establish and maintain the <b>Museum of Ours</b>.</li>
+<ul><li>Establish and maintain the <b>Museum of Ours</b>.</li>
 <li>Establish and maintain a <b>home for the Torah</b>.</li>
-<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ol>
+<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
 
 <h2> Objectives for 2020 for the Foundation overall</h2>
 	
@@ -270,7 +272,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <h3>Museum of Ours</h3>
 
-<ul>
+<ol>
 
 <li><b>Ongoing collecting.</b>
 <span>During the coronavirus crisis, acquisitions are still ongoing.</span></li>
@@ -293,11 +295,11 @@ is not a separate legal entity from the Foundation and does not have authority s
 <li><b>Event on Jewish history</b>
 <span>TBD.</span></li> -->
 
-</ul>
+</ol>
 
 <h3>Religious gatherings</h3>
 
-<ul>
+<ol>
 
 <li><b>Currently on hold.</b>
 <span>Although we are moving toward our goal of acquiring land, all religious gatherings are on hold due to the coronavirus crisis.</span></li>
@@ -305,7 +307,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 <!-- <li><b>Event name.</b>
 <span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
 
-</ul>
+</ol>
 
 </div>
 	
@@ -315,7 +317,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <h3>Museum of Ours</h3>
 
-<ul>
+<ol>
 
 <li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b>
 <span>2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/' target='_blank'>RSVP</a></span></li>
@@ -356,11 +358,11 @@ is not a separate legal entity from the Foundation and does not have authority s
 <li><b>Tour and lunch at the Erbil Civilization Museum!</b>
 <span>2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/' target='_blank'>RSVP (private)</a></span></li>
 
-</ul>
+</ol>
 
 <h3>Religious gatherings</h3>
 
-<ul>
+<ol>
 
 <li><b>By the river Tigris: Hanukah in Duhok</b>
 <span>2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/' target='_blank'>RSVP (private)</a></span></li>
@@ -386,7 +388,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 <li><b>Pêseh le Hewlêr || Passover in Erbil</b>
 <span>2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/' target='_blank'>RSVP (private)</a></span></li>
 
-</ul>
+</ol>
 
 </div>
 
