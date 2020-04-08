@@ -52,6 +52,10 @@
 		list-style-type: none;
 		}
 	
+	ul ul {
+		margin: 0;
+		}
+	
 	li {
 		list-style-position: inside;
 		text-align: left;
