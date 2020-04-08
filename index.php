@@ -33,7 +33,7 @@
 		text-align: left;
 		font-size: 150%;
 		font-weight: 700;
-		padding: 30px;
+		padding: 40px 30px 30px;
 		}		
 	
 	h2, h3 {
@@ -41,7 +41,7 @@
 		font-size: 130%;
 		font-weight: 700;
 		font-style: italic;
-		padding: 30px 30px 0 30px;
+		padding: 40px 30px 0;
 		}
 	
 	ul {
