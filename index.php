@@ -57,7 +57,7 @@
 		}
 	
 	li {
-		list-style-position: inside;
+		list-style-position: outside;
 		text-align: left;
 		margin: 0 0 10px;
 		}
