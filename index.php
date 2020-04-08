@@ -45,11 +45,11 @@
 		}
 	
 	ul {
-		list-style-type: none;
+		list-style-type: disc;
 		}
 	
 	ol {
-		list-style-type: disc;
+		list-style-type: none;
 		}
 	
 	li {
