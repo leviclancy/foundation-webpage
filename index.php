@@ -59,7 +59,7 @@
 	li {
 		list-style-position: inside;
 		text-align: left;
-		margin: 0 0 15px;
+		margin: 0 0 10px;
 		}
 	
 	/* For list of news */
