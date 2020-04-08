@@ -41,7 +41,7 @@
 		font-size: 130%;
 		font-weight: 700;
 		font-style: italic;
-		padding: 30px;
+		padding: 30px 30px 0 30px;
 		}
 	
 	ul {
