@@ -61,7 +61,7 @@
 		}
 	
 	amp-lightbox amp-img {
-		margin: 150px auto 100px;
+		margin: 100px auto 50px;
 		}
 	
 	.lightbox-go-back {
