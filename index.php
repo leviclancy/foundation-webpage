@@ -28,7 +28,7 @@
 		margin: 50px auto 20px;
 		}
 	
-	h1, h2, h3, p, ul, ol {
+	h1, h2, h3, p {
 		display: table;
 		max-width: 500px;
 		margin: 20px auto;
@@ -51,42 +51,6 @@
 		font-style: italic;
 		padding: 40px 20px 0;
 		text-align: center;
-		}
-	
-	ul {
-		list-style-type: disc;
-		list-style-position: inside;
-		}
-	
-	ol {
-		list-style-type: decimal;
-		list-style-position: inside;
-		}
-	
-	ul ul {
-		margin: 0;
-		}
-	
-	li {
-		list-style-position: outside;
-		text-align: left;
-		margin: 0 0 10px;
-		}
-	
-	/* For list of news */
-	ul li span {
-		font-style: normal;
-		display: block;
-		font-size: 85%;
-		opacity: 0.9;
-		}
-	
-	ul li a {
-		color: inherit;
-		padding: 0 15px;
-		opacity: 0.7;
-		text-decoration: none;
-		font-style: normal;
 		}
 	
 	amp-lightbox {
@@ -220,9 +184,9 @@
 
 <h2>Our three goals,</h2>
 
-<ol><li>Establish and maintain <b>Sefer Torah Hall</b> in Erbil.</li>
-<li>Establish and maintain <b>Kosher Services</b> in Erbil.</li>
-<li>Establish and maintain <b>Museum of Ours</b> in Erbil.</li></ol>
+<p>Establish and maintain <b>Sefer Torah Hall</b> in Erbil.<br>
+Establish and maintain <b>Kosher Services</b> in Erbil.<br>
+Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 	
 <div class='navigation-sidebar'>
 <span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah Hall</span>
@@ -262,10 +226,13 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h3>Our specialized approach</h3>
 
-	<ul><li><b>Ongoing research, but little or no institutional support yet.</b> This requires identifying key demographics, contacting their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</li>
-	<li><b>Strong events, with solid momentum.</b> This requires regularly organizing public, semi-public, and totally digital events. Feedback is used to help improve events. Most events are two-hour discussion-oriented seminars, but some are multi-day object-oriented exhibitions. Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</li>
-	<li><b>Many acquisitions, but no permanent space yet.</b> This requires ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them.</li>
-	<li><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li></ul>
+	<p<b>Ongoing research, but little or no institutional support yet.</b> This requires identifying key demographics, contacting their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</p>
+
+	<p><b>Strong events, with solid momentum.</b> This requires regularly organizing public, semi-public, and totally digital events. Feedback is used to help improve events. Most events are two-hour discussion-oriented seminars, but some are multi-day object-oriented exhibitions. Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</p>
+
+	<p><b>Many acquisitions, but no permanent space yet.</b> This requires ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them.</p>
+
+	<p><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</p>
 
 	<h3>Research database</h3>
 
@@ -273,11 +240,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h3>Physical space</h3>
 	
-	<ul><li>exhibition galleries, study room, and archive/storage;</li>
-	<li>community area with refreshments;</li>
-	<li>semi-enclosed portico with booth for quiet study, studio work, meetings;</li>
-	<li>staging area for music performances, as music fosters interest and common ground;</li>
-	<li>and lodging for employees.</li></ul>
+	<p>The physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees.</p>
 	
 	</amp-lightbox>
 	
