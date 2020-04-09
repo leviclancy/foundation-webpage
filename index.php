@@ -131,6 +131,8 @@
 </head>
 <body>
 
+<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='responsive'></amp-img>
+	
 <div id='navigation-sidebar'>
 	<span id='navigation-sidebar-findoutmore'>Find out more...</span>
 	<span id='navigation-sidebar-foundation' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-foundation.open'>Foundation of Ours</span>
