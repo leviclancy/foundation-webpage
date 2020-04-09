@@ -38,23 +38,18 @@
 		margin: 20px auto;
 		padding: 20px;
 		text-align: left;
-		}
-
-	h1, h2:first-child {
-		text-align: left;
+		}	
+	
+	h1, h2 {
+		text-align: center;
 		font-size: 170%;
 		font-weight: 700;
 		font-style: normal;
 		padding: 40px 20px 30px;
-		}		
+		}
 	
-	h2, h3 {
+	amp-lightbox h2 {
 		text-align: left;
-		font-size: 130%;
-		font-weight: 400;
-		font-style: italic;
-		padding: 40px 20px 0;
-		text-align: center;
 		}
 	
 	amp-lightbox {
@@ -282,12 +277,10 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h2>Current news</h2>
 
-	<h3>Museum of Ours</h3>
-
 	<ol>
 
 	<li><b>Ongoing collecting.</b><br>
-	<span>During the coronavirus crisis, acquisitions are still ongoing.</span></li>
+	<span>During the coronavirus crisis, acquisitions are still ongoing. Although we are moving toward our goal of acquiring land, all religious gatherings are on hold.</span></li>
 	
 	<!-- <li><b>Event name.</b><br>
 	<span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
@@ -309,18 +302,6 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	</ol>
 
-	<h3>Religious gatherings</h3>
-
-	<ol>
-
-	<li><b>Currently on hold.</b><br>
-	<span>Although we are moving toward our goal of acquiring land, all religious gatherings are on hold due to the coronavirus crisis.</span></li>
-
-	<!-- <li><b>Event name.</b><br>
-	<span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
-
-	</ol>
-
 	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-past'>
@@ -329,8 +310,6 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h2>Past news</h2>
 
-	<h3>Museum of Ours</h3>
-
 	<ol>
 
 	<li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b><br>
@@ -338,6 +317,12 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<li><b>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi</b><br>
 	<span>2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/' target='_blank'>RSVP</a></span></li>
+
+	<li><b>By the river Tigris: Hanukah in Duhok</b><br>
+	<span>2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/' target='_blank'>RSVP (private)</a></span></li>
+
+	<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b><br>
+	<span>2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/' target='_blank'>RSVP (private)</a></span></li>
 
 	<li><b>Churches of Mesopotamia: Syriac, Chaldean, and Assyrian</b><br>
 	<span>2019 Dec 16, Book Café, Erbil. <a href='https://www.facebook.com/events/403693916994295/' target='_blank'>RSVP</a></span></li>
@@ -360,6 +345,9 @@ is not a separate legal entity from the Foundation and does not have authority s
 	<li><b>10,000 BC to Today: A Combined History of Erbil</b><br>
 	<span>2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/' target='_blank'>RSVP</a></span></li>
 
+	<li><b>Passover + Shabbat + Erbil</b><br>
+	<span>2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/' target='_blank'>RSVP (private)</a></span></li>
+
 	<li><b>Speaking engagement</b><br>
 	<span>Tokyo.</span></li>
 
@@ -371,21 +359,6 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<li><b>Tour and lunch at the Erbil Civilization Museum!</b><br>
 	<span>2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/' target='_blank'>RSVP (private)</a></span></li>
-
-	</ol>
-
-	<h3>Religious gatherings</h3>
-
-	<ol>
-
-	<li><b>By the river Tigris: Hanukah in Duhok</b><br>
-	<span>2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/' target='_blank'>RSVP (private)</a></span></li>
-
-	<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b><br>
-	<span>2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/' target='_blank'>RSVP (private)</a></span></li>
-
-	<li><b>Passover + Shabbat + Erbil</b><br>
-	<span>2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/' target='_blank'>RSVP (private)</a></span></li>
 
 	<li><b>Chanukah!</b><br>
 	<span>2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/' target='_blank'>RSVP (private)</a></span></li>
@@ -418,12 +391,12 @@ is not a separate legal entity from the Foundation and does not have authority s
 	<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
 	<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
 
-	<h3>Objectives for the Sefer Torah</h3>
+	<h2>Objectives for the Sefer Torah</h2>
 
 	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</li>
 	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
 
-	<h3>Objectives for the kosher services</h3>
+	<h2>Objectives for the kosher services</h2>
 
 	<ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
 		<ul><li>prepare a prioritized list of these needs;</li>
@@ -435,7 +408,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 		<li>and look at hurdles in non-KR governments.</li></ul>
 		</li></ul>
 	
-	<h3>Objectives for the Museum</h3>
+	<h2>Objectives for the Museum</h2>
 
 	<ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
 	<li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
