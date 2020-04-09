@@ -13,8 +13,8 @@
 	body {
 		margin: 0;
 		padding: 0;
-		font-size: 1.25em;
-		line-height: 1.5em;
+		font-size: 1.3em;
+		line-height: 1.6em;
 		background: rgba(245,245,245,1);
 		text-align: center;
 		}
@@ -30,7 +30,7 @@
 	
 	h1, h2, h3, p, ul, ol {
 		display: block;
-		max-width: 600px;
+		max-width: 500px;
 		margin: 20px auto;
 		padding: 20px;
 		text-align: left;
