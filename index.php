@@ -145,9 +145,12 @@
 		}
 	
 	#section-contact span {
-		display: inlinne-block;
+		display: inline-block;
 		max-width: 500px;
 		margin: 20px;
+		padding: 10px 20px;
+		border: 1px solid #fff;
+		border-radius: 200px;
 		}
 		
 
