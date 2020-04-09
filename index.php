@@ -62,6 +62,7 @@
 		}
 	
 	.lightbox-go-back {
+		font-family: Arial;
 		background: #fff;
 		border-radius: 100px;
 		padding: 7px 20px;
