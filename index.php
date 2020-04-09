@@ -90,7 +90,7 @@
 		display: inline-block;
 		vertical-align: middle;
 		padding: 0;
-		margin: 20px;
+		margin: 50px;
 		color: #333;
 		font-size: 140%;
 		}
@@ -188,8 +188,8 @@
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 	
 <div class='navigation-sidebar'>
-<amp-img role='button' tabindex='1' src='/sefer-torah-house-logo.png' alt='Sefer Torah House' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'></amp-img>
-<span id='navigation-sidebar-kosher' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher Services</span>
+<amp-img role='button' tabindex='1' src='/sefer-torah-house-black-logo.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/kosher-services-black-logo.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'></amp-img>
 <br>
 <amp-img role='button' tabindex='1' src='/museum-of-ours-logo.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
 </div>
@@ -251,9 +251,9 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
-	<h2>Sefer Torah House</h2>
+	<amp-img src='/sefer-torah-house-white-logo.png' alt='Sefer Torah House' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<p><i>Mission statement</i> — Sefer Torah House provides a Sefer Torah with an appropriate housing for the use of congregants.</p>
+	<p>Sefer Torah House provides a Sefer Torah with an appropriate housing for the use of congregants.</p>
 	
 	</amp-lightbox>
 
@@ -261,7 +261,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
-	<h2>Kosher Services</h2>
+	<amp-img src='/kosher-services-white-logo.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
 
 	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
 	
