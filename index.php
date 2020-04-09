@@ -110,7 +110,8 @@
 		}
 	
 	#section-goals {
-		background: linear-gradient(45deg, rgba(0,150,200,.8), rgba(220,220,220,.5) 60%), linear-gradient(135deg, rgba(160,160,160,1), rgba(40,150,210,1) 100%);
+/*		background: linear-gradient(45deg, rgba(0,150,200,.8), rgba(220,220,220,.5) 60%), linear-gradient(135deg, rgba(160,160,160,1), rgba(40,150,210,1) 100%); */
+		background: rgba(140,140,140,1);
 		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
@@ -119,7 +120,8 @@
 		}
 
 	#section-objectives {
-		background: linear-gradient(165deg, rgba(30,30,30,.6), rgba(170,170,170,.5) 70%), linear-gradient(315deg, rgba(200,200,200,.9), rgba(130,130,130,1) 100%);
+/*		background: linear-gradient(165deg, rgba(30,30,30,.6), rgba(170,170,170,.5) 70%), linear-gradient(315deg, rgba(200,200,200,.9), rgba(130,130,130,1) 100%); */
+		background: rgba(100,100,100,1);
 		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
@@ -183,6 +185,12 @@
 <h2>Vision statement</h2>
 <p>Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
 
+<div class='navigation-sidebar'>
+<span id='navigation-sidebar-museum' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
+<span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
+<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+</div>
+
 <div id='section-goals'>
 <h2>Our goals</h2>
 <p>These three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
@@ -190,13 +198,12 @@
 <li>Establish and maintain a <b>home for the Torah</b>.</li>
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
 </div>
-	
+
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-museum' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
-<span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
-<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
 </div>
-	
+
 <div id='section-objectives'>
 <h2>Our objectives</h2>
 <p>These objectives are our most up-to-date list.</p>
@@ -204,22 +211,15 @@
 <li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
 <li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
 </div>
-	
-<div class='navigation-sidebar'>
-<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-</div>
-	
-<div id='section-contact'>
 
-<p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
-	
 <div class='navigation-sidebar'>
 <span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
 <span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
 <span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 </div>
 	
+<div id='section-contact'>
+<p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
 </div>
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
