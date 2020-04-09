@@ -183,15 +183,15 @@
 
 <h2>Our three goals,</h2>
 
-<p>א — Establish and maintain <b>Sefer Torah Hall</b> in Erbil.<br>
+<p>א — Establish and maintain <b>Sefer Torah House</b> in Erbil.<br>
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 	
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-sefer-torah' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah Hall</span>
+<amp-img role='button' tabindex='1' src='/sefer-torah-house.png' alt='Sefer Torah House' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'></amp-img>
 <span id='navigation-sidebar-kosher' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher Services</span>
 <br>
-<amp-img role='button' tabindex='1' src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/museum-of-ours-logo.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
 </div>
 
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years, with three wings surrounding around a central courtyard with eco-friendly planting and irrigation.</p>
@@ -251,9 +251,9 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
-	<h2>Sefer Torah Hall</h2>
+	<h2>Sefer Torah House</h2>
 
-	<p><i>Mission statement</i> — Sefer Torah Hall provides a Sefer Torah with an appropriate hall to house it for the use of congregants.</p>
+	<p><i>Mission statement</i> — Sefer Torah House provides a Sefer Torah with an appropriate housing for the use of congregants.</p>
 	
 	</amp-lightbox>
 
@@ -411,7 +411,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h3>Objectives for the Sefer Torah</h3>
 
-	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying hall, and prepare a series of objectives based on this advice.</li>
+	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</li>
 	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
 
 	<h3>Objectives for the kosher services</h3>
