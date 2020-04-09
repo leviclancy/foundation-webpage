@@ -229,7 +229,7 @@
 
 	<h3>Our specialized approach</h3>
 	
-	<p>Museum of Ours uses a unique blend of research, events, and acquisitions to achive goals and objectives.</p> 
+	<p>Museum of Ours uses a unique blend of research, events, and acquisitions to achieve objectives and fulfill goals.</p> 
 
 	<p>Research requires identifying key demographics, contacting their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</p>
 
