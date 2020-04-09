@@ -92,7 +92,7 @@
 		max-width: 100%;
 		display: block;
 		padding: 0;
-		padding: 60px 0 100px;
+		padding: 20px 0 100px;
 		text-align: center;
 		vertical-align: middle;
 		}
