@@ -439,7 +439,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
-	<h2>Legal</h2>
+	<h2>Governance</h2>
 
 	<p>Foundation of Ours is a religious nonprofit organization as defined by the Internal Revenue Code of the United States and the Maine Nonprofit Corporation Act of the State of Maine. It is governed by its Board of Directors and by five officers: a President, a Clerk, a Treasurer, a Lead Rabbi, and a Museum Officer. Because of the small size of Foundation of Ours, all officers are also on the Board of Directors. In addition to these Directors, there are non-officers bringing the number of Directors to __ (__) in total. Directors come from a range of faiths including Judaism, Ezidism, and Islam.</p>
 
