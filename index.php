@@ -115,16 +115,16 @@
 		display: block;
 		width: 100%;
 		margin: 90px 0 0 0;
-		padding: 60px 20px 80px;
+		padding: 60px 0 80px;
 		}
 
 	#section-objectives {
-		background: linear-gradient(165deg, rgba(230,190,40,.7), rgba(170,170,170,.5) 70%), linear-gradient(225deg, rgba(255,200,0,1), rgba(130,130,130,1) 100%);
+		background: linear-gradient(165deg, rgba(210,150,90,.7), rgba(170,170,170,.5) 70%), linear-gradient(225deg, rgba(240,150,40,1), rgba(130,130,130,1) 100%);
 		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
 		margin: 90px 0 0 0;
-		padding: 60px 20px 80px;
+		padding: 60px 0 80px;
 		}
 
 
@@ -133,7 +133,7 @@
 		color: #fff;
 		display: block;
 		width: 100%;
-		padding: 60px 20px;
+		padding: 60px 0;
 		}
 
 	#lightbox-foundation {
