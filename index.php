@@ -161,7 +161,7 @@
 		}
 
 	#lightbox-objectives {
-		background: linear-gradient(225deg, rgba(140,100,235,.9), rgba(130,50,220,.5) 70%), linear-gradient(135deg, rgba(130,100,180,1), rgba(100,100,180,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
+		background: linear-gradient(225deg, rgba(140,100,235,.9), rgba(60,180,60,.5) 70%), linear-gradient(135deg, rgba(130,100,180,1), rgba(100,100,180,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
 
