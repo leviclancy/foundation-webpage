@@ -100,26 +100,6 @@
 		border-radius: 200px;
 		padding: 20px;
 		}
-	
-	#section-goals {
-/*		background: linear-gradient(45deg, rgba(0,150,200,.8), rgba(220,220,220,.5) 60%), linear-gradient(135deg, rgba(160,160,160,1), rgba(40,150,210,1) 100%); */
-		background: rgba(140,140,140,1);
-		color: rgba(255,255,255,1);
-		display: block;
-		width: 100%;
-		margin: 90px 0 0 0;
-		padding: 60px 0 80px;
-		}
-
-	#section-objectives {
-/*		background: linear-gradient(165deg, rgba(30,30,30,.6), rgba(170,170,170,.5) 70%), linear-gradient(315deg, rgba(200,200,200,.9), rgba(130,130,130,1) 100%); */
-		background: rgba(100,100,100,1);
-		color: rgba(255,255,255,1);
-		display: block;
-		width: 100%;
-		margin: 90px 0 0 0;
-		padding: 60px 0 80px;
-		}
 
 	#section-contact {
 		background: #333;
@@ -139,14 +119,8 @@
 		border-radius: 200px;
 		}
 		
-
 	#lightbox-foundation {
 		background: rgba(245,245,245,1);
-		color: #000;
-		}
-
-	#lightbox-museum {
-		background: rgba(220,220,220,1);
 		color: #000;
 		}
 	
@@ -160,6 +134,11 @@
 		color: #fff;
 		}
 	
+	#lightbox-museum {
+		background: linear-gradient(45deg, rgba(30,30,30,.9), rgba(120,120,120,.5) 70%), linear-gradient(135deg, rgba(100,100,100,1), rgba(190,190,190,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
+		color: #000;
+		}
+
 	#lightbox-current {
 		background: rgba(230,230,230,1);
 		color: #000;
