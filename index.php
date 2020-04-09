@@ -63,17 +63,17 @@
 	
 	.lightbox-go-back {
 		font-family: Helvetica;
-		background: rgba(250,250,250,0.2);
+		background: linear-gradient(45deg, rgba(250,250,250,0.2), rgba(250,250,250,0.1));;
 		border: 1px solid rgba(255,255,255,0.9);
 		border-radius: 100px;
-		padding: 5px 20px;
+		padding: 5px 25px;
 		font-size: 75%;
 		position: fixed;
 		top: 20px;
 		right: 20px;
 		color: rgba(255,255,255,1);
 		opacity: 1;
-		box-shadow: 3px 3px 15px -4px rgba(20,20,20,0.3);
+		box-shadow: 3px -3px 20px -5px rgba(20,20,20,0.3);
 		}
 	
 	.navigation-sidebar {
