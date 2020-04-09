@@ -16,6 +16,7 @@
 		font-size: 1.35em;
 		line-height: 1.5em;
 		background: rgba(255,255,255,1);
+		text-align: center;
 		}
 	
 	a	{
