@@ -15,7 +15,7 @@
 		font-family: Times;
 		font-size: 1.35em;
 		line-height: 1.5em;
-		background: rgba(255,255,255,1);
+		background: rgba(245,245,245,1);
 		text-align: center;
 		}
 	
@@ -111,19 +111,19 @@
 		}
 	
 	#section-goals {
-		background: linear-gradient(225deg, rgba(10,10,10,.9), rgba(40,40,40,.5) 70%), linear-gradient(135deg, rgba(120,120,120,1), rgba(80,80,80,.7) 70%), linear-gradient(225deg, rgba(0,0,0,1), rgba(20,20,20,1) 70%);
-		color: #fff;
+		background: linear-gradient(45deg, rgba(220,220,200,.9), rgba(250,250,250,.5) 70%), linear-gradient(135deg, rgba(150,10,150,1), rgba(220,220,220,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(240,240,240,1) 70%);
+		color: rgba(20,20,20,1);
 		display: block;
 		width: 100%;
-		padding: 60px 20px;
+		padding: 60px 20px 80px;
 		}
 
 	#section-objectives {
 		background: linear-gradient(225deg, rgba(200,200,200,.9), rgba(240,240,240,.5) 70%), linear-gradient(135deg, rgba(10,150,150,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(240,240,240,1) 70%);
-		color: #fff;
+		color: rgba(20,20,20,1);
 		display: block;
 		width: 100%;
-		padding: 60px 20px;
+		padding: 60px 20px 80px;
 		}
 
 	#section-contact {
