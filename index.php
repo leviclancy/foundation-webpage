@@ -147,6 +147,7 @@
 	#section-contact span {
 		display: inline-block;
 		max-width: 500px;
+		font-size: 80%;
 		margin: 20px;
 		padding: 10px 20px;
 		border: 1px solid #fff;
