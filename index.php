@@ -30,7 +30,7 @@
 		margin: 50px auto 20px;
 		}
 
-	h1, h2, h3, p {
+	h1, h2, h3 {
 		font-family: Times;
 		}
 	
