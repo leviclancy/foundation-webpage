@@ -141,7 +141,7 @@
 		}
 
 	#lightbox-kosher {
-		background: linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(250,10,10,1), rgba(210,120,120,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
+		background: linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(200,115,20,1), rgba(210,120,120,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
 	
