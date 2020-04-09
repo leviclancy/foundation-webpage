@@ -172,7 +172,7 @@
 </head>
 <body>
 
-echo "<div id='section-main'>
+<div id='section-main'>
 	
 <amp-img src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='206' layout='intrinsic'></amp-img>
 
