@@ -63,16 +63,16 @@
 	
 	.lightbox-go-back {
 		font-family: Helvetica;
-		background: rgba(250,250,250,0.4);
+		background: rgba(250,250,250,0.2);
 		border: 1px solid rgba(255,255,255,0.9);
 		border-radius: 100px;
-		padding: 6px 20px;
-		font-size: 80%;
+		padding: 5px 20px;
+		font-size: 75%;
 		position: fixed;
 		top: 20px;
 		right: 20px;
 		color: rgba(255,255,255,1);
-		opacity: 0.9;
+		opacity: 1;
 		box-shadow: 3px 3px 15px -4px rgba(20,20,20,0.3);
 		}
 	
