@@ -55,11 +55,12 @@
 	
 	ul {
 		list-style-type: disc;
-		
+		list-style-position: inside;
 		}
 	
 	ol {
 		list-style-type: decimal;
+		list-style-position: inside;
 		}
 	
 	ul ul {
