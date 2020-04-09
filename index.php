@@ -86,7 +86,7 @@
 		}
 	
 	#navigation-sidebar {
-		width: auto;
+		max-width: 400px;
 		padding: 20px 50px;
 		box-shadow: 5px 5px 20px -5px rgba(100,100,100,0.3);
 		border-radius: 20px;
