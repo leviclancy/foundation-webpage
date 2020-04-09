@@ -132,52 +132,52 @@
 		
 	#lightbox-foundation {
 		background: rgba(245,245,245,1);
-		color: #000;
+		color: rgba(255,255,255,0.9);
 		}
 	
 	#lightbox-sefer-torah {
 		background: linear-gradient(225deg, rgba(10,120,180,.9), rgba(150,180,190,.5) 70%), linear-gradient(135deg, rgba(25,130,220,1), rgba(30,130,50,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
-		color: #fff;
+		color: rgba(255,255,255,0.9);
 		}
 
 	#lightbox-kosher {
 		background: linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(250,10,10,1), rgba(210,120,120,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
-		color: #fff;
+		color: rgba(255,255,255,0.9);
 		}
 	
 	#lightbox-museum {
 		background: linear-gradient(45deg, rgba(30,30,30,.9), rgba(120,120,120,.5) 70%), linear-gradient(135deg, rgba(100,100,100,1), rgba(190,190,190,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
-		color: #fff;
+		color: rgba(255,255,255,0.9);
 		}
 
 	#lightbox-current {
-		background: linear-gradient(225deg, rgba(220,120,40,.9), rgba(240,120,20,.5) 70%), linear-gradient(135deg, rgba(240,160,100,1), rgba(160,190,220,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
-		color: #000;
+		background: linear-gradient(225deg, rgba(220,120,40,.9), rgba(240,120,20,.5) 70%), linear-gradient(135deg, rgba(225,110,70,1), rgba(160,190,220,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
+		color: rgba(255,255,255,0.9);
 		}
 	
 	#lightbox-past {
 		background: rgba(100,100,100,1);
-		color: #eee;
+		color: rgba(255,255,255,0.9);
 		}
 
 	#lightbox-objectives {
-		background: rgba(100,100,100,1);
-		color: #eee;
+		background: linear-gradient(225deg, rgba(140,100,235,.9), rgba(130,50,220,.5) 70%), linear-gradient(135deg, rgba(130,100,180,1), rgba(100,100,180,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
+		color: rgba(255,255,255,0.9);
 		}
 
 	#lightbox-governance {
 		background: #000;
-		color: #fff;
+		color: rgba(255,255,255,0.9);
 		}
 
 	#lightbox-articles {
 		background: #000;
-		color: #fff;
+		color: rgba(255,255,255,0.9);
 		}
 
 	#lightbox-bylaws {
 		background: #000;
-		color: #fff;
+		color: rgba(255,255,255,0.9);
 		}
 	
 	</style>	
