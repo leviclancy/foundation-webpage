@@ -8,11 +8,13 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
-<style amp-custom>
+<link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
+	<style amp-custom>
+	
 	body {
 		margin: 0;
 		padding: 0;
-		font-family: Times;
+		font-family: 'Karla', sans-serif;
 		font-size: 1.35em;
 		line-height: 1.5em;
 		background: rgba(245,245,245,1);
@@ -26,6 +28,10 @@
 	#foundation-logo {
 		clear: both;
 		margin: 50px auto 20px;
+		}
+
+	h1, h2, h3, p {
+		font-family: Times;
 		}
 	
 	h1, h2, h3, p, ul, ol {
