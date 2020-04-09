@@ -22,7 +22,8 @@
 		color: inherit;
 		}
 	
-	amp-img {
+	.foundation-logo {
+		clear: both;
 		display: block;
 		margin: 0 auto;
 		}
@@ -145,22 +146,22 @@
 </head>
 <body>
 
-<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='intrinsic'></amp-img>
+<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='206' layout='intrinsic'></amp-img>
 	
 <p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
 <p><i>Vision</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
 
 <div id='navigation-sidebar'>
-	<span id='navigation-sidebar-goals' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-goals.open'>Goals and Objectives</span>
-		<span id='navigation-sidebar-museum' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
-		<span id='navigation-sidebar-home' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
-		<span id='navigation-sidebar-kosher' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
-	<span id='navigation-sidebar-current' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-	<span id='navigation-sidebar-past' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-	<span id='navigation-sidebar-legal' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-legal.open'>Legal status</span>
-		<span id='navigation-sidebar-articles' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-		<span id='navigation-sidebar-bylaws' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+	<span id='navigation-sidebar-goals' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-goals.open'>Goals and Objectives</span>
+		<span id='navigation-sidebar-museum' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
+		<span id='navigation-sidebar-home' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
+		<span id='navigation-sidebar-kosher' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+	<span id='navigation-sidebar-current' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+	<span id='navigation-sidebar-past' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+	<span id='navigation-sidebar-legal' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+		<span id='navigation-sidebar-articles' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+		<span id='navigation-sidebar-bylaws' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 	</div>
 
 <p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
