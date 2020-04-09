@@ -136,7 +136,7 @@
 </head>
 <body>
 
-<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='fixed-height'></amp-img>
+<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='intrinsic'></amp-img>
 	
 <div id='navigation-sidebar'>
 	<span id='navigation-sidebar-findoutmore'>Find out more...</span>
