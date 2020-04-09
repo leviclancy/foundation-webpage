@@ -95,7 +95,7 @@
 		max-width: 100%;
 		display: block;
 		padding: 0;
-		padding: 0 50px 100px;
+		padding: 100px 0;
 		text-align: center;
 		vertical-align: middle;
 		}
@@ -104,7 +104,7 @@
 		display: inline-block;
 		vertical-align: middle;
 		padding: 0;
-		margin: 100px 50px 0;
+		margin: 20px;
 		color: #333;
 		font-size: 140%;
 		}
@@ -193,18 +193,18 @@
 
 <div class='navigation-sidebar'>
 
-<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
-
 <span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
 <span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+<br>
+<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
 </div>
 
 <div id='section-goals'>
 <h2>Our goals</h2>
 <p>These three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
-<ul><li>Establish and maintain the <b>Museum of Ours</b>.</li>
-<li>Establish and maintain a <b>home for the Torah</b>.</li>
-<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
+<ul><li>Establish and maintain a <b>home for the Torah</b>.</li>
+<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li>
+<li>Establish and maintain the <b>Museum of Ours</b>.</li></ul>
 </div>
 
 <div class='navigation-sidebar'>
