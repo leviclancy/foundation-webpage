@@ -281,30 +281,26 @@
 
 	<h2>Current news</h2>
 
-	<ol>
-
-	<li><b>Ongoing collecting.</b><br>
-	<span>During the coronavirus crisis, acquisitions are still ongoing. Although we are moving toward our goal of acquiring land, all religious gatherings are on hold.</span></li>
+	<p>Ongoing collecting.</b><br>
+	<span>During the coronavirus crisis, acquisitions are still ongoing. Although we are moving toward our goal of acquiring land, all religious gatherings are on hold.</span></p>
 	
-	<!-- <li><b>Event name.</b><br>
-	<span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></li>-->	
+	<!-- <p><b>Event name.</b><br>
+	<span>TBD. <a href='https://www.facebook.com/events//' target='_blank'>RSVP</a></span></p>-->	
 
-	<!-- <li><b>Popup Exhibit: Combined History of Water</b><br>
-	<span>2020 Mar 29 - Apr 2, Book Cafe at Family Mall, Erbil. <a href='https://www.facebook.com/events/872042599897214/' target='_blank'>RSVP</a></span></li>
+	<!-- <p><b>Popup Exhibit: Combined History of Water</b><br>
+	<span>2020 Mar 29 - Apr 2, Book Cafe at Family Mall, Erbil. <a href='https://www.facebook.com/events/872042599897214/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>Eloquent Universe of Lalish</b><br>
-	<span>TBD.</span></li>
+	<p><b>Eloquent Universe of Lalish</b><br>
+	<span>TBD.</span></p>
 
-	<li><b>Event on Kurdish Islamic history</b><br>
-	<span>TBD.</span></li>
+	<p><b>Event on Kurdish Islamic history</b><br>
+	<span>TBD.</span></p>
 
-	<li><b>Event on Assyro-Christian history</b><br>
-	<span>TBD.</span></li>
+	<p><b>Event on Assyro-Christian history</b><br>
+	<span>TBD.</span></p>
 
-	<li><b>Event on Jewish history</b><br>
-	<span>TBD.</span></li> -->
-
-	</ol>
+	<p><b>Event on Jewish history</b><br>
+	<span>TBD.</span></p> -->
 
 	</amp-lightbox>
 	
@@ -314,72 +310,68 @@
 
 	<h2>Past news</h2>
 
-	<ol>
+	<p><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b><br>
+	<span>2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b><br>
-	<span>2020 Jan 24-25, Mr. Erbil, Erbil. <a href='https://www.facebook.com/events/831467727270919/' target='_blank'>RSVP</a></span></li>
+	<p><b>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi</b><br>
+	<span>2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>The Islam of Kurdistan: From Salahaddin to Gaylani and Effendi</b><br>
-	<span>2020 Jan 08, Book Café, Erbil. <a href='https://www.facebook.com/events/1410175962468203/' target='_blank'>RSVP</a></span></li>
+	<p><b>By the river Tigris: Hanukah in Duhok</b><br>
+	<span>2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>By the river Tigris: Hanukah in Duhok</b><br>
-	<span>2019 Dec 28 and 29, Duhok. <a href='https://www.facebook.com/events/2506842876299894/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Stronger Together: Hanukah and Shabbat in Erbil</b><br>
+	<span>2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Stronger Together: Hanukah and Shabbat in Erbil</b><br>
-	<span>2019 Dec 27, Erbil. <a href='https://www.facebook.com/events/2449522708604784/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Churches of Mesopotamia: Syriac, Chaldean, and Assyrian</b><br>
+	<span>2019 Dec 16, Book Café, Erbil. <a href='https://www.facebook.com/events/403693916994295/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>Churches of Mesopotamia: Syriac, Chaldean, and Assyrian</b><br>
-	<span>2019 Dec 16, Book Café, Erbil. <a href='https://www.facebook.com/events/403693916994295/' target='_blank'>RSVP</a></span></li>
+	<p><b>Multiculturalism and Reconciliation and the Jewish Community</b><br>
+	<span>2019 Dec 08, American Corner, Duhok. <a href='https://www.facebook.com/events/814166239004509/'>RSVP</a></span></p>
 
-	<li><b>Multiculturalism and Reconciliation and the Jewish Community</b><br>
-	<span>2019 Dec 08, American Corner, Duhok. <a href='https://www.facebook.com/events/814166239004509/'>RSVP</a></span></li>
-
-	<li><b>Speaking engagement</b><br>
+	<p><b>Speaking engagement</b><br>
 	<span>Dubai.</span></li>
 
-	<li><b>By the Rivers of Babylon: The Jews of Erbil and Mesopotamia</b><br>
-	<span>2019 Nov 12, American Corner, Erbil. <a href='https://www.facebook.com/events/517628888793532/' target='_blank'>RSVP</a></span></li>
+	<p><b>By the Rivers of Babylon: The Jews of Erbil and Mesopotamia</b><br>
+	<span>2019 Nov 12, American Corner, Erbil. <a href='https://www.facebook.com/events/517628888793532/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>Abrahamic: On Jews, Judaism, and Being Jewish</b><br>
-	<span>2019 Nov 09, Book Café, Erbil. <a href='https://www.facebook.com/events/541946113227550/' target='_blank'>RSVP</a></span></li>
+	<p><b>Abrahamic: On Jews, Judaism, and Being Jewish</b><br>
+	<span>2019 Nov 09, Book Café, Erbil. <a href='https://www.facebook.com/events/541946113227550/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>Around each corner: Walking tour of Erbil's ancient lower city</b><br>
-	<span>2019 Nov 02, Erbil. <a href='https://www.facebook.com/events/2435048943483136/' target='_blank'>RSVP</a></span></li>
+	<p><b>Around each corner: Walking tour of Erbil's ancient lower city</b><br>
+	<span>2019 Nov 02, Erbil. <a href='https://www.facebook.com/events/2435048943483136/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>10,000 BC to Today: A Combined History of Erbil</b><br>
-	<span>2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/' target='_blank'>RSVP</a></span></li>
+	<p><b>10,000 BC to Today: A Combined History of Erbil</b><br>
+	<span>2019 Sep 25, American Corner, Erbil. <a href='https://www.facebook.com/events/1375003565982549/' target='_blank'>RSVP</a></span></p>
 
-	<li><b>Passover + Shabbat + Erbil</b><br>
-	<span>2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Passover + Shabbat + Erbil</b><br>
+	<span>2019 Apr 26, Erbil. <a href='https://www.facebook.com/events/747872578931576/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Speaking engagement</b><br>
-	<span>Tokyo.</span></li>
+	<p><b>Speaking engagement</b><br>
+	<span>Tokyo.</span></p>
 
-	<li><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b><br>
-	<span>2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Gorgeous, mesmerizing Erbil: Walking tour of the lower city</b><br>
+	<span>2019 Apr 05, Erbil. <a href='https://www.facebook.com/events/261910678093295/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Coffee, objects, and a combined history of Erbil</b><br>
-	<span>2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Coffee, objects, and a combined history of Erbil</b><br>
+	<span>2019 Feb 20, Book Café, Erbil. <a href='https://www.facebook.com/events/1538162612980919/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Tour and lunch at the Erbil Civilization Museum!</b><br>
-	<span>2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Tour and lunch at the Erbil Civilization Museum!</b><br>
+	<span>2019 Jan 30, Erbil Civilization Museum, Erbil. <a href='https://www.facebook.com/events/337707437082372/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Chanukah!</b><br>
-	<span>2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Chanukah!</b><br>
+	<span>2018 Dec 07, Erbil. <a href='https://www.facebook.com/events/587592868342023/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Passover + Shabbat <3 Erbil</b><br>
-	<span>2018 Mar 30, Erbil. <a href='https://www.facebook.com/events/195954320996356/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Passover + Shabbat <3 Erbil</b><br>
+	<span>2018 Mar 30, Erbil. <a href='https://www.facebook.com/events/195954320996356/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Chanukah + Shabbat</b><br>
-	<span>2017 Dec 15, Erbil. <a href='https://www.facebook.com/events/1762566897096564/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Chanukah + Shabbat</b><br>
+	<span>2017 Dec 15, Erbil. <a href='https://www.facebook.com/events/1762566897096564/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Passover in Erbil</b><br>
-	<span>2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/' target='_blank'>RSVP (private)</a></span></li>
+	<p><b>Passover in Erbil</b><br>
+	<span>2017 Apr 10, Erbil. <a href='https://www.facebook.com/events/397465033940380/' target='_blank'>RSVP (private)</a></span></p>
 
-	<li><b>Pêseh le Hewlêr || Passover in Erbil</b><br>
-	<span>2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/' target='_blank'>RSVP (private)</a></span></li>
-
-	</ol>
+	<p><b>Pêseh le Hewlêr || Passover in Erbil</b><br>
+	<span>2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/' target='_blank'>RSVP (private)</a></span></p>
 
 	</amp-lightbox>
 	
