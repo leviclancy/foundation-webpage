@@ -123,7 +123,7 @@
 		}
 
 	#lightbox-kosher {
-		background: linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(250,10,10,1), rgba(210,120,120,.7) 70%);
+		background: linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%), linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(250,10,10,1), rgba(210,120,120,.7) 70%);
 		color: #fff;
 		}
 	
@@ -148,58 +148,36 @@
 
 <amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='206' layout='intrinsic'></amp-img>
 	
-<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
+<h2>Mission statement</h2>
+<p>Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
-<p><i>Vision</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
+<h2>Vision statement</h2>
+<p>Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
+
+<h2>Our goals</h2>
+<p>These three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
+<ul><li>Establish and maintain the <b>Museum of Ours</b>.</li>
+<li>Establish and maintain a <b>home for the Torah</b>.</li>
+<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
+
+<h2>Our objectives</h2>
+<p>These objectives are our most up-to-date list.</p>
+<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
+<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
+<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
 
 <div id='navigation-sidebar'>
-	<span id='navigation-sidebar-goals' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-goals.open'>Goals and Objectives</span>
-		<span id='navigation-sidebar-museum' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
-		<span id='navigation-sidebar-home' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
-		<span id='navigation-sidebar-kosher' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
-	<span id='navigation-sidebar-current' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-	<span id='navigation-sidebar-past' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-	<span id='navigation-sidebar-legal' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
-		<span id='navigation-sidebar-articles' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-		<span id='navigation-sidebar-bylaws' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+	<span id='navigation-sidebar-museum' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
+	<span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
+	<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+	<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+	<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+	<span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+		<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+		<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 	</div>
 
 <p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
-
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-goals'>
-
-	<h2>Our goals</h2>
-
-	<ul><li>Establish and maintain the <b>Museum of Ours</b>.</li>
-	<li>Establish and maintain a <b>home for the Torah</b>.</li>
-	<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
-
-	<h2>Objectives for 2020 for the Foundation overall</h2>
-	
-	<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
-	<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
-	<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li>
-	<li>Begin fundraising.</li></ul>
-	
-	<h2>In the future: a paradise for mind, body, and soul</h2>
-	
-	<ul><li>The goals all envision a physical space to headquarter the Foundation.</li>
-	<li>There is secular wing of the space including:
-		<ul><li>exhibition galleries, study room, and archive/storage;</li>
-		<li>community area with refreshments;</li>
-		<li>semi-enclosed portico with booth for quiet study, studio work, meetings;</li>
-		<li>staging area for music performances, as music fosters interest and common ground;</li>
-		<li>and lodging for employees.</li></ul>
-		</li>
-	<li>There is also a non-secular wing with special oversight over halakha:
-		<ul><li>kosher kitchen with a daily café;</li>
-		<li>home for the Torah;</li>
-		<li>guest accommodations that follow halakha.</li></ul>
-		</li>
-	<li>Central courtyard with eco-friendly planting and irrigation.</li>
-	<li>Built to last for hundreds of years.</li></ul>
-	
-	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
 
@@ -220,7 +198,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	<li><b>Many acquisitions, but no permanent space yet.</b> This requires ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them.</li>
 	<li><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li></ul>
 
-	<h3>Objectives for 2020 toward the Museum</h3>
+	<h3>Objectives for the Museum</h3>
 
 	<ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
 	<li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
@@ -231,13 +209,21 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='github.com/leviclancy/foundation-database/'>github</a> for use on your own projects.</p>
 
+	<h3>Physical space</h3>
+	
+	<ul><li>exhibition galleries, study room, and archive/storage;</li>
+	<li>community area with refreshments;</li>
+	<li>semi-enclosed portico with booth for quiet study, studio work, meetings;</li>
+	<li>staging area for music performances, as music fosters interest and common ground;</li>
+	<li>and lodging for employees.</li></ul>
+	
 	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-home'>
 
 	<h2>Home for the Torah</h2>
 
-	<h3>Objectives for 2020 toward a home for the Torah</h3>
+	<h3>Objectives for the home for the Torah</h3>
 
 	<ul><li>Recruit Rabbis to advise on what is needed to have a home for the Torah, and prepare a series of objectives based on this advice.</li>
 	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
@@ -248,7 +234,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h2>Kosher services</h2>	
 
-	<h3>Objectives for 2020 toward kosher services</h3>
+	<h3>Objectives for the kosher services</h3>
 
 	<ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
 		<ul><li>prepare a prioritized list of these needs;</li>
