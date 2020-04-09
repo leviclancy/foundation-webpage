@@ -22,6 +22,10 @@
 		color: inherit;
 		}
 	
+	amp-img {
+		margin: 0 auto;
+		}
+	
 	h1, h2, h3, p, ul, ol {
 		display: block;
 		max-width: 700px;
