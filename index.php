@@ -109,6 +109,12 @@
 		font-size: 140%;
 		}
 	
+	.navigation-sidebar span {
+		border: 3px solid #555;
+		border-radius: 200px;
+		padding: 20px;
+		}
+	
 	#section-goals {
 /*		background: linear-gradient(45deg, rgba(0,150,200,.8), rgba(220,220,220,.5) 60%), linear-gradient(135deg, rgba(160,160,160,1), rgba(40,150,210,1) 100%); */
 		background: rgba(140,140,140,1);
