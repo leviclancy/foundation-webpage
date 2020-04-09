@@ -29,7 +29,7 @@
 		}
 	
 	h1, h2, h3, p {
-		display: table;
+		display: block;
 		max-width: 500px;
 		margin: 20px auto;
 		padding: 20px;
