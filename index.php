@@ -154,7 +154,7 @@
 		color: #000;
 		}
 	
-	#lightbox-home {
+	#lightbox-sefer-torah {
 		background: linear-gradient(225deg, rgba(10,120,180,.9), rgba(150,180,190,.5) 70%), linear-gradient(135deg, rgba(25,130,220,1), rgba(30,130,50,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
 		color: #fff;
 		}
@@ -193,23 +193,23 @@
 
 <div class='navigation-sidebar'>
 
-<span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
-<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+<span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah</span>
+<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
 <br>
-<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
+<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
 </div>
 
 <div id='section-goals'>
 <h2>Our goals</h2>
 <p>These three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
-<ul><li>Establish and maintain a <b>home for the Torah</b>.</li>
+<ul><li>Procure a <b>Sefer Torah</b> and the accompanying hall to maintain it.</li>
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li>
 <li>Establish and maintain the <b>Museum of Ours</b>.</li></ul>
 </div>
 
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
 </div>
 
 <div id='section-objectives'>
@@ -221,9 +221,9 @@
 </div>
 
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
-<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+<span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 </div>
 	
 <div id='section-contact'>
@@ -270,13 +270,13 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-home'>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-sefer-torah'>
 
-	<h2>Home for the Torah</h2>
+	<h2>Sefer Torah</h2>
 
-	<h3>Objectives for the home for the Torah</h3>
+	<h3>Objectives for the Sefer Torah</h3>
 
-	<ul><li>Recruit Rabbis to advise on what is needed to have a home for the Torah, and prepare a series of objectives based on this advice.</li>
+	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying hall, and prepare a series of objectives based on this advice.</li>
 	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
 	
 	</amp-lightbox>
