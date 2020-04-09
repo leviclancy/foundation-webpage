@@ -385,18 +385,18 @@
 	<p>ב — Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</p>
 	<p>ג — Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</p>
 
-	<h2>Objectives for Sefer Torah House</h2>
+	<h3>Objectives for Sefer Torah House</h3>
 
 	<p>א — Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</p>
 	<p>ב — Identify the process for purchasing land and registering it to a religious organization.</>
 
-	<h2>Objectives for Kosher Services</h2>
+	<h3>Objectives for Kosher Services</h3>
 
 	<p>א — Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher: prepare a prioritized list of these needs; and cross-check with potential visitors about their expectations.</p>
 	<p>ב — Begin to import necessary items based on the prioritized list.</p>
 	<p>ג — Identify a process for sponsoring visas for pilgrims to the Kurdistan Region: look at hurdles in the Kurdistan Region government; and look at hurdles in non-KR governments.</p>
 	
-	<h2>Objectives for Museum of Ours</h2>
+	<h3>Objectives for Museum of Ours</h3>
 
 	<p>א — Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</p>
 	<p>ב — Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</p>
