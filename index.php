@@ -86,14 +86,15 @@
 		}
 	
 	#navigation-sidebar {
-		max-width: 400px;
+		max-width: 500px;
 		padding: 20px 50px;
 		box-shadow: 5px 5px 20px -5px rgba(100,100,100,0.3);
 		border-radius: 20px;
 		margin: 0 auto;
 		column-count: 2;
-		column-gap: 20px;
-		column-rule: 2px solid #333;
+		column-gap: 30px;
+		column-rule: 1px solid #333;
+		text-align: left;
 		}
 	
 	#navigation-sidebar span {
