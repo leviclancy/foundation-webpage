@@ -135,8 +135,8 @@
 		}
 	
 	#lightbox-museum {
-		background: linear-gradient(45deg, rgba(30,30,30,.9), rgba(120,120,120,.5) 70%), linear-gradient(135deg, rgba(100,100,100,1), rgba(190,190,190,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
-		color: #000;
+		background: linear-gradient(45deg, rgba(30,30,30,.9), rgba(120,120,120,.5) 70%), linear-gradient(135deg, rgba(100,100,100,1), rgba(190,190,190,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
+		color: #fff;
 		}
 
 	#lightbox-current {
