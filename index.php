@@ -96,6 +96,7 @@
 		display: block;
 		padding: 0;
 		text-align: center;
+		vertical-align: middle;
 		}
 	
 	.navigation-sidebar span {
@@ -104,9 +105,7 @@
 		height: 250px;
 		width: 250px;
 		margin: 30px;
-		border-radius: 500px;
-		background: #444;
-		color: #fff;
+		color: #333;
 		font-size: 140%;
 		}
 	
