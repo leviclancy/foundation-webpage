@@ -30,7 +30,7 @@
 	
 	h1, h2, h3, p, ul, ol {
 		display: block;
-		max-width: 700px;
+		max-width: 600px;
 		margin: 20px auto;
 		padding: 20px;
 		text-align: left;
