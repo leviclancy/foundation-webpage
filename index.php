@@ -381,35 +381,32 @@
 
 	<h2>Our objectives</h2>
 
-	<p>These objectives are our most up-to-date list.</p>
-
-	<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
-	<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
-	<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
+	<p>א — Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</p>
+	<p>ב — Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</p>
+	<p>ג — Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</p>
 
 	<h2>Objectives for the Sefer Torah</h2>
 
-	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</li>
-	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
+	<p>א — Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</p>
+	<p>ב — Identify the process for purchasing land and registering it to a religious organization.</>
 
 	<h2>Objectives for the kosher services</h2>
 
-	<ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
-		<ul><li>prepare a prioritized list of these needs;</li>
-		<li>and cross-check with potential visitors about their expectations.</li></ul>
-		</li>
-	<li>Begin to import necessary items based on the prioritized list.</li>
-	<li>Identify a process for sponsoring visas for pilgrims to the Kurdistan Region:
-		<ul><li>look at hurdles in the Kurdistan Region government;</li>
-		<li>and look at hurdles in non-KR governments.</li></ul>
-		</li></ul>
+	<p>א — Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:<br>
+		prepare a prioritized list of these needs;<br>
+		and cross-check with potential visitors about their expectations.</p>
+
+	<p>ב — Begin to import necessary items based on the prioritized list.</p>
+	<p>ג — Identify a process for sponsoring visas for pilgrims to the Kurdistan Region:<br>
+		look at hurdles in the Kurdistan Region government;<br>
+		<li>and look at hurdles in non-KR governments.</p>
 	
 	<h2>Objectives for the Museum</h2>
 
-	<ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
-	<li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
-	<li>Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</li>
-	<li>Reach 10,000 published photos on Wikimedia.</li></ul>
+	<p>א — Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</p>
+	<p>ב — Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</p>
+	<p>ג — Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</p>
+	<p>ד — Reach 10,000 published photos on Wikimedia.</p>
 
 	</amp-lightbox>
 
