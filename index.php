@@ -23,6 +23,10 @@
 		color: inherit;
 		}
 	
+	*:focus {
+		outline: none;
+		}
+	
 	#foundation-logo {
 		clear: both;
 		margin: 50px auto 20px;
