@@ -177,10 +177,10 @@
 <amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='206' layout='intrinsic'></amp-img>
 
 <h2>Mission statement</h2>
-<p>Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for tolerance, reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
+<p>Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
 
 <h2>Vision statement</h2>
-<p>Foundation of Ours envisions a Jewish presence in the Kurdistan Region, engaging with society to support tolerance, reconciliation, coexistence, and cohesion for all.</p>
+<p>Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
 
 <h2>Our three goals,</h2>
 
