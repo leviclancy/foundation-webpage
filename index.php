@@ -100,11 +100,11 @@
 		vertical-align: middle;
 		}
 	
-	.navigation-sidebar span {
+	.navigation-sidebar span, .navigation-sidebar amp-img {
 		display: inline-block;
 		vertical-align: middle;
-		margin: 0;
-		padding: 100px 0 0 100px;
+		padding: 0;
+		margin: 100px 0 0 100px;
 		color: #333;
 		font-size: 140%;
 		}
