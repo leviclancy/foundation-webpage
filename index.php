@@ -88,7 +88,7 @@
 		padding: 60px 20px;
 		}
 	
-	#section-goals {
+	#section-main-goals {
 		max-width: 100%;
 		display: block;
 		padding: 0;
@@ -97,7 +97,7 @@
 		vertical-align: middle;
 		}
 	
-	#section-goals amp-img {
+	#section-main-goals amp-img {
 		display: inline-block;
 		vertical-align: middle;
 		padding: 0;
@@ -106,7 +106,7 @@
 		font-size: 140%;
 		}
 	
-	#section-more {
+	#section-main-more {
 		max-width: 100%;
 		display: block;
 		padding: 0;
@@ -115,7 +115,7 @@
 		vertical-align: middle;
 		}
 	
-	#section-more span {
+	#section-main-more span {
 		display: inline-block;
 		vertical-align: middle;
 		margin: 50px;
