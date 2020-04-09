@@ -196,9 +196,9 @@
 
 <h2>Our three goals,</h2>
 
-<p>א — Establish and maintain <b>Sefer Torah House</b> in Erbil.<br>
-ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
-ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
+<p>א — Establish then maintain <b>Sefer Torah House</b> in Erbil.<br>
+ב — Establish then maintain <b>Kosher Services</b> in Erbil.<br>
+ג — Establish then maintain <b>Museum of Ours</b> in Erbil.</p>
 
 <div class='section-main-navigation'>
 <amp-img role='button' tabindex='1' src='/logo-black-sefer-torah-house.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'></amp-img>
