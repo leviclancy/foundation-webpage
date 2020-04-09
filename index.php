@@ -40,7 +40,7 @@
 		text-align: left;
 		}	
 	
-	h1, h2 {
+	h1, h2, h3 {
 		text-align: center;
 		font-size: 170%;
 		font-weight: 400;
@@ -48,7 +48,11 @@
 		padding: 70px 20px 10px;
 		}
 	
-	amp-lightbox h2 {
+	h3 {
+		font-size: 140%;
+		}
+	
+	amp-lightbox h2, amp-lightbox h3 {
 		text-align: left;
 		}
 	
