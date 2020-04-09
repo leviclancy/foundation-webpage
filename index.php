@@ -57,6 +57,19 @@
 		padding: 60px 20px;
 		}
 	
+	.lightbox-close {
+		background: #fff;
+		border-radius: 100px;
+		padding: 10px 20px;
+		font-size: 90%;
+		position: fixed;
+		top: 20px;
+		right: 20px;
+		color: #333;
+		opacity: 0.9;
+		box-shadow: 3px 3px 15px -4px rgba(20,20,20,0.3);
+		}
+	
 	.navigation-sidebar {
 		max-width: 100%;
 		display: block;
@@ -189,30 +202,34 @@
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 	
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah Hall</span>
-<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher Services</span>
+<span id='navigation-sidebar-sefer-torah' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah Hall</span>
+<span id='navigation-sidebar-kosher' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher Services</span>
 <br>
-<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
 </div>
 
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years, with three wings surrounding around a central courtyard with eco-friendly planting and irrigation.</p>
 	
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+<span id='navigation-sidebar-current' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+<span id='navigation-sidebar-past' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
 <br>
-<span id='navigation-sidebar-objectives' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-objectives.open'>2020 Objectives</span>
+<span id='navigation-sidebar-objectives' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-objectives.open'>2020 Objectives</span>
 </div>
 	
 <div id='section-contact'>
 <p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
-<span id='section-contact-governance' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
-<span id='section-contact-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-<span id='section-contact-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
-</div>
+<br>
+<span id='section-contact-governance' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+<span id='section-contact-articles' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+<span id='section-contact-bylaws' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+<br>
+<br>
 </div>
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
+	
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
 
 	<h2>Museum of Ours</h2>
 
@@ -236,7 +253,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h3>Research database</h3>
 
-	<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='github.com/leviclancy/foundation-database/'>github</a> for use on your own projects.</p>
+	<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='github.com/leviclancy/foundation-database/'>Github</a> for use on your own projects.</p>
 
 	<h3>Physical space</h3>
 	
@@ -246,11 +263,15 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-sefer-torah'>
 
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+
 	<h2>Sefer Torah</h2>
 	
 	</amp-lightbox>
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-kosher'>
+
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
 
 	<h2>Kosher services</h2>
 
@@ -259,6 +280,8 @@ is not a separate legal entity from the Foundation and does not have authority s
 	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-current'>
+
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
 
 	<h2>Current news</h2>
 
@@ -305,6 +328,8 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-past'>
 	
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+
 	<h2>Past news</h2>
 
 	<h3>Museum of Ours</h3>
@@ -386,6 +411,8 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-objectives'>
 
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+
 	<h2>Our objectives</h2>
 
 	<p>These objectives are our most up-to-date list.</p>
@@ -422,6 +449,8 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-governance'>
 
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+
 	<h2>Legal</h2>
 
 	<p>Foundation of Ours is a religious nonprofit organization as defined by the Internal Revenue Code of the United States and the Maine Nonprofit Corporation Act of the State of Maine. It is governed by its Board of Directors and by five officers: a President, a Clerk, a Treasurer, a Lead Rabbi, and a Museum Officer. Because of the small size of Foundation of Ours, all officers are also on the Board of Directors. In addition to these Directors, there are non-officers bringing the number of Directors to __ (__) in total. Directors come from a range of faiths including Judaism, Ezidism, and Islam.</p>
@@ -430,6 +459,8 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-articles'>
 
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+
 	<h2>Articles of Incorporation</h2>
 
 	<p></p>
@@ -437,6 +468,8 @@ is not a separate legal entity from the Foundation and does not have authority s
 	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-bylaws'>
+
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
 
 	<h2>Bylaws</h2>
 
