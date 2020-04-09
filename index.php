@@ -102,16 +102,15 @@
 	.navigation-sidebar span {
 		display: inline-block;
 		vertical-align: middle;
-		height: 250px;
-		width: 250px;
 		margin: 30px;
+		padding: 100px;
 		color: #333;
 		font-size: 140%;
 		}
 	
 	#section-goals {
-		background: linear-gradient(45deg, rgba(220,220,200,.9), rgba(250,250,250,.5) 70%), linear-gradient(135deg, rgba(150,150,10,1), rgba(220,220,220,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(240,240,240,1) 70%);
-		color: rgba(50,10,60,1);
+		background: linear-gradient(45deg, rgba(20,220,200,.9), rgba(250,50,250,.5) 70%), linear-gradient(135deg, rgba(100,150,150,1), rgba(200,200,20,.7) 70%), linear-gradient(225deg, rgba(20,20,20,1), rgba(80,80,80,1) 70%);
+		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
 		margin: 60px 0 0 0;
