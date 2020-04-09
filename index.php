@@ -43,9 +43,9 @@
 	h1, h2 {
 		text-align: center;
 		font-size: 170%;
-		font-weight: 700;
-		font-style: normal;
-		padding: 40px 20px 30px;
+		font-weight: 400;
+		font-style: italic;
+		padding: 70px 20px 10px;
 		}
 	
 	amp-lightbox h2 {
