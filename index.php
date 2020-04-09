@@ -251,7 +251,9 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
-	<h2>Sefer Torah</h2>
+	<h2>Sefer Torah Hall</h2>
+
+	<p><i>Mission statement</i> — Sefer Torah Hall provides a Sefer Torah with an appropriate hall to house it for the use of congregants.</p>
 	
 	</amp-lightbox>
 
@@ -259,9 +261,9 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
-	<h2>Kosher services</h2>
+	<h2>Kosher Services</h2>
 
-	<p><i>Mission statement</i> — To provide dining, lodging, and logistics that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
+	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
 	
 	</amp-lightbox>
 	
