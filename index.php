@@ -25,7 +25,7 @@
 	
 	#foundation-logo {
 		clear: both;
-		margin: 0 auto;
+		margin: 50px auto 20px;
 		}
 	
 	h1, h2, h3, p, ul, ol {
