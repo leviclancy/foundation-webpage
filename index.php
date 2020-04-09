@@ -100,6 +100,7 @@
 	
 	.navigation-sidebar span {
 		display: inline-block;
+		vertical-align: middle;
 		height: 250px;
 		width: 250px;
 		margin: 30px;
