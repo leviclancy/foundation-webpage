@@ -151,7 +151,7 @@
 		}
 
 	#lightbox-current {
-		background: rgba(230,230,230,1);
+		background: linear-gradient(225deg, rgba(220,120,40,.9), rgba(240,120,20,.5) 70%), linear-gradient(135deg, rgba(240,160,100,1), rgba(160,190,220,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: #000;
 		}
 	
