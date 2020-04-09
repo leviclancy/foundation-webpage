@@ -229,7 +229,7 @@
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
 	
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Museum of Ours</h2>
 
@@ -263,7 +263,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-sefer-torah'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Sefer Torah</h2>
 	
@@ -271,7 +271,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-kosher'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Kosher services</h2>
 
@@ -281,7 +281,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-current'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.ope'>Go back</div>
 
 	<h2>Current news</h2>
 
@@ -328,7 +328,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-past'>
 	
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Past news</h2>
 
@@ -411,7 +411,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-objectives'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.ope'>Go back</div>
 
 	<h2>Our objectives</h2>
 
@@ -449,7 +449,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-governance'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Legal</h2>
 
@@ -459,7 +459,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-articles'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Articles of Incorporation</h2>
 
@@ -469,7 +469,7 @@ is not a separate legal entity from the Foundation and does not have authority s
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-bylaws'>
 
-	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Go back</div>
+	<div class='lightbox-close' role='button' tabindex='1' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close'>Go back</div>
 
 	<h2>Bylaws</h2>
 
