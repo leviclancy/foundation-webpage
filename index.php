@@ -225,10 +225,6 @@
 
 	<p><i>Mission statement</i> — Museum of Ours is based in Erbil and operates in the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
-	<p>The Museum is equipped with its own mission statement and objectives and its own public brand and social media channels. However, the Museum is a goal of the Foundation and as such,
-must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, the Museum
-is not a separate legal entity from the Foundation and does not have authority separate from nor over the Foundation.</p>
-
 	<p>Stay in the loop via the Museum's <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>.</p>
 
 	<h3>Our specialized approach</h3>
@@ -429,7 +425,11 @@ is not a separate legal entity from the Foundation and does not have authority s
 
 	<h2>Governance</h2>
 
-	<p>Foundation of Ours is a religious nonprofit organization as defined by the Internal Revenue Code of the United States and the Maine Nonprofit Corporation Act of the State of Maine. It is governed by its Board of Directors and by five officers: a President, a Clerk, a Treasurer, a Lead Rabbi, and a Museum Officer. Because of the small size of Foundation of Ours, all officers are also on the Board of Directors. In addition to these Directors, there are non-officers bringing the number of Directors to __ (__) in total. Directors come from a range of faiths including Judaism, Ezidism, and Islam.</p>
+	<p>Foundation of Ours is a religious nonprofit organization as defined by the Internal Revenue Code of the United States and the Maine Nonprofit Corporation Act of the State of Maine. It is governed by its Board of Directors and by five officers: a President, a Clerk, a Treasurer, a Lead Rabbi, and a Museum Officer.</p>
+	
+	<p>Because of the small size of Foundation of Ours, all officers are also on the Board of Directors. In addition to these Directors, there are non-officers bringing the number of Directors to __ (__) in total. Directors come from a range of faiths including Judaism, Ezidism, and Islam.</p>
+
+	<p>Sefer Torah House, Kosher Services, and Museum of Ours are equipped with their own mission statements and objectives and their own public brands and social media channels. However, they are goals of the Foundation and as such they must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, they are not a separate legal entities from the Foundation and do not have authority separate from nor over the Foundation.</p>
 
 	</amp-lightbox>
 	
