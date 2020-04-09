@@ -174,7 +174,22 @@
 		color: #eee;
 		}
 
-	#lightbox-eagle {
+	#lightbox-objectives {
+		background: rgba(100,100,100,1);
+		color: #eee;
+		}
+
+	#lightbox-governance {
+		background: #000;
+		color: #fff;
+		}
+
+	#lightbox-articles {
+		background: #000;
+		color: #fff;
+		}
+
+	#lightbox-bylaws {
 		background: #000;
 		color: #fff;
 		}
@@ -191,39 +206,32 @@
 <h2>Vision statement</h2>
 <p>Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
 
-<div class='navigation-sidebar'>
+<h2>Our three goals,</h2>
 
-<span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah</span>
-<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
-<br>
-<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
-</div>
-
-<div id='section-goals'>
-<h2>Our goals</h2>
-<p>These three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
-<ul><li>Procure a <b>Sefer Torah</b> and the accompanying hall to maintain it.</li>
+<ul><li>Procure a <b>Sefer Torah</b>, and establish and maintain the accompanying hall to house it.</li>
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li>
 <li>Establish and maintain the <b>Museum of Ours</b>.</li></ul>
+	
+<div class='navigation-sidebar'>
+<span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah</span>
+<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher Services</span>
+<br>
+<amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
+</div>
+
+<p>Our three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
+
+<div class='navigation-sidebar'>
+<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+<hr>
+<span id='navigation-sidebar-objectives' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-objectives.open'>2020 Objectives</span>
 </div>
 
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-</div>
-
-<div id='section-objectives'>
-<h2>Our objectives</h2>
-<p>These objectives are our most up-to-date list.</p>
-<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
-<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
-<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
-</div>
-
-<div class='navigation-sidebar'>
-<span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
-<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+<span id='navigation-sidebar-governance' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 </div>
 	
 <div id='section-contact'>
@@ -422,6 +430,18 @@ is not a separate legal entity from the Foundation and does not have authority s
 	<span>2016 Apr 22, Erbil. <a href='https://www.facebook.com/events/648094782004410/' target='_blank'>RSVP (private)</a></span></li>
 
 	</ol>
+
+	</amp-lightbox>
+	
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-objectives'>
+
+	<h2>Our objectives</h2>
+
+	<p>These objectives are our most up-to-date list.</p>
+
+	<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
+	<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
+	<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
 
 	</amp-lightbox>
 
