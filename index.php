@@ -109,6 +109,30 @@
 		color: #fff;
 		font-size: 140%;
 		}
+	
+	#section-goals {
+		background: linear-gradient(225deg, rgba(10,10,10,.9), rgba(40,40,40,.5) 70%), linear-gradient(135deg, rgba(120,120,120,1), rgba(80,80,80,.7) 70%), linear-gradient(225deg, rgba(0,0,0,1), rgba(20,20,20,1) 70%);
+		color: #fff;
+		display: block;
+		width: 100%;
+		padding: 60px 20px;
+		}
+
+	#section-objectives {
+		background: linear-gradient(225deg, rgba(200,200,200,.9), rgba(240,240,240,.5) 70%), linear-gradient(135deg, rgba(10,150,150,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(240,240,240,1) 70%);
+		color: #fff;
+		display: block;
+		width: 100%;
+		padding: 60px 20px;
+		}
+
+	#section-contact {
+		background: #333;
+		color: #fff;
+		display: block;
+		width: 100%;
+		padding: 60px 20px;
+		}
 
 	#lightbox-foundation {
 		background: rgba(245,245,245,1);
@@ -157,6 +181,8 @@
 <h2>Vision statement</h2>
 <p>Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
 
+<div id='section-goals'>
+	
 <h2>Our goals</h2>
 <p>These three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
 <ul><li>Establish and maintain the <b>Museum of Ours</b>.</li>
@@ -164,10 +190,14 @@
 <li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li></ul>
 	
 <div class='navigation-sidebar'>
-	<span id='navigation-sidebar-museum' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
-	<span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
-	<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
-	</div>
+<span id='navigation-sidebar-museum' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
+<span id='navigation-sidebar-home' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
+<span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+</div>
+
+</div>
+	
+<div id='section-objectives'>
 
 <h2>Our objectives</h2>
 <p>These objectives are our most up-to-date list.</p>
@@ -176,17 +206,23 @@
 <li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
 
 <div class='navigation-sidebar'>
-	<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-	<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-	</div>
+<span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+<span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+</div>
+	
+</div>
+	
+<div id='section-contact'>
 
 <p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
 	
 <div class='navigation-sidebar'>
-	<span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
-	<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-	<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
-	</div>
+<span id='navigation-sidebar-legal' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+</div>
+	
+</div>
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
 
