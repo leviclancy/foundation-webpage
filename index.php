@@ -59,7 +59,7 @@
 		}
 	
 	ol {
-		list-style-type: none;
+		list-style-type: decimal;
 		}
 	
 	ul ul {
@@ -219,9 +219,9 @@
 
 <h2>Our three goals,</h2>
 
-<ul><li>Establish and maintain <b>Sefer Torah Hall</b> in Erbil.</li>
+<ol><li>Establish and maintain <b>Sefer Torah Hall</b> in Erbil.</li>
 <li>Establish and maintain <b>Kosher Services</b> in Erbil.</li>
-<li>Establish and maintain <b>Museum of Ours</b> in Erbil.</li></ul>
+<li>Establish and maintain <b>Museum of Ours</b> in Erbil.</li></ol>
 	
 <div class='navigation-sidebar'>
 <span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah Hall</span>
