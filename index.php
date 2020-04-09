@@ -23,6 +23,10 @@
 		color: inherit;
 		}
 	
+	amp-img {
+		border: 0;
+		}
+	
 	*:focus {
 		outline: none;
 		}
