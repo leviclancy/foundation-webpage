@@ -221,21 +221,22 @@
 
 <p>Our three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
 
+<hr>
+	
 <div class='navigation-sidebar'>
 <span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
 <span id='navigation-sidebar-past' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-<hr>
+<br>
 <span id='navigation-sidebar-objectives' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-objectives.open'>2020 Objectives</span>
 </div>
-
+	
+<div id='section-contact'>
+<p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
 <div class='navigation-sidebar'>
 <span id='navigation-sidebar-governance' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
 <span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
 <span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 </div>
-	
-<div id='section-contact'>
-<p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
 </div>
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
