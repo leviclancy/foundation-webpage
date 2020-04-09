@@ -110,7 +110,7 @@
 		}
 	
 	#section-goals {
-		background: linear-gradient(45deg, rgba(160,100,200,.9), rgba(60,180,20,.5) 70%), linear-gradient(135deg, rgba(30,160,240,1), rgba(50,190,210,.7) 70%), linear-gradient(225deg, rgba(20,20,20,1), rgba(80,80,80,1) 70%);
+		background: linear-gradient(45deg, rgba(50,190,210,.9), rgba(25,110,210,.5) 70%), linear-gradient(135deg, rgba(0,40,250,1), rgba(70,180,220,.7) 70%), linear-gradient(225deg, rgba(20,20,20,1), rgba(80,80,80,1) 70%);
 		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
