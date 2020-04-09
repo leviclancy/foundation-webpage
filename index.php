@@ -60,6 +60,10 @@
 		padding: 60px 20px;
 		}
 	
+	amp-lightbox amp-img {
+		margin: 150px auto 100px;
+		}
+	
 	.lightbox-go-back {
 		font-family: Helvetica;
 		background: linear-gradient(45deg, rgba(250,250,250,0.2), rgba(250,250,250,0.1));;
@@ -224,7 +228,6 @@
 
 	<amp-img src='/logo-white-museum-of-ours.png' alt='Museum of Ours' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<br>
 	<h2>Museum of Ours</h2>
 
 	<p><i>Mission statement</i> — Museum of Ours is based in Erbil and operates in the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
@@ -259,7 +262,6 @@
 
 	<amp-img src='/logo-white-sefer-torah-house.png' alt='Sefer Torah House' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<br>
 	<h2>Sefer Torah House</h2>
 	
 	<p><i>Mission statement</i> — Sefer Torah House provides a Sefer Torah with an appropriate housing for the use of congregants.</p>
@@ -272,7 +274,6 @@
 
 	<amp-img src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<br>
 	<h2>Kosher Services</h2>
 
 	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
