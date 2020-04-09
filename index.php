@@ -95,7 +95,7 @@
 		max-width: 100%;
 		display: block;
 		padding: 0;
-		padding: 0 100px 100px 0;
+		padding: 0 50px 100px;
 		text-align: center;
 		vertical-align: middle;
 		}
@@ -104,7 +104,7 @@
 		display: inline-block;
 		vertical-align: middle;
 		padding: 0;
-		margin: 100px 0 0 100px;
+		margin: 100px 50px 0;
 		color: #333;
 		font-size: 140%;
 		}
