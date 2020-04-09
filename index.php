@@ -86,11 +86,14 @@
 		}
 	
 	#navigation-sidebar {
-		width: 400px;
-		padding: 20px;
+		width: auto;
+		padding: 20px 50px;
 		box-shadow: 5px 5px 20px -5px rgba(100,100,100,0.3);
 		border-radius: 20px;
 		margin: 0 auto;
+		column-count: 2;
+		column-gap: 20px;
+		column-rule: 2px solid #333;
 		}
 	
 	#navigation-sidebar span {
@@ -138,28 +141,25 @@
 
 <amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='intrinsic'></amp-img>
 	
+<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
+
+<p><i>Vision</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
+
 <div id='navigation-sidebar'>
-	<span id='navigation-sidebar-findoutmore'>Find out more...</span>
-	<span id='navigation-sidebar-foundation' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-foundation.open'>Foundation of Ours</span>
-		<span id='navigation-sidebar-museum' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
-		<span id='navigation-sidebar-home' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
-		<span id='navigation-sidebar-kosher' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
-	<span id='navigation-sidebar-current' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
-	<span id='navigation-sidebar-past' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
-	<span id='navigation-sidebar-legal' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-legal.open'>Legal status</span>
-		<span id='navigation-sidebar-articles' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-		<span id='navigation-sidebar-bylaws' on='tap:lightbox-foundation.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+	<span id='navigation-sidebar-goals' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-goals.open'>Goals and Objectives</span>
+		<span id='navigation-sidebar-museum' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'>Museum of Ours</span>
+		<span id='navigation-sidebar-home' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-home.open'>Home for the Torah</span>
+		<span id='navigation-sidebar-kosher' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher services</span>
+	<span id='navigation-sidebar-current' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
+	<span id='navigation-sidebar-past' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-past.open'>Past news</span>
+	<span id='navigation-sidebar-legal' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-legal.open'>Legal status</span>
+		<span id='navigation-sidebar-articles' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+		<span id='navigation-sidebar-bylaws' on='tap:lightbox-goals.close,lightbox-museum.close,lightbox-home.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-legal.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 	</div>
 
 <p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
 
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-foundation'>
-
-	<h1>Foundation of Ours</h1>
-
-	<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
-
-	<p><i>Vision</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region as a more cohesive society in the Kurdistan Region with improved tolerance for all.</p>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-goals'>
 
 	<h2>Our goals</h2>
 
