@@ -135,7 +135,6 @@
 		padding: 60px 0 80px;
 		}
 
-
 	#section-contact {
 		background: #333;
 		color: #fff;
@@ -143,6 +142,14 @@
 		width: 100%;
 		padding: 60px 0;
 		}
+	
+	#section-contact span {
+		display: block;
+		max-width: 500px;
+		margin: 10px auto;
+		padding: 0 20px;
+		}
+		
 
 	#lightbox-foundation {
 		background: rgba(245,245,245,1);
@@ -208,7 +215,7 @@
 
 <h2>Our three goals,</h2>
 
-<ul><li>Establish and maintain a <b>Sefer Torah Hall</b> in Erbil.</li>
+<ul><li>Establish and maintain <b>Sefer Torah Hall</b> in Erbil.</li>
 <li>Establish and maintain <b>Kosher Services</b> in Erbil.</li>
 <li>Establish and maintain <b>Museum of Ours</b> in Erbil.</li></ul>
 	
@@ -232,10 +239,9 @@
 	
 <div id='section-contact'>
 <p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
-<div class='navigation-sidebar'>
-<span id='navigation-sidebar-governance' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
-<span id='navigation-sidebar-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
-<span id='navigation-sidebar-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
+<span id='section-contact-governance' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-governance.open'>Governance</span>
+<span id='section-contact-articles' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-articles.open'>Articles of Incorporation</span>
+<span id='section-contact-bylaws' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-bylaws.open'>Bylaws</span>
 </div>
 </div>
 
