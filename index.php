@@ -90,6 +90,11 @@
 		padding: 20px;
 		box-shadow: 5px 5px 20px -5px rgba(100,100,100,0.3);
 		border-radius: 20px;
+		margin: 0 auto;
+		}
+	
+	#navigation-sidebar span {
+		display: block;
 		}
 
 	#lightbox-foundation {
@@ -131,7 +136,7 @@
 </head>
 <body>
 
-<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='responsive'></amp-img>
+<amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' width='500' height='206' layout='fixed-height'></amp-img>
 	
 <div id='navigation-sidebar'>
 	<span id='navigation-sidebar-findoutmore'>Find out more...</span>
