@@ -110,21 +110,23 @@
 		}
 	
 	#section-goals {
-		background: linear-gradient(45deg, rgba(50,190,210,.8), rgba(100,100,100,.5) 60%), linear-gradient(135deg, rgba(180,180,180,1), rgba(70,180,220,1) 100%);
+		background: linear-gradient(45deg, rgba(0,150,200,.8), rgba(220,220,220,.5) 60%), linear-gradient(135deg, rgba(160,160,160,1), rgba(40,150,210,1) 100%);
 		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
-		margin: 60px 0 0 0;
+		margin: 90px 0 0 0;
 		padding: 60px 20px 80px;
 		}
 
 	#section-objectives {
-		background: linear-gradient(225deg, rgba(200,200,200,.9), rgba(240,240,240,.5) 70%), linear-gradient(135deg, rgba(10,150,150,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(240,240,240,1) 70%);
-		color: rgba(90,60,25,1);
+		background: linear-gradient(225deg, rgba(140,140,140,.9), rgba(240,240,240,.5) 70%), linear-gradient(135deg, rgba(10,150,150,1), rgba(200,200,200,1) 100%);
+		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
+		margin: 90px 0 0 0;
 		padding: 60px 20px 80px;
 		}
+
 
 	#section-contact {
 		background: #333;
