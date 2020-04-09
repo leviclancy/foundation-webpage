@@ -101,6 +101,7 @@
 		max-width: 100%;
 		display: block;
 		padding: 0;
+		padding: 0 100px 100px 0;
 		text-align: center;
 		vertical-align: middle;
 		}
@@ -108,8 +109,8 @@
 	.navigation-sidebar span {
 		display: inline-block;
 		vertical-align: middle;
-		margin: 30px;
-		padding: 100px;
+		margin: 0;
+		padding: 100px 0 0 100px;
 		color: #333;
 		font-size: 140%;
 		}
