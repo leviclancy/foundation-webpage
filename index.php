@@ -13,7 +13,7 @@
 	body {
 		margin: 0;
 		padding: 0;
-		font-size: 1.35em;
+		font-size: 1.25em;
 		line-height: 1.5em;
 		background: rgba(245,245,245,1);
 		text-align: center;
