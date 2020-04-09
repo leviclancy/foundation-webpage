@@ -199,7 +199,7 @@
 <body>
 
 <amp-img src='/foundation-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='206' layout='intrinsic'></amp-img>
-	
+
 <h2>Mission statement</h2>
 <p>Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 
@@ -208,12 +208,12 @@
 
 <h2>Our three goals,</h2>
 
-<ul><li>Procure a <b>Sefer Torah</b>, and establish and maintain the accompanying hall to house it.</li>
-<li>Provide <b>kosher services</b> such as dining, lodging, and logistics.</li>
-<li>Establish and maintain the <b>Museum of Ours</b>.</li></ul>
+<ul><li>Establish and maintain a <b>Sefer Torah Hall</b> in Erbil.</li>
+<li>Establish and maintain <b>Kosher Services</b> in Erbil.</li>
+<li>Establish and maintain <b>Museum of Ours</b> in Erbil.</li></ul>
 	
 <div class='navigation-sidebar'>
-<span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah</span>
+<span id='navigation-sidebar-sefer-torah' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-sefer-torah.open'>Sefer Torah Hall</span>
 <span id='navigation-sidebar-kosher' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-kosher.open'>Kosher Services</span>
 <br>
 <amp-img src='/museum-of-ours-logo.png' alt='Foundation of Ours' id='foundation-logo' width='250' height='248' layout='intrinsic' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-museum.open'></amp-img>
@@ -257,13 +257,6 @@ is not a separate legal entity from the Foundation and does not have authority s
 	<li><b>Many acquisitions, but no permanent space yet.</b> This requires ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them.</li>
 	<li><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</li></ul>
 
-	<h3>Objectives for the Museum</h3>
-
-	<ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
-	<li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
-	<li>Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</li>
-	<li>Reach 10,000 published photos on Wikimedia.</li></ul>
-
 	<h3>Research database</h3>
 
 	<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='github.com/leviclancy/foundation-database/'>github</a> for use on your own projects.</p>
@@ -281,29 +274,14 @@ is not a separate legal entity from the Foundation and does not have authority s
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-sefer-torah'>
 
 	<h2>Sefer Torah</h2>
-
-	<h3>Objectives for the Sefer Torah</h3>
-
-	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying hall, and prepare a series of objectives based on this advice.</li>
-	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
 	
 	</amp-lightbox>
 
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-kosher'>
 
-	<h2>Kosher services</h2>	
+	<h2>Kosher services</h2>
 
-	<h3>Objectives for the kosher services</h3>
-
-	<ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
-		<ul><li>prepare a prioritized list of these needs;</li>
-		<li>and cross-check with potential visitors about their expectations.</li></ul>
-		</li>
-	<li>Begin to import necessary items based on the prioritized list.</li>
-	<li>Identify a process for sponsoring visas for pilgrims to the Kurdistan Region:
-		<ul><li>look at hurdles in the Kurdistan Region government;</li>
-		<li>and look at hurdles in non-KR governments.</li></ul>
-		</li></ul>
+	<p><i>Mission statement</i> — To provide dining, lodging, and logistics that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
 	
 	</amp-lightbox>
 	
@@ -442,6 +420,30 @@ is not a separate legal entity from the Foundation and does not have authority s
 	<ul><li>Incorporate as a religious nonprofit in the United States, and the Kurdistan Region. This requires establishing articles of incorporation, establishing bylaws, recruiting boardmembers, and incorporating in Maine and Erbil.</li>
 	<li>Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</li>
 	<li>Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</li></ul>
+
+	<h3>Objectives for the Sefer Torah</h3>
+
+	<ul><li>Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying hall, and prepare a series of objectives based on this advice.</li>
+	<li>Identify the process for purchasing land and registering it to a religious organization.</li></ul>
+
+	<h3>Objectives for the kosher services</h3>
+
+	<ul><li>Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher:
+		<ul><li>prepare a prioritized list of these needs;</li>
+		<li>and cross-check with potential visitors about their expectations.</li></ul>
+		</li>
+	<li>Begin to import necessary items based on the prioritized list.</li>
+	<li>Identify a process for sponsoring visas for pilgrims to the Kurdistan Region:
+		<ul><li>look at hurdles in the Kurdistan Region government;</li>
+		<li>and look at hurdles in non-KR governments.</li></ul>
+		</li></ul>
+	
+	<h3>Objectives for the Museum</h3>
+
+	<ul><li>Due to the COVID-19 pandemic, an emphasis will be placed on digital events such as weekly podcasts. Awareness about the Museum will be raised through press releases and pursuing media coverage.</li>
+	<li>Identify and publicize local heritage institutions’ short-term needs. Fulfill these needs when possible, e.g. pamphlets, leaflets, and digital presence.</li>
+	<li>Digitize the entire collection of objects acquired so far. Raise awareness with publication of materials produced via digitization.</li>
+	<li>Reach 10,000 published photos on Wikimedia.</li></ul>
 
 	</amp-lightbox>
 
