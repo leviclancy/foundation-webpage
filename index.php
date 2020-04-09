@@ -119,7 +119,7 @@
 		}
 
 	#section-objectives {
-		background: linear-gradient(90deg, rgba(200,180,60,.9), rgba(170,170,170,.5) 70%), linear-gradient(225deg, rgba(255,200,0,1), rgba(130,130,130,1) 100%);
+		background: linear-gradient(90deg, rgba(255,210,70,.9), rgba(170,170,170,.5) 70%), linear-gradient(225deg, rgba(255,200,0,1), rgba(130,130,130,1) 100%);
 		color: rgba(255,255,255,1);
 		display: block;
 		width: 100%;
