@@ -66,7 +66,7 @@
 		background: linear-gradient(45deg, rgba(250,250,250,0.2), rgba(250,250,250,0.1));;
 		border: 1px solid rgba(255,255,255,0.9);
 		border-radius: 100px;
-		padding: 8px 25px 6px;
+		padding: 13px 20px 11px;
 		font-size: 75%;
 		line-height: 1em;
 		position: fixed;
