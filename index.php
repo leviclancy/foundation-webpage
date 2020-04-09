@@ -285,7 +285,7 @@
 
 	<h2>Current news</h2>
 
-	<p>Ongoing collecting.</b><br>
+	<p><b>Ongoing collecting.</b><br>
 	<span>During the coronavirus crisis, acquisitions are still ongoing. Although we are moving toward our goal of acquiring land, all religious gatherings are on hold.</span></p>
 	
 	<!-- <p><b>Event name.</b><br>
