@@ -68,7 +68,7 @@
 		border-radius: 100px;
 		padding: 3px 25px;
 		font-size: 75%;
-		line-height: 1em
+		line-height: 1em;
 		position: fixed;
 		top: 20px;
 		right: 20px;
