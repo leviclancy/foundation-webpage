@@ -50,6 +50,7 @@
 		font-weight: 400;
 		font-style: italic;
 		padding: 40px 20px 0;
+		text-align: center;
 		}
 	
 	ul {
@@ -144,10 +145,9 @@
 		}
 	
 	#section-contact span {
-		display: block;
+		display: inlinne-block;
 		max-width: 500px;
-		margin: 10px auto;
-		padding: 0 20px;
+		margin: 20px;
 		}
 		
 
@@ -227,8 +227,6 @@
 </div>
 
 <p>Our three goals are envisioned as being realized in one physical building with several wings, built to last for hundreds of years and centering around a central courtyard with eco-friendly planting and irrigation.</p>
-
-<hr>
 	
 <div class='navigation-sidebar'>
 <span id='navigation-sidebar-current' on='tap:lightbox-museum.close,lightbox-sefer-torah.close,lightbox-kosher.close,lightbox-current.close,lightbox-past.close,lightbox-objectives.close,lightbox-governance.close,lightbox-articles.close,lightbox-bylaws.close,lightbox-current.open'>Current news</span>
