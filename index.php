@@ -77,7 +77,7 @@
 		font-size: 75%;
 		line-height: 1em;
 		position: fixed;
-		top: 20px;
+		bottom: 20px;
 		right: 20px;
 		color: rgba(255,255,255,1);
 		opacity: 1;
