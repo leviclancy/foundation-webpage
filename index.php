@@ -115,6 +115,7 @@
 		color: rgba(20,20,20,1);
 		display: block;
 		width: 100%;
+		margin: 60px 0 0 0;
 		padding: 60px 20px 80px;
 		}
 
