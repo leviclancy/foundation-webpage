@@ -23,6 +23,7 @@
 		}
 	
 	amp-img {
+		display: block;
 		margin: 0 auto;
 		}
 	
