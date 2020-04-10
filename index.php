@@ -250,7 +250,7 @@
 
 	<p><i>Mission statement</i> — Museum of Ours is based in Erbil and operates in the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
 
-	<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a> and <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>.</p>
+	<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a>, <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>, and the <a href='https://podcast.ours.foundation/' target='_blank'>Museum of Ours podcast</a>.</p>
 
 	<h3>Our specialized approach</h3>
 	
