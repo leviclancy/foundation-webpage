@@ -97,7 +97,7 @@
 		}
 	
 	#section-header-goals {
-		margin: 50px 0 0 0;
+		margin: 50px 0 30px 0;
 		}
 	
 	#section-header-goals amp-img {
