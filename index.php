@@ -70,7 +70,7 @@
 	
 	.lightbox-go-back {
 		font-family: Helvetica;
-		background: linear-gradient(45deg, rgba(250,250,250,0.3), rgba(250,250,250,0.1));;
+		background: rgba(250,250,250,0.2);
 		border-radius: 100px;
 		padding: 11px 20px 9px;
 		font-size: 75%;
@@ -78,7 +78,7 @@
 		position: fixed;
 		top: 20px;
 		left: 20px;
-		color: rgba(255,255,255,0.75);
+		color: rgba(255,255,255,0.8);
 		opacity: 1;
 		cursor: pointer;
 		}
