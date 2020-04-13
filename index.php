@@ -165,7 +165,7 @@
 		color: rgba(255,255,255,0.9);
 		}
 	
-	#lightbox-sefer-torah {
+	#lightbox-beit-halevi {
 		background: linear-gradient(225deg, rgba(10,120,180,.9), rgba(150,180,190,.5) 70%), linear-gradient(135deg, rgba(25,130,220,1), rgba(30,130,50,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
@@ -217,7 +217,7 @@
 <? $close_lightboxes = implode(",", [
 	"lightbox-foundation.close",
 	"lightbox-museum.close",
-	"lightbox-sefer-torah.close",
+	"lightbox-beit-halevi.close",
 	"lightbox-kosher.close",
 	"lightbox-current.close",
 	"lightbox-past.close",
@@ -229,7 +229,7 @@
 
 
 <div id='section-banner'>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'>Sefer Torah House</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>Beit HaLevi</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>Kosher Services</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
 </div>
@@ -244,11 +244,11 @@
 <div id='section-main'>
 <amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 <h2>Our three goals,</h2>
-<p>א — Establish and maintain <b>Sefer Torah House</b> in Erbil.<br>
+<p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <div id='section-header-goals'>
-<amp-img role='button' tabindex='1' src='/logo-white-sefer-torah-house.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
 </div>
@@ -305,15 +305,15 @@
 	
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-sefer-torah'>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-beit-halevi'>
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-sefer-torah-house.png' alt='Sefer Torah House' width='300' height='300' layout='intrinsic' ></amp-img>
+	<amp-img src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<h2>Sefer Torah House</h2>
+	<h2>Beit HaLevi</h2>
 	
-	<p><i>Mission statement</i> — Sefer Torah House provides a Sefer Torah with an appropriate housing for the use of congregants.</p>
+	<p><i>Mission statement</i> — Beit HaLevi provides a Sefer Torah with an appropriate housing for the use of congregants and pilgrims.</p>
 	
 	</amp-lightbox>
 
@@ -445,7 +445,7 @@
 	<p>ב — Consolidate a local network of heritage professionals and enthusiasts. This requires fostering a sense of community and engaging people in the network with the mission statement.</p>
 	<p>ג — Establish an online and media-friendly presence for the Foundation. This means distributing press releases, improving the research database, and looking at digital initiatives.</p>
 
-	<h3>Objectives for Sefer Torah House</h3>
+	<h3>Objectives for Beit HaLevi</h3>
 
 	<p>א — Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</p>
 	<p>ב — Identify the process for purchasing land and registering it to a religious organization.</>
@@ -477,7 +477,7 @@
 	
 	<p>Because of the small size of Foundation of Ours, all officers are also on the Board of Directors. In addition to these Directors, there are non-officers bringing the number of Directors to __ (__) in total. Directors come from a range of faiths including Judaism, Ezidism, and Islam.</p>
 
-	<p>Sefer Torah House, Kosher Services, and Museum of Ours are equipped with their own mission statements and objectives and their own public brands and social media channels. However, they are goals of the Foundation and as such they must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, they are not a separate legal entities from the Foundation and do not have authority separate from nor over the Foundation.</p>
+	<p>Beit HaLevi, Kosher Services, and Museum of Ours are equipped with their own mission statements and objectives and their own public brands and social media channels. However, they are goals of the Foundation and as such they must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, they are not a separate legal entities from the Foundation and do not have authority separate from nor over the Foundation.</p>
 
 	</amp-lightbox>
 	
