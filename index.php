@@ -83,6 +83,19 @@
 		cursor: pointer;
 		}
 	
+	#section-banner {
+		position: absolute;
+		top: 0;
+		right: 0;
+		}
+	
+	#section-banner span {
+		font-family: Helvetica;
+		font-size: 60%;
+		color: #333;
+		margin: 20px;
+		}
+	
 	#section-header, #section-main, #section-more, #section-contact {
 		padding: 60px 20px;
 		margin: 0;
@@ -212,6 +225,13 @@
 	"lightbox-bylaws.close",
 	]); ?>
 
+
+<div id='section-banner'>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'>Sefer Torah House</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>Kosher Services</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
+</div>
+	
 <div id='section-header'>
 <amp-img role='button' tabindex='1' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2>Who we are,</h2>
