@@ -115,11 +115,12 @@
 		}
 	
 	#section-main-more span {
+		font-family: Verdana;
 		display: inline-block;
 		vertical-align: middle;
 		margin: 50px;
 		color: #333;
-		font-size: 100%;
+		font-size: 130%;
 		box-shadow: 2px 2px 30px -5px rgba(50,50,50,0.4);
 		border-radius: 200px;
 		padding: 13px 25px;
@@ -134,9 +135,10 @@
 		}
 	
 	#section-contact span {
+		font-family: Verdana;
 		display: inline-block;
 		max-width: 500px;
-		font-size: 90%;
+		font-size: 100%;
 		margin: 20px;
 		padding: 8px 25px;
 		border: 1px solid #fff;
