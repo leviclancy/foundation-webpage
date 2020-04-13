@@ -17,6 +17,7 @@
 		line-height: 1.6em;
 		background: rgba(245,245,245,1);
 		text-align: center;
+		background: linear-gradient(90deg, rgba(230,230,230,1), rgba(50,50,50,1));
 		}
 	
 	a	{
@@ -126,7 +127,6 @@
 		}
 
 	#section-contact {
-		background: #333;
 		color: #fff;
 		display: block;
 		width: 100%;
