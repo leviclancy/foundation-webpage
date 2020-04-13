@@ -131,7 +131,7 @@
 		}
 
 	#section-more span {
-		color: rgba(0,0,0,0.8);
+		color: rgba(0,0,0,0.5);
 		box-shadow: 2px 8px 30px -5px rgba(50,50,50,0.4);
 		}
 
