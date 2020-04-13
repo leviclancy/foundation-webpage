@@ -49,7 +49,7 @@
 		font-size: 170%;
 		font-weight: 400;
 		font-style: italic;
-		padding: 70px 20px 10px;
+		padding: 70px 0 10px;
 		}
 	
 	h3 {
