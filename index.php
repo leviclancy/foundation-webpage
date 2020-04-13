@@ -78,7 +78,7 @@
 		position: fixed;
 		top: 20px;
 		left: 20px;
-		color: rgba(255,255,255,1);
+		color: rgba(255,255,255,0.65);
 		opacity: 1;
 		box-shadow: 3px -3px 20px -5px rgba(20,20,20,0.3);
 		}
