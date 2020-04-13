@@ -87,6 +87,8 @@
 		position: absolute;
 		top: 0;
 		right: 20px;
+		padding: 0;
+		margin: 0;
 		}
 	
 	#section-banner span {
@@ -100,9 +102,8 @@
 		}
 	
 	#section-banner span + #section-banner span {
-		margin-left: 20px;
+		margin-left: 40px;
 		}
-	
 	
 	#section-header, #section-main, #section-more, #section-contact {
 		padding: 60px 20px;
