@@ -244,9 +244,9 @@
 <div id='section-main'>
 <amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 <h2>Our three goals,</h2>
-<p>א — Establish then maintain <b>Sefer Torah House</b> in Erbil.<br>
-ב — Establish then maintain <b>Kosher Services</b> in Erbil.<br>
-ג — Establish then maintain <b>Museum of Ours</b> in Erbil.</p>
+<p>א — Establish and maintain <b>Sefer Torah House</b> in Erbil.<br>
+ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
+ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <div id='section-header-goals'>
 <amp-img role='button' tabindex='1' src='/logo-white-sefer-torah-house.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
