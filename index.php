@@ -119,17 +119,20 @@
 
 		}
 	
-	#section-more span {
+	#section-more span, #section-contact span {
 		font-family: Helvetica;
 		display: inline-block;
 		vertical-align: middle;
-		margin: 50px;
-		color: #333;
-		font-size: 90%;
-		box-shadow: 2px 2px 30px -5px rgba(50,50,50,0.4);
-		border-radius: 200px;
-		padding: 11px 27px;
 		cursor: pointer;
+		font-size: 90%;
+		margin: 30px;
+		border-radius: 200px;
+		padding: 11px 27px;		
+		}
+
+	#section-more span {
+		color: #333;
+		box-shadow: 2px 2px 30px -5px rgba(50,50,50,0.4);
 		}
 
 	#section-contact {
@@ -139,15 +142,7 @@
 		}
 	
 	#section-contact span {
-		font-family: Helvetica;
-		display: inline-block;
-		max-width: 500px;
-		font-size: 90%;
-		margin: 20px;
-		padding: 11px 27px;
 		border: 1px solid #fff;
-		border-radius: 200px;
-		cursor: pointer;
 		}
 		
 	#lightbox-foundation {
