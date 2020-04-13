@@ -119,10 +119,10 @@
 		vertical-align: middle;
 		margin: 50px;
 		color: #333;
-		font-size: 120%;
+		font-size: 100%;
 		box-shadow: 2px 2px 30px -5px rgba(50,50,50,0.4);
 		border-radius: 200px;
-		padding: 15px 20px;
+		padding: 13px 25px;
 		}
 
 	#section-contact {
