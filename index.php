@@ -86,23 +86,17 @@
 	#section-banner {
 		position: absolute;
 		top: 0;
-		right: 20px;
-		padding: 0;
-		margin: 0;
+		right: 0;
 		}
 	
 	#section-banner span {
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 20px 0 0;
+		margin: 20px 20px 0 0;
 		padding: 0;
 		cursor: pointer;
 		display: inline-block;
-		}
-	
-	#section-banner span + #section-banner span {
-		margin-left: 40px;
 		}
 	
 	#section-header, #section-main, #section-more, #section-contact {
