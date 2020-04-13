@@ -147,7 +147,7 @@
 		display: block;
 		width: 100%;
 		padding: 60px 0;
-		box-shadow: 0 -20px 30px -10px rgba(40,40,40,0.5);
+		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
 		}
 	
 	#section-contact span {
