@@ -146,7 +146,7 @@
 		color: #fff;
 		display: block;
 		width: 100%;
-		padding: 60px 0;
+		padding: 60px 20px;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
 		}
 	
