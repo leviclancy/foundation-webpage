@@ -94,6 +94,7 @@
 		font-size: 60%;
 		color: #333;
 		margin: 20px;
+		cursor: pointer;
 		}
 	
 	#section-header, #section-main, #section-more, #section-contact {
@@ -107,6 +108,7 @@
 		vertical-align: middle;		}
 	
 	#section-header amp-img {
+		margin-top: 50px;
 		}
 	
 	#section-header-goals {
