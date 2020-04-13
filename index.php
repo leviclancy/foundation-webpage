@@ -85,17 +85,18 @@
 	
 	#section-banner {
 		position: absolute;
-		top: 0;
+		top: 20px;
 		right: 0;
 		text-align: right;
 		}
 	
 	#section-banner span {
+		position: relative;
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 0 20px 20px 0;
-		padding: 0;
+		margin: 0;
+		padding: 0 20px 0 0;
 		line-height: 1.2em
 		cursor: pointer;
 		display: inline-block;
