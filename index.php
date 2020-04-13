@@ -198,6 +198,7 @@
 <body>
 	
 <? $close_lightboxes = implode(",", [
+	"lightbox-main.close",
 	"lightbox-museum.close",
 	"lightbox-sefer-torah.close",
 	"lightbox-kosher.close",
