@@ -97,6 +97,7 @@
 		}
 	
 	#section-header-goals {
+		margin: 50px 0 0 0;
 		}
 	
 	#section-header-goals amp-img {
@@ -218,7 +219,6 @@
 
 <div id='section-header'>
 <amp-img role='button' tabindex='1' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
-<br>
 <div id='section-header-goals'>
 <amp-img role='button' tabindex='1' src='/logo-black-sefer-torah-house.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
