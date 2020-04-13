@@ -91,8 +91,7 @@
 	#section-main-goals {
 		max-width: 100%;
 		display: block;
-		padding: 0;
-		padding: 0 0 100px;
+		padding: 50px 0;
 		text-align: center;
 		vertical-align: middle;
 		}
@@ -110,7 +109,7 @@
 		max-width: 100%;
 		display: block;
 		padding: 0;
-		padding: 100px 0;
+		padding: 50px 0;
 		text-align: center;
 		vertical-align: middle;
 		}
@@ -120,10 +119,10 @@
 		vertical-align: middle;
 		margin: 50px;
 		color: #333;
-		font-size: 140%;
+		font-size: 130%;
 		border: 3px solid #555;
 		border-radius: 200px;
-		padding: 20px;
+		padding: 15px 20px;
 		}
 
 	#section-contact {
