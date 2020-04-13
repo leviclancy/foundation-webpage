@@ -73,12 +73,12 @@
 		background: linear-gradient(45deg, rgba(250,250,250,0.2), rgba(250,250,250,0.1));;
 		border: 1px solid rgba(255,255,255,0.9);
 		border-radius: 100px;
-		padding: 13px 20px 11px;
+		padding: 11px 20px 9px;
 		font-size: 75%;
 		line-height: 1em;
 		position: fixed;
-		bottom: 20px;
-		right: 20px;
+		top: 20px;
+		left: 20px;
 		color: rgba(255,255,255,1);
 		opacity: 1;
 		box-shadow: 3px -3px 20px -5px rgba(20,20,20,0.3);
@@ -145,7 +145,7 @@
 		}
 		
 	#lightbox-foundation {
-		background: rgba(245,245,245,1);
+		background: linear-gradient(45deg, rgba(100,100,100,.9), rgba(100,100,190,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
 	
@@ -240,6 +240,8 @@
 	
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 	
+	<amp-img src='/logo-white-foundation-of-ours.png' alt='Museum of Ours' width='300' height='300' layout='intrinsic' ></amp-img>
+
 	<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
 
 	<p><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
