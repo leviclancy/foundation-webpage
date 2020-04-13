@@ -84,20 +84,20 @@
 		cursor: pointer;
 		}
 	
-	#section-header {
+	#section-header, #section-main, #section-more, #section-contact {
 		padding: 60px 20px;
-		}
+		margin: 0;
+		box-sizing: border-box;
+		display: block;
+		width: 100%;
+		max-width: 100%;
+		text-align: center;
+		vertical-align: middle;		}
 	
 	#section-header amp-img {
-		cursor: pointer;
 		}
 	
 	#section-header-goals {
-		max-width: 100%;
-		display: block;
-		padding: 50px 0;
-		text-align: center;
-		vertical-align: middle;
 		}
 	
 	#section-header-goals amp-img {
@@ -107,25 +107,16 @@
 		margin: 50px;
 		color: #333;
 		font-size: 140%;
+		cursor: pointer;
 		}
-	
-	
+
 	#section-main {
 		background: linear-gradient(45deg, rgba(150,150,150,.9), rgba(50,50,50,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: #fff;
-		display: block;
-		width: 100%;
-		padding: 60px 0;
-		margin: 0;
 		}
 	
 	#section-more {
-		max-width: 100%;
-		display: block;
-		padding: 0;
-		padding: 50px 0;
-		text-align: center;
-		vertical-align: middle;
+
 		}
 	
 	#section-more span {
@@ -142,11 +133,8 @@
 		}
 
 	#section-contact {
-		background: linear-gradient(135deg, rgba(20,20,20,1), rgba(60,60,60,1));
+		background: rgba(60,60,60,1);
 		color: #fff;
-		display: block;
-		width: 100%;
-		padding: 60px 20px;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
 		}
 	
@@ -235,8 +223,7 @@
 <amp-img role='button' tabindex='1' src='/logo-black-sefer-torah-house.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
-</div>
-</div>
+</div></div>
 
 <div id='section-main'>
 <p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
