@@ -94,8 +94,9 @@
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 0 20px 30px 0;
+		margin: 0 20px 20px 0;
 		padding: 0;
+		line-height: 1.2em
 		cursor: pointer;
 		display: inline-block;
 		}
