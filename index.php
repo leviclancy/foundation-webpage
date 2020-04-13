@@ -87,6 +87,7 @@
 		position: absolute;
 		top: 0;
 		right: 0;
+		text-align: right;
 		}
 	
 	#section-banner span {
