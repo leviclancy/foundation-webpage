@@ -210,8 +210,7 @@
 	]); ?>
 
 <div id='section-main'>
-	
-<amp-img src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2>Tap to learn more.</h2>
 <div id='section-main-goals'>
 <amp-img role='button' tabindex='1' src='/logo-black-sefer-torah-house.png' alt='Sefer Torah House' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-sefer-torah.open'></amp-img>
