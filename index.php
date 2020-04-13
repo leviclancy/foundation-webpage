@@ -85,7 +85,7 @@
 	
 	#section-banner {
 		position: absolute;
-		top: 20px;
+		top: 30px;
 		right: 0;
 		text-align: right;
 		}
