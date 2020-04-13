@@ -257,6 +257,7 @@
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
+<h2>Tap to learn more,</h2>
 <div id='section-header-goals'>
 <amp-img role='button' tabindex='1' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
