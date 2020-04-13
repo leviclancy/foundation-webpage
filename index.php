@@ -81,10 +81,15 @@
 		color: rgba(255,255,255,0.65);
 		opacity: 1;
 		box-shadow: 3px -3px 20px -5px rgba(20,20,20,0.3);
+		cursor: pointer;
 		}
 	
 	#section-main {
 		padding: 60px 20px;
+		}
+	
+	#section-main amp-img {
+		cursor: pointer;
 		}
 	
 	#section-main-goals {
@@ -123,6 +128,7 @@
 		box-shadow: 2px 2px 30px -5px rgba(50,50,50,0.4);
 		border-radius: 200px;
 		padding: 11px 27px;
+		cursor: pointer;
 		}
 
 	#section-contact {
@@ -142,6 +148,7 @@
 		padding: 11px 27px;
 		border: 1px solid #fff;
 		border-radius: 200px;
+		cursor: pointer;
 		}
 		
 	#lightbox-foundation {
