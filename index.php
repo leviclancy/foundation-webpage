@@ -127,7 +127,7 @@
 		font-size: 90%;
 		margin: 30px;
 		border-radius: 200px;
-		padding: 11px 27px;		
+		padding: 8px 30px;		
 		}
 
 	#section-more span {
