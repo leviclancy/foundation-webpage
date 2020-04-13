@@ -132,7 +132,7 @@
 
 	#section-more span {
 		color: #333;
-		box-shadow: 2px 2px 30px -5px rgba(50,50,50,0.4);
+		box-shadow: 2px 8px 30px -5px rgba(50,50,50,0.4);
 		}
 
 	#section-contact {
