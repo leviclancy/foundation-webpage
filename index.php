@@ -297,7 +297,7 @@
 
 	<h3>Research database</h3>
 
-	<p>Check it out at <a href='https://database.ours.foundation'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='github.com/leviclancy/foundation-database/'>Github</a> for use on your own projects.</p>
+	<p>Check it out at <a href='https://database.ours.foundation' target='_blank'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='https://github.com/leviclancy/foundation-database/' target='_blank'>Github</a> for use on your own projects.</p>
 
 	<h3>Physical space</h3>
 	
