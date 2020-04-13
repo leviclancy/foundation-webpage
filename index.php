@@ -70,7 +70,7 @@
 	
 	.lightbox-go-back {
 		font-family: Helvetica;
-		background: linear-gradient(45deg, rgba(250,250,250,0.2), rgba(250,250,250,0.1));;
+		background: linear-gradient(45deg, rgba(250,250,250,0.3), rgba(250,250,250,0.1));;
 		border-radius: 100px;
 		padding: 11px 20px 9px;
 		font-size: 75%;
@@ -78,9 +78,8 @@
 		position: fixed;
 		top: 20px;
 		left: 20px;
-		color: rgba(255,255,255,0.65);
+		color: rgba(255,255,255,0.75);
 		opacity: 1;
-		box-shadow: 3px -3px 20px -5px rgba(20,20,20,0.3);
 		cursor: pointer;
 		}
 	
@@ -226,6 +225,7 @@
 </div></div>
 
 <div id='section-main'>
+<h2>Who we are,</h2>
 <p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
 <p><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
 <h2>Our three goals,</h2>
