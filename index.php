@@ -146,7 +146,7 @@
 		}
 		
 	#lightbox-foundation {
-		background: linear-gradient(45deg, rgba(100,100,100,.9), rgba(100,100,190,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
+		background: linear-gradient(45deg, rgba(100,100,100,.9), rgba(20,20,20,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
 	
