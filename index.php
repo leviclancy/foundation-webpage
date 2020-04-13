@@ -17,7 +17,7 @@
 		line-height: 1.6em;
 		background: rgba(245,245,245,1);
 		text-align: center;
-		background: linear-gradient(0, rgba(255,255,255,1), rgba(50,50,50,1));
+		background: linear-gradient(0, rgba(0,0,0,1), rgba(255,255,255,1));
 		}
 	
 	a	{
