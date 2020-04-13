@@ -93,8 +93,18 @@
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 20px;
+		margin: 20px 0;
 		cursor: pointer;
+		display: inline-block;
+		}
+	
+	#section-banner span + #section-banner span {
+		margin-left: 20px;
+		}
+		
+	@media only screen and (max-width: 780px)  {
+		#section-banner span { display: block; }
+		#section-header amp-img { margin-top: 120px; }
 		}
 	
 	#section-header, #section-main, #section-more, #section-contact {
