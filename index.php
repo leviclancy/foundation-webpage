@@ -116,7 +116,7 @@
 		}
 	
 	#section-more {
-
+		padding: 90px 20px;
 		}
 	
 	#section-more span, #section-contact span {
