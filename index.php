@@ -85,10 +85,11 @@
 		}
 	
 	#section-banner {
-		position: absolute;
-		top: 30px;
-		right: 0;
+		position: relative;
+		width: 100%;
 		text-align: right;
+		display: block;
+		padding: 20px;
 		}
 	
 	#section-banner span {
@@ -97,10 +98,11 @@
 		font-size: 60%;
 		color: #333;
 		margin: 0;
-		padding: 0 20px 0 0;
+		padding: 0 0 0 20px;
 		line-height: 1.2em;
 		cursor: pointer;
 		display: inline-block;
+		text-align: left;
 		}
 	
 	@media only screen and (max-width: 780px)  {
