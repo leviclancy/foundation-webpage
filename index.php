@@ -8,6 +8,7 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+<script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
 <style amp-custom>
 	
 	body {
@@ -102,6 +103,10 @@
 		display: inline-block;
 		}
 	
+	@media only screen and (max-width: 780px)  {
+		#section-banner span { display: block; }
+		}
+
 	#section-header, #section-main, #section-more, #section-contact {
 		padding: 60px 20px;
 		margin: 0;
@@ -112,13 +117,12 @@
 		text-align: center;
 		vertical-align: middle;		}
 	
-	#section-header amp-img {
-		margin-top: 50px;
+	#section-header {
+		margin-top: 120px;
 		}
 	
-	@media only screen and (max-width: 780px)  {
-		#section-banner span { display: block; }
-		#section-header amp-img { margin-top: 120px; }
+	#section-header amp-img {
+		margin-top: 50px;
 		}
 	
 	#section-header-goals {
@@ -238,17 +242,17 @@
 	]); ?>
 
 
-<div id='section-banner'>
+<div id='section-banner' amp-fx='parallax' data-parallax-factor='1.4'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>Beit HaLevi</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>Kosher Services</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
 </div>
 	
 <div id='section-header'>
-<amp-img role='button' tabindex='1' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
-<h2>Who we are,</h2>
-<p><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
-<p><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
+<amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'>Who we are,</h2>
+<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
+<p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
 </div>
 
 <div id='section-main'>
@@ -263,10 +267,12 @@
 <amp-img role='button' tabindex='1' src='/logo-white-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
 </div>
+<h2>Three goals in one space,</h2>
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years, with three wings surrounding around a central courtyard with eco-friendly planting and irrigation.</p>
 </div>
 
 <div id='section-more'>
+<h2>Stay up-to-date,</h2>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-current.open'>Current news</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-past.open'>Past news</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'>2020 Objectives</span>
@@ -286,7 +292,7 @@
 	
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-museum-of-ours.png' alt='Museum of Ours' width='300' height='300' layout='intrinsic' ></amp-img>
+	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-museum-of-ours.png' alt='Museum of Ours' width='300' height='300' layout='intrinsic' ></amp-img>
 
 	<h2>Museum of Ours</h2>
 
@@ -320,7 +326,7 @@
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='300' height='300' layout='intrinsic' ></amp-img>
+	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='300' height='300' layout='intrinsic' ></amp-img>
 
 	<h2>Beit HaLevi</h2>
 	
@@ -332,7 +338,7 @@
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
+	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
 
 	<h2>Kosher Services</h2>
 
@@ -344,7 +350,7 @@
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
+	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 
 	<h2>Current news</h2>
 
@@ -375,7 +381,7 @@
 	
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
+	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 
 	<h2>Past news</h2>
 
