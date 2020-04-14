@@ -98,7 +98,7 @@
 		color: #333;
 		margin: 0;
 		padding: 0 20px 0 0;
-		line-height: 1.2em
+		line-height: 1.2em;
 		cursor: pointer;
 		display: inline-block;
 		}
@@ -240,7 +240,6 @@
 	"lightbox-articles.close",
 	"lightbox-bylaws.close",
 	]); ?>
-
 
 <div id='section-banner' amp-fx='parallax' data-parallax-factor='1.4'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>Beit HaLevi</span>
