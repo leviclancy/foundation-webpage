@@ -96,7 +96,7 @@
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 20px;
+		margin: 20px 20px 0 0;
 		padding: 0;
 		float: right;
 		box-sizing: border-box;
@@ -107,7 +107,7 @@
 		}
 	
 	@media only screen and (max-width: 780px)  {
-		#section-banner span { display: block; }
+		#section-banner span { clear: both; }
 		}
 
 	#section-header, #section-main, #section-more, #section-contact {
