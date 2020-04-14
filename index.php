@@ -247,10 +247,10 @@
 	"lightbox-bylaws.close",
 	]); ?>
 
-<div id='section-banner' amp-fx='parallax' data-parallax-factor='1.4'>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>Beit HaLevi</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>Kosher Services</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
+<div id='section-banner'>
+<span role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.4' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>Beit HaLevi</span>
+<span role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.4' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>Kosher Services</span>
+<span role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.4' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
 </div>
 	
 <div id='section-header'>
