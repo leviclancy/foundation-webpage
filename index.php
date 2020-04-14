@@ -292,12 +292,36 @@
 <br>
 <br>
 </div>
+	
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-beit-halevi'>
 
+	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
+
+	<amp-img src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='300' height='300' layout='intrinsic' ></amp-img>
+
+	<h2>Beit HaLevi</h2>
+	
+	<p><i>Mission statement</i> — Beit HaLevi provides a Sefer Torah with an appropriate housing for the use of congregants and pilgrims.</p>
+	
+	</amp-lightbox>
+
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-kosher'>
+
+	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
+
+	<amp-img src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
+
+	<h2>Kosher Services</h2>
+
+	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
+	
+	</amp-lightbox>
+	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-museum'>
 	
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-museum-of-ours.png' alt='Museum of Ours' width='300' height='300' layout='intrinsic' ></amp-img>
+	<amp-img src='/logo-white-museum-of-ours.png' alt='Museum of Ours' width='300' height='300' layout='intrinsic' ></amp-img>
 
 	<h2>Museum of Ours</h2>
 
@@ -327,35 +351,11 @@
 	
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-beit-halevi'>
-
-	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
-
-	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='300' height='300' layout='intrinsic' ></amp-img>
-
-	<h2>Beit HaLevi</h2>
-	
-	<p><i>Mission statement</i> — Beit HaLevi provides a Sefer Torah with an appropriate housing for the use of congregants and pilgrims.</p>
-	
-	</amp-lightbox>
-
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-kosher'>
-
-	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
-
-	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
-
-	<h2>Kosher Services</h2>
-
-	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
-	
-	</amp-lightbox>
-	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-current'>
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
+	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 
 	<h2>Current news</h2>
 
@@ -386,7 +386,7 @@
 	
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
+	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 
 	<h2>Past news</h2>
 
