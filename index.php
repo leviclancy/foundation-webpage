@@ -93,12 +93,12 @@
 		}
 	
 	#section-banner span {
-		position: relative;
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 0;
-		padding: 0 0 0 20px;
+		margin: 0 0 0 20px;
+		padding: 0;
+		box-sizing: border-box;
 		line-height: 1.2em;
 		cursor: pointer;
 		display: inline-block;
@@ -117,7 +117,8 @@
 		width: 100%;
 		max-width: 100%;
 		text-align: center;
-		vertical-align: middle;		}
+		vertical-align: middle;
+		}
 	
 	#section-header {
 		margin-top: 120px;
