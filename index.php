@@ -90,6 +90,7 @@
 		display: block;
 		margin: 0;
 		padding: 0;
+		clear: both;
 		}
 	
 	#section-banner span {
@@ -126,7 +127,7 @@
 		}
 	
 	#section-header amp-img {
-		margin-top: 50px;
+		margin-top: 100px;
 		}
 	
 	#section-header-goals {
