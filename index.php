@@ -83,6 +83,7 @@
 		color: rgba(255,255,255,0.8);
 		opacity: 1;
 		cursor: pointer;
+		z-index: 10000;
 		}
 	
 	#section-banner {
