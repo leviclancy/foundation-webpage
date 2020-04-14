@@ -58,8 +58,9 @@
 		font-size: 140%;
 		}
 	
-	amp-lightbox h2, amp-lightbox h3 {
+	amp-lightbox h2:first-child {
 		text-align: left;
+		font-style: normal;
 		}
 	
 	amp-lightbox {
