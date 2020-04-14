@@ -26,6 +26,7 @@
 	
 	amp-img {
 		border: 0;
+		clear: both;
 		}
 	
 	*:focus {
@@ -112,6 +113,7 @@
 		}
 
 	#section-header, #section-main, #section-more, #section-contact {
+		clear: both;
 		padding: 60px 20px;
 		margin: 0;
 		box-sizing: border-box;
