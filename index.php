@@ -300,7 +300,7 @@
 
 	<amp-img src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<h2>Beit HaLevi</h2>
+	<h2>בית הלוי Beit HaLevi</h2>
 	
 	<p><i>Mission statement</i> — Beit HaLevi provides a Sefer Torah with an appropriate housing for the use of congregants and pilgrims.</p>
 	
@@ -312,7 +312,7 @@
 
 	<amp-img src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<h2>Kosher Services</h2>
+	<h2>שירותי כשרות Kosher Services</h2>
 
 	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
 	
