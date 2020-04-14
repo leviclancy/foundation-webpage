@@ -125,7 +125,7 @@
 		}
 	
 	#section-header {
-		margin-top: 120px;
+		margin-top: 70px;
 		}
 	
 	#section-header amp-img {
