@@ -87,22 +87,23 @@
 	#section-banner {
 		position: relative;
 		width: 100%;
-		text-align: right;
 		display: block;
-		padding: 20px;
+		margin: 0;
+		padding: 0;
 		}
 	
 	#section-banner span {
 		font-family: Helvetica;
 		font-size: 60%;
 		color: #333;
-		margin: 0 0 0 20px;
+		margin: 20px;
 		padding: 0;
+		float: right;
 		box-sizing: border-box;
 		line-height: 1.2em;
 		cursor: pointer;
 		display: inline-block;
-		text-align: left;
+		text-align: right;
 		}
 	
 	@media only screen and (max-width: 780px)  {
