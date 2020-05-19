@@ -56,7 +56,8 @@ $css_temp = [
 <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
 <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
 <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
-<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>	
+<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
 <style amp-custom>
 	
 	body {
@@ -389,13 +390,7 @@ $css_temp = [
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
 	<amp-list src="news" height="560" layout="fixed-height" items=".">
-	<template type="amp-mustache">{{{Title}}}
-		
-	{{{Date}}}
-
-	{{{Body}}}
-	
-	{{{#Link}}} {{{Link}}} {{{/Link}}}
+	<template type="amp-mustache">{{{Title}}} {{{Date}}} {{{Body}}}
 	</template>    
 	</amp-list>
 	
