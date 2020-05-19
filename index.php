@@ -1,3 +1,52 @@
+<? $press_releases_unformatted_array = file_get_contents('press-releases.txt');
+
+$press_releases_array = [];
+
+$possible_values = ["Title", "Date", "Body"];
+	
+foreach (explode("===", $press_releases_unformatted_array) as $press_release_unformatted_temp):
+	$press_release_formatted_temp = ["test"=>"okay"];
+	
+	foreach(explode("***", $press_release_unformatted_temp) as $press_release_unformatted_temp):
+
+		print_r($press_release_unformatted_temp);
+
+		foreach($possible_values as $possible_value_temp):
+	
+			if (!(strpos($possible_value_temp."•••", $press_release_unformatted_temp))): continue; endif;
+	
+			$result_temp = trim(str_replace($possible_value_temp."•••", null, $press_release_unformatted_temp));
+	
+			if (empty($result_temp)): continue; endif;
+	
+			$press_release_formatted_temp[$possible_value_temp] = $result_temp;
+	
+			endforeach;
+		endforeach;
+	
+	if (empty($press_release_formatted_temp)): continue; endif;
+	
+	$press_releases_array[] = $press_release_formatted_temp;
+	endforeach;
+	
+$close_lightboxes = implode(",", [
+	"lightbox-foundation.close",
+	"lightbox-museum.close",
+	"lightbox-beit-halevi.close",
+	"lightbox-kosher.close",
+	"lightbox-current.close",
+	"lightbox-past.close",
+	"lightbox-objectives.close",
+	"lightbox-governance.close",
+	"lightbox-articles.close",
+	"lightbox-bylaws.close",
+	]);
+
+$css_temp = [
+	
+	];
+?>
+
 <!doctype html>
 <html amp lang="en">
 <head>
@@ -236,51 +285,9 @@
 </head>
 <body>
 	
-<? $press_releases_unformatted_array = file_get_contents('press-releases.txt');
-
-$press_releases_array = [];
-
-$possible_values = ["Title", "Date", "Body"];
-	
-foreach (explode("===", $press_releases_unformatted_array) as $press_release_unformatted_temp):
-	$press_release_formatted_temp = [];
-	
-	foreach(explode("***", $press_release_unformatted_temp) as $press_release_unformatted_temp):
-
-		foreach($possible_values as $possible_value_temp):
-	
-			if (!(strpos($possible_value_temp."•••", $press_release_unformatted_temp))): continue; endif;
-	
-			$result_temp = trim(str_replace($possible_value_temp."•••", null, $press_release_unformatted_temp));
-	
-			if (empty($result_temp)): continue; endif;
-	
-			$press_release_formatted_temp[$possible_value_temp] = $result_temp;
-	
-			endforeach;
-		endforeach;
-	
-	if (empty($press_release_formatted_temp)): continue; endif;
-	
-	$press_releases_array[] = $press_release_formatted_temp;
-	endforeach;
-	
-echo "<amp-state id='pressReleases'><script type=\"application/json\">";
-echo json_encode($press_releases_array);
-echo "</script></amp-state>";
-	
-$close_lightboxes = implode(",", [
-	"lightbox-foundation.close",
-	"lightbox-museum.close",
-	"lightbox-beit-halevi.close",
-	"lightbox-kosher.close",
-	"lightbox-current.close",
-	"lightbox-past.close",
-	"lightbox-objectives.close",
-	"lightbox-governance.close",
-	"lightbox-articles.close",
-	"lightbox-bylaws.close",
-	]); ?>
+<amp-state id='pressReleases'><script type="application/json">
+	<? echo json_encode($press_releases_array) ?>
+	</script></amp-state>
 
 <div id='section-banner'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>בית הלוי Beit HaLevi</span>
