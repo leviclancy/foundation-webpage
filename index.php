@@ -236,7 +236,21 @@
 </head>
 <body>
 	
-<? $close_lightboxes = implode(",", [
+<? $press_releases_array = file_get_contents('press-releases.txt');
+	
+$press_releases_array = explode("===", $press_releases_array);
+	
+foreach ($press_releases_array as $key_temp => $press_release_temp):
+	$press_release_temp = explode("***", $press_release_temp);
+//	foreach($press
+	$press_releases_array[$key_temp] = $press_release_temp;
+	endforeach;
+	
+echo "<amp-state id='pressReleases'><script type=\"application/json\">";
+echo json_encode($press_releases_array);
+echo "</script></amp-state>";
+	
+$close_lightboxes = implode(",", [
 	"lightbox-foundation.close",
 	"lightbox-museum.close",
 	"lightbox-beit-halevi.close",
