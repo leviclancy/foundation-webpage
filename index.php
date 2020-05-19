@@ -32,8 +32,7 @@ $close_lightboxes = implode(",", [
 	"lightbox-museum.close",
 	"lightbox-beit-halevi.close",
 	"lightbox-kosher.close",
-	"lightbox-current.close",
-	"lightbox-past.close",
+	"lightbox-news.close",
 	"lightbox-objectives.close",
 	"lightbox-governance.close",
 	"lightbox-articles.close",
@@ -56,6 +55,8 @@ $css_temp = [
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
 <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
+<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>	
 <style amp-custom>
 	
 	body {
@@ -249,16 +250,11 @@ $css_temp = [
 		color: rgba(255,255,255,0.9);
 		}
 
-	#lightbox-current {
+	#lightbox-news {
 		background: linear-gradient(225deg, rgba(220,120,40,.9), rgba(240,120,20,.5) 70%), linear-gradient(135deg, rgba(225,110,70,1), rgba(160,190,220,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
 	
-	#lightbox-past {
-		background: rgba(100,100,100,1);
-		color: rgba(255,255,255,0.9);
-		}
-
 	#lightbox-objectives {
 		background: linear-gradient(225deg, rgba(140,100,235,.9), rgba(60,180,60,.5) 70%), linear-gradient(135deg, rgba(130,100,180,1), rgba(100,100,180,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
@@ -283,9 +279,7 @@ $css_temp = [
 </head>
 <body>
 	
-<amp-state id='pressReleases'><script type="application/json">
-	<? echo json_encode($press_releases_array) ?>
-	</script></amp-state>
+<amp-state id='pressReleases'><script type="application/json"><? echo json_encode($press_releases_array) ?></script></amp-state>
 
 <div id='section-banner'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>בית הלוי Beit HaLevi</span>
@@ -318,9 +312,8 @@ $css_temp = [
 <amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
 </div>
 <h2>Stay up-to-date,</h2>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-current.open'>Current news</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-past.open'>Past news</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'>2020 Objectives</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-news.open'>News</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'>Objectives</span>
 </div>
 	
 <div id='section-contact'>
@@ -391,10 +384,21 @@ $css_temp = [
 	
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-current'>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-news'>
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
+	<amp-list src="news" height="560" layout="fixed-height" items=".">
+	<template type="amp-mustache">{{{Title}}}
+		
+	{{{Date}}}
+
+	{{{Body}}}
+	
+	{{{#Link}}} {{{Link}}} {{{/Link}}}
+	</template>    
+	</amp-list>
+	
 	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 
 	<h2>Current news</h2>
@@ -421,13 +425,7 @@ $css_temp = [
 	<span>TBD.</span></p> -->
 
 	</amp-lightbox>
-	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-past'>
-	
-	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
-
-	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
-
+		
 	<h2>Past news</h2>
 
 	<p><b>Combined History of Fire: An Exhibition Covering 900BC to Today</b><br>
