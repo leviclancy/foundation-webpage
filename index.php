@@ -236,23 +236,30 @@
 </head>
 <body>
 	
-<? $press_releases_array = file_get_contents('press-releases.txt');
+<? $press_releases_unformatted_array = file_get_contents('press-releases.txt');
+
+$press_releases_array = [];
+
+$possible_values = ["Title", "Date", "Body"];
 	
-$press_releases_array = explode("===", $press_releases_array);
+foreach (explode("===", $press_releases_unformatted_array) as $press_release_unformatted_temp):
+	$press_release_formatted_temp = [];
 	
-foreach ($press_releases_array as $key_temp => $press_release_unformatted_temp):
-	$press_release_unformatted_temp = explode("***", $press_release_unformatted_temp);
-	$possible_values = ["Title", "Date", "Body"];
-	$press_release_temp = [];
-	foreach($press_release_unformatted_temp as $value_temp):
+	foreach(explode("***", $press_release_unformatted_temp) as $press_release_unformatted_temp):
+
 		foreach($possible_values as $possible_value_temp):
-			if (!(strpos($possible_value_temp."•••", $value_temp))): continue; endif;
-			$result_temp = trim(str_replace($possible_value_temp."•••", null, $value_temp));
+	
+			if (!(strpos($possible_value_temp."•••", $press_release_unformatted_temp))): continue; endif;
+	
+			$result_temp = trim(str_replace($possible_value_temp."•••", null, $press_release_unformatted_temp));
+	
 			if (empty($result_temp)): continue; endif;
-			$press_release_temp[$possible_value_temp] = $result_temp;
+	
+			$press_release_formatted_temp[$possible_value_temp] = $result_temp;
+	
 			endforeach;
 		endforeach; 
-	$press_releases_array[$key_temp] = $press_release_temp;
+	$press_releases_array[] = $press_release_temp;
 	endforeach;
 	
 echo "<amp-state id='pressReleases'><script type=\"application/json\">";
