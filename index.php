@@ -279,7 +279,7 @@ $css_temp = [
 </head>
 <body>
 	
-<amp-state id='pressReleases'><script type="application/json"><? echo json_encode($press_releases_array) ?></script></amp-state>
+<amp-state id='news'><script type="application/json"><? echo json_encode($press_releases_array) ?></script></amp-state>
 
 <div id='section-banner'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>בית הלוי Beit HaLevi</span>
