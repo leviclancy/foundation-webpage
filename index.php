@@ -418,8 +418,6 @@ $css_temp = [
 
 	<p><b>Event on Jewish history</b><br>
 	<span>TBD.</span></p> -->
-
-	</amp-lightbox>
 		
 	<h2>Past news</h2>
 
