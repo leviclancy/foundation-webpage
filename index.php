@@ -258,8 +258,11 @@ foreach (explode("===", $press_releases_unformatted_array) as $press_release_unf
 			$press_release_formatted_temp[$possible_value_temp] = $result_temp;
 	
 			endforeach;
-		endforeach; 
-	$press_releases_array[] = $press_release_temp;
+		endforeach;
+	
+	if (empty($press_release_formatted_temp)): continue; endif;
+	
+	$press_releases_array[] = $press_release_formatted_temp;
 	endforeach;
 	
 echo "<amp-state id='pressReleases'><script type=\"application/json\">";
