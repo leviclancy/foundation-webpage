@@ -11,7 +11,7 @@ foreach (explode("===", $press_releases_unformatted_array) as $press_release_unf
 
 		foreach($possible_values as $possible_value_temp):
 	
-echo "test1".$possible_value_temp."\n\n\n\n";
+echo "test1".$press_release_unformatted_temp."\n\n\n\n";
 
 			if (strpos($possible_value_temp."•••", $press_release_unformatted_temp) === FALSE): continue; endif;
 
