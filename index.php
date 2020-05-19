@@ -11,18 +11,11 @@ foreach (explode("===", $press_releases_unformatted_array) as $press_release_unf
 
 		foreach($possible_values as $possible_value_temp):
 	
-echo "test1";
-
-			if (!(strpos($possible_value_temp."•••", $press_release_unformatted_temp))): continue; endif;
-
-echo "test2";
-
+			if (strpos($possible_value_temp."•••", $press_release_unformatted_temp) === FALSE): continue; endif;
 
 			$result_temp = trim(str_replace($possible_value_temp."•••", null, $press_release_unformatted_temp));
 	
 			if (empty($result_temp)): continue; endif;
-	
-echo "test3";
 
 			$press_release_formatted_temp[$possible_value_temp] = $result_temp;
 	
