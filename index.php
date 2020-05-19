@@ -390,7 +390,7 @@ $css_temp = [
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
 	<amp-list src="news" height="560" layout="fixed-height" items=".">
-	<template type="amp-mustache">{{{Title}}} {{{Date}}} {{{Body}}}
+	<template type="amp-mustache">{{Title}} {{Date}} {{Body}}
 	</template>    
 	</amp-list>
 	
