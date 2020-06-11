@@ -412,11 +412,7 @@ Three goals</h2>
 	
 	<h3>Demography</h3>
 	
-	<p>Museum of Ours uses the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality, equity, and segmentation.</p>
-
-	<h3>Physical space</h3>
-	
-	<p>The physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees.</p>
+	<p>Museum of Ours uses the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality, equity, and segmentation.</p>	
 	
 	</amp-lightbox>
 	
@@ -424,6 +420,8 @@ Three goals</h2>
 	
 	<p>with three wings surrounding around a central courtyard with eco-friendly planting and irrigation</p>
 
+	<p>The Museum's physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees.</p>
+	
 	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-news'>
