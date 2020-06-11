@@ -359,13 +359,21 @@ $css_temp = [
 
 	<h2>Museum of Ours</h2>
 
-	<p><i>Mission statement</i> — Museum of Ours provides historiographical exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq within a combined framework of museology and demography to counter misinformation, systemic biases, and addictions to hate.</p>
+	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq that are built on a historiographical, museological, and demographic framework to counter misinformation, systemic biases, and addictions to hate.</p>
 
 	<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a>, <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>, and the <a href='https://podcast.ours.foundation/' target='_blank'>Museum of Ours podcast</a>.</p>
 
-	<h3>Museology and demography</h3>
+	<h3>Historiography</h3>
 	
-	<p>Museum of Ours fulfills its mission within a combined framework of museology and demography. The Museum collects, conserves, and interprets objects, testimonies, and digital records which can catalyze thought-provoking conversations. Objects must have “social lives” that improve the world around them. Also, the Museum conducts demographic research using meta-analysis, mapping, and qualitative approaches such as expert sampling.</p>
+	<p>Museum of Ours looks to the past for problematization of history, not just simplistic explanations for current events.</p>
+
+	<h3>Museology</h3>
+	
+	<p>Museum of Ours collects, conserves, and interprets objects, testimonies, and digital records. These acquisitions must have "social lives" which catalyze thought-provoking conversations and improve the world through compelling interpretation.</p>
+	
+	<h3>Demography</h3>
+	
+	<p>Museum of Ours using the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality and equity in the Museum's work, as well as segmented experiences in audiences.</p>
 
 	<h3>Research database</h3>
 
