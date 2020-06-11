@@ -354,7 +354,7 @@ Three goals</h2>
 </div>
 	
 <div id='section-contact'>
-<p>To contact us, please reach out at +1-424-248-7101 or at info@ours.foundation</p>
+<p>To contact us, please reach out at +1-207-216-5608 or at info@ours.foundation</p>
 <br>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-governance.open'>Governance</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-articles.open'>Articles of Incorporation</span>
