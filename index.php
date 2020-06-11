@@ -106,7 +106,7 @@ $css_temp = [
 		padding: 70px 0 10px;
 		}
 	
-	h1 i, h2 i, h3 i {
+	h1 .material-icons, h2 .material-icons, h3 .material-icons {
 		font-size: 400%;
 		font-style: normal;
 		}
