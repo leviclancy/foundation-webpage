@@ -359,7 +359,7 @@ $css_temp = [
 
 	<h2>Museum of Ours</h2>
 
-	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq through historiography, museology, and demographic approaches that counter misinformation, systemic biases, and addictions to hate.</p>
+	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq which use historiographical, museological, and demographic approaches that counter misinformation, systemic biases, and addictions to hate.</p>
 
 	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
 	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
@@ -371,11 +371,11 @@ $css_temp = [
 
 	<h3>Museology</h3>
 	
-	<p>Museum of Ours collects, conserves, and interprets objects, testimonies, and digital records. These acquisitions must have "social lives" which catalyze thought-provoking conversations and improve the world through compelling interpretation.</p>
+	<p>Museum of Ours collects and conserves objects, testimonies, and digital records and gives them compelling interpretation so they have "social lives" that catalyze thoughtful conversations and improve the world.</p>
 	
 	<h3>Demography</h3>
 	
-	<p>Museum of Ours using the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality and equity in the Museum's work, as well as segmented experiences in audiences.</p>
+	<p>Museum of Ours uses the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality, equity, and segmentation.</p>
 
 	<h3>Research database</h3>
 
