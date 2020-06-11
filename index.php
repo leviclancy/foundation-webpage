@@ -339,8 +339,8 @@ $css_temp = [
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
-<h2>Our one space,</h2>
-<p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years. Learn more below,</p>
+<h2>Building our future,</h2>
+<p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years.</p>
 <p id='section-main-space'><i class='material-icons'>place</i></p>
 </div>
 
