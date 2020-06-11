@@ -359,7 +359,7 @@ $css_temp = [
 
 	<h2>Museum of Ours</h2>
 
-	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq to counter misinformation, systemic biases, and addictions to hate, through historiography, museology, and demography.</p>
+	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq through museological and demographic approaches that counter misinformation, systemic biases, and addictions to hate.</p>
 
 	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
 	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
