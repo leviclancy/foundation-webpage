@@ -205,7 +205,7 @@ $css_temp = [
 		padding: 90px 20px;
 		}
 	
-	#section-more span, #section-contact span {
+	#section-more span, #section-contact span, amp-lightbox span {
 		font-family: Helvetica;
 		display: inline-block;
 		vertical-align: middle;
@@ -361,7 +361,9 @@ $css_temp = [
 
 	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq that are built on a historiographical, museological, and demographic framework to counter misinformation, systemic biases, and addictions to hate.</p>
 
-	<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a>, <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>, and the <a href='https://podcast.ours.foundation/' target='_blank'>Museum of Ours podcast</a>.</p>
+	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
+	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
+	<a href='https://podcast.ours.foundation/' target='_blank'><span>Podcast</span></a>
 
 	<h3>Historiography</h3>
 	
