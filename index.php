@@ -364,7 +364,8 @@ $css_temp = [
 	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
 	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
 	<a href='https://podcast.ours.foundation/' target='_blank'><span>Podcast</span></a>
-
+	<a href='https://database.ours.foundation' target='_blank'><span>database.ours.foundation</span></a>
+	
 	<h3>Historiography</h3>
 	
 	<p>Museum of Ours looks to the past for problematization of history, not just simplistic explanations for current events.</p>
@@ -376,10 +377,6 @@ $css_temp = [
 	<h3>Demography</h3>
 	
 	<p>Museum of Ours uses the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality, equity, and segmentation.</p>
-
-	<h3>Research database</h3>
-
-	<p>Check it out at <a href='https://database.ours.foundation' target='_blank'>database.ours.foundation</a>. The entire CMS is built from scratch and available for free on <a href='https://github.com/leviclancy/foundation-database/' target='_blank'>Github</a> for use on your own projects.</p>
 
 	<h3>Physical space</h3>
 	
