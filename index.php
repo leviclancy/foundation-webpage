@@ -106,6 +106,11 @@ $css_temp = [
 		padding: 70px 0 10px;
 		}
 	
+	h1 i, h2 i, h3 i {
+		font-size: 400%;
+		font-style: normal;
+		}
+	
 	h3 {
 		font-size: 140%;
 		}
@@ -204,15 +209,7 @@ $css_temp = [
 		color: #fff;
 		}
 	
-	#section-main-space {
-		text-align: center;
-		letter-spacing: 15px;
-		}
 
-	#section-main-space i {
-		font-size: 500%;
-		}
-	
 	#section-more {
 		padding: 90px 20px;
 		}
