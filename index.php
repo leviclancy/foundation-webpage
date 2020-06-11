@@ -220,8 +220,8 @@ $css_temp = [
 		color: rgba(0,0,0,0.6);
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.4);
 		}
-
-	#section-contact {
+	
+	#section-contact, amp-lightbox span {
 		background: rgba(60,60,60,1);
 		color: #fff;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
