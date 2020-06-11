@@ -205,6 +205,11 @@ $css_temp = [
 		}
 	
 	#section-main-space {
+		text-align: center;
+		letter-spacing: 15px;
+		}
+
+	#section-main-space i {
 		font-size: 500%;
 		}
 	
