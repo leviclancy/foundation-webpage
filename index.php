@@ -337,9 +337,8 @@ Three goals</h2>
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
-<h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i><br>
-One facility</h2>
-<p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years.</p>
+<h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i></h2>
+<p>Our three goals are envisioned as being realized in one facility built to last for hundreds of years.</p>
 </div>
 
 <div id='section-more'>
