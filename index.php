@@ -341,6 +341,7 @@ $css_temp = [
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <!--<h2>Building our future,</h2>-->
+<br><br>
 <p id='section-main-space'><i class='material-icons'>place</i></p>
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years.</p>
 </div>
