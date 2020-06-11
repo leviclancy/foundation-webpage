@@ -359,21 +359,13 @@ $css_temp = [
 
 	<h2>Museum of Ours</h2>
 
-	<p><i>Mission statement</i> — Museum of Ours is based in Erbil and operates in the broader Kurdistan Region, Nineveh Plains, and federal Iraq. We strive to set new standards in communicating the history of our region from ancient times to the present day. Our approaches are research-based and compelling, in order for our audiences to better understand this region's diverse communities including their own. This empowers intellectualization, awareness, and inclusion, as well as disempowers outrage, misinformation, and exclusion.</p>
+	<p><i>Mission statement</i> — Museum of Ours provides historiographical exhibitions, discussions, and publications in the Kurdistan Region, Nineveh Plains, and federal Iraq within a combined framework of museology and demography to counter misinformation, systemic biases, and addictions to hate.</p>
 
 	<p>Stay in the loop via <a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'>WhatsApp</a>, <a href='https://www.facebook.com/museum.of.ours/' target='_blank'>Facebook</a>, and the <a href='https://podcast.ours.foundation/' target='_blank'>Museum of Ours podcast</a>.</p>
 
-	<h3>Our specialized approach</h3>
+	<h3>Museology and demography</h3>
 	
-	<p>Museum of Ours uses a unique blend of research, events, and acquisitions to achieve objectives and fulfill goals.</p> 
-
-	<p>Research requires identifying key demographics, contacting their leaders, recording testimonies, and interpreting the results. Findings are disseminated through iteratively developed events. Ultimately, a database of in-depth and highly granular research will be continually developed over decades.</p>
-
-	<p>Events require regularly organizing public, semi-public, and totally digital events. Feedback is used to help improve events. Most events are two-hour discussion-oriented seminars, but some are multi-day object-oriented exhibitions. Ultimately, the events should develop into Kurdish, Arabic, and English curriculum.</p>
-
-	<p>Acquisition require ongoing collecting of objects. The focus is on the concepts of reconciliation and repatriation. Ultimately, objects must have “social lives” that improve the world around them. However, there is no permanent space yet.</p>
-
-	<p><b>Large amounts of multimedia, with widespread distribution.</b> This requires production of high-quality photography and videography. Over 10,000 photos have been uploaded to Wikimedia. These photos have mostly been used in academia, but also in news and within communities themselves. They have also been used by the Kurdistan Region’s executive cabinet.</p>
+	<p>Museum of Ours fulfills its mission within a combined framework of museology and demography. The Museum collects, conserves, and interprets objects, testimonies, and digital records which can catalyze thought-provoking conversations. Objects must have “social lives” that improve the world around them. Also, the Museum conducts demographic research using meta-analysis, mapping, and qualitative approaches such as expert sampling.</p>
 
 	<h3>Research database</h3>
 
