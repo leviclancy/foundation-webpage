@@ -335,7 +335,7 @@ $css_temp = [
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <h2>Our one space,</h2>
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years. Learn more below,</p>
-<p class='material-icons' id='section-main-space'>home_work</p>
+<p id='section-main-space'><i class='material-icons'>map</i><i class='material-icons'>home_work</i></p>
 </div>
 
 <div id='section-more'>
