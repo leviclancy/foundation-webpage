@@ -221,13 +221,13 @@ $css_temp = [
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.4);
 		}
 	
-	#section-contact, amp-lightbox span {
+	#section-contact {
 		background: rgba(60,60,60,1);
 		color: #fff;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
 		}
 	
-	#section-contact span {
+	amp-lightbox span, #section-contact span {
 		border: 1px solid #fff;
 		}
 		
