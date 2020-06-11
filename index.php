@@ -339,6 +339,7 @@ Three goals</h2>
 <br>
 <h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i></h2>
 <p>Our three goals are envisioned as being realized in one facility built to last for hundreds of years.</p>
+<br>
 </div>
 
 <div id='section-more'>
