@@ -107,7 +107,7 @@ $css_temp = [
 		}
 	
 	h1 .material-icons, h2 .material-icons, h3 .material-icons {
-		font-size: 400%;
+		font-size: 350%;
 		font-style: normal;
 		}
 	
