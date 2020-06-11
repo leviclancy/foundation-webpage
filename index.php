@@ -402,15 +402,15 @@ Three goals</h2>
 	<a href='https://podcast.ours.foundation/' target='_blank'><span>Podcast</span></a>
 	<a href='https://database.ours.foundation' target='_blank'><span>Database</span></a>
 	
-	<h3>Historiography</h3>
+	<h3><i class='material-icons'>menu_book</i><br>Historiography</h3>
 	
 	<p>Museum of Ours looks to the past for problematization of history, not just simplistic explanations for current events.</p>
 
-	<h3>Museology</h3>
+	<h3><i class='material-icons'>museum</i><br>Museology</h3>
 	
 	<p>Museum of Ours collects and conserves objects, testimonies, and digital records. Compelling interpretation gives acquisitions "social lives" that catalyze thoughtful conversations and improve the world.</p>
 	
-	<h3>Demography</h3>
+	<h3><i class='material-icons'>psychology</i><br>Demography</h3>
 	
 	<p>Museum of Ours uses the demographic framework in all of its projects, paying attention to demographic characteristics to explore equality, equity, and segmentation.</p>	
 	
