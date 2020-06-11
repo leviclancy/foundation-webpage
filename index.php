@@ -364,7 +364,7 @@ $css_temp = [
 	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
 	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
 	<a href='https://podcast.ours.foundation/' target='_blank'><span>Podcast</span></a>
-	<a href='https://database.ours.foundation' target='_blank'><span>database.ours.foundation</span></a>
+	<a href='https://database.ours.foundation' target='_blank'><span>Database</span></a>
 	
 	<h3>Historiography</h3>
 	
