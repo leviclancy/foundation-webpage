@@ -331,13 +331,13 @@ $css_temp = [
 
 <div id='section-main'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
-<h2><i class='material-icons'>view_week</i><br>
+<h2><i class='material-icons'>timeline</i><br>
 Three goals</h2>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
-<h2><i class='material-icons'>place</i><br>
+<h2><i class='material-icons'>map</i><br>
 One space</h2>
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years.</p>
 </div>
