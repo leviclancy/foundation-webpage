@@ -58,6 +58,9 @@ $css_temp = [
 <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
 <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
 <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+	
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">	
+
 <style amp-custom>
 	
 	body {
@@ -276,6 +279,31 @@ $css_temp = [
 		color: rgba(255,255,255,0.9);
 		}
 	
+	.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+	
 	</style>	
 </head>
 <body>
@@ -291,7 +319,7 @@ $css_temp = [
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'>Who we are,</h2>
-<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours is devoted to meeting the material and spiritual needs of Jewish expression in the Kurdistan Region, and providing platforms for reconciliation, coexistence, and cohesion with non-Jewish communities.</p>
+<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — FOUNDATION OF OURS is devoted to providing for Jewish expression in the Kurdistan Region, as well as providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
 <p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
 </div>
 
@@ -302,7 +330,8 @@ $css_temp = [
 ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <h2>Our one space,</h2>
-<p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years, with three wings surrounding around a central courtyard with eco-friendly planting and irrigation.</p>
+<p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years. Learn more below,</p>
+<p class='material-icons'>home_work</p>
 </div>
 
 <div id='section-more'>
@@ -382,6 +411,12 @@ $css_temp = [
 	
 	<p>The physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees.</p>
 	
+	</amp-lightbox>
+	
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-space'>
+	
+	<p>with three wings surrounding around a central courtyard with eco-friendly planting and irrigation</p>
+
 	</amp-lightbox>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-news'>
