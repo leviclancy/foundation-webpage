@@ -371,7 +371,7 @@ $css_temp = [
 
 	<h3>Museology</h3>
 	
-	<p>Museum of Ours collects and conserves objects, testimonies, and digital records. Cmpelling interpretation gives acquisitions "social lives" that catalyze thoughtful conversations and improve the world.</p>
+	<p>Museum of Ours collects and conserves objects, testimonies, and digital records. Compelling interpretation gives acquisitions "social lives" that catalyze thoughtful conversations and improve the world.</p>
 	
 	<h3>Demography</h3>
 	
