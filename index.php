@@ -204,6 +204,10 @@ $css_temp = [
 		color: #fff;
 		}
 	
+	#section-main-space {
+		font-size: 500%;
+		}
+	
 	#section-more {
 		padding: 90px 20px;
 		}
@@ -319,8 +323,8 @@ $css_temp = [
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'>Who we are,</h2>
-<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — FOUNDATION OF OURS is devoted to providing for Jewish expression in the Kurdistan Region, as well as providing platforms for reconciliation and coexistence with non-Jewish communities.</p>
-<p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation, coexistence, and cohesion for all.</p>
+<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence with non-Jewish communities.</p>
+<p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of reconciliation and coexistence for all.</p>
 </div>
 
 <div id='section-main'>
@@ -331,7 +335,7 @@ $css_temp = [
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <h2>Our one space,</h2>
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years. Learn more below,</p>
-<p class='material-icons'>home_work</p>
+<p class='material-icons' id='section-main-space'>home_work</p>
 </div>
 
 <div id='section-more'>
