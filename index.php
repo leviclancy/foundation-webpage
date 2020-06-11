@@ -338,7 +338,7 @@ Three goals</h2>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
 <h2><i class='material-icons'>map</i><br>
-One space</h2>
+One facility</h2>
 <p>Our three goals are envisioned as being realized in one physical building built to last for hundreds of years.</p>
 </div>
 
