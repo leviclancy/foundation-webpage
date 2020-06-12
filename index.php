@@ -409,7 +409,7 @@ Three goals</h2>
 
 	<h3><i class='material-icons'>museum</i><br>Museology</h3>
 	
-	<p>Museum of Ours collects and conserves objects, testimonies, and digital records. Underlining the need for, and assisting, interpretation gives acquisitions 'social lives' that stimulate thoughtful conversations and improve the world.</p>
+	<p>Museum of Ours collects and conserves objects, testimonies, and digitalia. Underlining the need for, and assisting, interpretation gives acquisitions 'social lives' that stimulate thoughtful conversations and improve the world.</p>
 	
 	<h3><i class='material-icons'>psychology</i><br>Demography</h3>
 	
