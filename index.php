@@ -405,11 +405,11 @@ Three goals</h2>
 	
 	<h3><i class='material-icons'>menu_book</i><br>Historiography</h3>
 	
-	<p>Museum of Ours looks to the past for problematization of history, not just simplistic explanations for current events.</p>
+	<p>Museum of Ours looks to the past for problematization of history, not just simplistic and selective explanations for current events.</p>
 
 	<h3><i class='material-icons'>museum</i><br>Museology</h3>
 	
-	<p>Museum of Ours collects and conserves objects, testimonies, and digital records. Compelling interpretation gives acquisitions "social lives" that catalyze thoughtful conversations and improve the world.</p>
+	<p>Museum of Ours collects and conserves objects, testimonies, and digital records. Underlining the need for, and assisting, interpretation gives acquisitions 'social lives' that stimulate thoughtful conversations and improve the world.</p>
 	
 	<h3><i class='material-icons'>psychology</i><br>Demography</h3>
 	
