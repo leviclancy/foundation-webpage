@@ -318,7 +318,7 @@ $css_temp = [
 
 <div id='section-banner'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>בית הלוי Beit HaLevi</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>שירותי כשרות Kosher Services</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>חמרא טבא Hamra Tava</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
 </div>
 	
@@ -334,7 +334,7 @@ $css_temp = [
 <h2><i class='material-icons'>timeline</i><br>
 Three goals</h2>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
-ב — Establish and maintain <b>Kosher Services</b> in Erbil.<br>
+ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
 <h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i></h2>
@@ -346,7 +346,7 @@ Three goals</h2>
 <h2>Tap to learn more,</h2>
 <div id='section-header-goals'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
-<amp-img role='button' tabindex='1' src='/logo-black-kosher-services.png' alt='Kosher Services' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
 </div>
 <h2>Stay up-to-date,</h2>
@@ -380,11 +380,11 @@ Three goals</h2>
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-img src='/logo-white-kosher-services.png' alt='Kosher Services' width='300' height='300' layout='intrinsic' ></amp-img>
+	<amp-img src='/logo-white-hamra-tava.png' alt='Hamra Tava' width='300' height='300' layout='intrinsic' ></amp-img>
 
-	<h2>שירותי כשרות Kosher Services</h2>
+	<h2>חמרא טבא Hamra Tava</h2>
 
-	<p><i>Mission statement</i> — Kosher Services provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
+	<p><i>Mission statement</i> — Hamra Tava provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
 	
 	</amp-lightbox>
 	
@@ -543,7 +543,7 @@ Three goals</h2>
 	<p>א — Recruit Rabbis to advise on what is needed to have a Sefer Torah and accompanying housing, and prepare a series of objectives based on this advice.</p>
 	<p>ב — Identify the process for purchasing land and registering it to a religious organization.</>
 
-	<h3>Objectives for Kosher Services</h3>
+	<h3>Objectives for Hamra Tava</h3>
 
 	<p>א — Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher: prepare a prioritized list of these needs; and cross-check with potential visitors about their expectations.</p>
 	<p>ב — Begin to import necessary items based on the prioritized list.</p>
@@ -570,7 +570,7 @@ Three goals</h2>
 	
 	<p>Because of the small size of Foundation of Ours, all officers are also on the Board of Directors. In addition to these Directors, there are non-officers bringing the number of Directors to __ (__) in total. Directors come from a range of faiths including Judaism, Ezidism, and Islam.</p>
 
-	<p>Beit HaLevi, Kosher Services, and Museum of Ours are equipped with their own mission statements and objectives and their own public brands and social media channels. However, they are goals of the Foundation and as such they must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, they are not a separate legal entities from the Foundation and do not have authority separate from nor over the Foundation.</p>
+	<p>Beit HaLevi, Hamra Tava, and Museum of Ours are equipped with their own mission statements and objectives and their own public brands and social media channels. However, they are goals of the Foundation and as such they must operate within the Foundation’s mission and must not hinder the Foundation’s other goals or objectives. Additionally, they are not a separate legal entities from the Foundation and do not have authority separate from nor over the Foundation.</p>
 
 	</amp-lightbox>
 	
