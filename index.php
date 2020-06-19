@@ -214,8 +214,8 @@ $css_temp = [
 	
 	#section-more {
 		padding: 90px 20px;
-		background: rgba(220,220,220,1);
-		color: #000;
+		background: rgba(150,150,150,1);
+		color: #fff;
 		}
 	
 	#section-more span, #section-contact span, amp-lightbox span {
