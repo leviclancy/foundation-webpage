@@ -172,7 +172,7 @@ $css_temp = [
 
 	#section-header {
 		z-index: 10;
-		position: absolute;
+		position: fixed;
 		left: 0;
 		right: 0;
 		top: 0;
