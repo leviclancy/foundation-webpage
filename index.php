@@ -213,7 +213,7 @@ $css_temp = [
 		}
 	
 	#section-more {
-		padding: 90px 20px;
+		padding: 80px 20px 140px;
 		background: rgba(150,150,150,1);
 		color: #fff;
 		}
