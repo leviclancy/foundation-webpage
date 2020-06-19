@@ -184,8 +184,8 @@ $css_temp = [
 		}
 	
 	#section-header {
-		background: linear-gradient(45deg, rgba(150,150,150,.9), rgba(50,50,50,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
-		color: #fff;
+		background: #fff;
+		color: #333;
 		}
 	
 	#section-header amp-img {
@@ -341,9 +341,9 @@ Three goals</h2>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <h2>Tap to learn more,</h2>
 <div id='section-goals-array'>
-<amp-img role='button' tabindex='1' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
-<amp-img role='button' tabindex='1' src='/logo-white-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
-<amp-img role='button' tabindex='1' src='/logo-white-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
 </div>
 </div>
 
