@@ -235,8 +235,14 @@ $css_temp = [
 		background: rgba(255,255,255,0.8);
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.4);
 		min-width: 100px;
+		transition: box-shadow .2s;
 		}
 	
+	#section-more span:hover {
+		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.8);
+		transition: box-shadow 1s;
+		}
+		
 	#section-more span i {
 		display: block;
 		font-size: 300%;
