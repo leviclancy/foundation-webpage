@@ -195,8 +195,8 @@ $css_temp = [
 	#section-mission {
 		margin: 600px 0 0 0;
 		background: rgba(240,240,240,1);
-		box-shaodw: -30px 0 30px -5px rgba(100,100,100,0.3);
 		color: #333;
+		box-shadow: -30px 0 30px -5px rgba(100,100,100,0.3);
 		}
 	
 	#section-mission amp-img {
@@ -221,9 +221,10 @@ $css_temp = [
 		color: #333;
 		}
 	
-
 	#section-more {
 		padding: 90px 20px;
+		background: rgba(240,240,240,1);
+		color: #333;
 		}
 	
 	#section-more span, #section-contact span, amp-lightbox span {
