@@ -336,7 +336,7 @@ Three goals</h2>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
-<h2><i class='material-icons'>connect_tree</i><br><br>How we do it,</h2>
+<h2><i class='material-icons'>account_tree</i><br><br>How we do it,</h2>
 <div id='section-goals-array'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
