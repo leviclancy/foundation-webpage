@@ -324,10 +324,10 @@ $css_temp = [
 	
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
-<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>leaderboard</i><br><br>Our mission,</h2>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>wysiwyg</i><br><br>Our mission,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'>Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
 <br>
-<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>escalator_warning</i><br><br>Our vision,</h2>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>leaderboard</i><br><br>Our vision,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'>Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of a peaceful, inclusive, and diverse society.</p>
 </div>
 
