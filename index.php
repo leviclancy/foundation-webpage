@@ -364,7 +364,7 @@ Our three goals,</h2>
 <div id='section-more'>
 <h2>More information,</h2>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-news.open'><i class='material-icons'>track_changes</i> News</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'><i class='material-icons'>timeline</i> Objectives</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'><i class='material-icons'>event_note</i> Objectives</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-future.open'><i class='material-icons'>house</i> Future</span>
 </div>
 	
