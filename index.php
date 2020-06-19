@@ -235,6 +235,12 @@ $css_temp = [
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.4);
 		}
 	
+	#section-more span i {
+		display: block;
+		font-size: 300%;
+		}
+
+	
 	#section-contact {
 		background: rgba(60,60,60,1);
 		color: #fff;
