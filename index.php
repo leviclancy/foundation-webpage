@@ -324,7 +324,7 @@ $css_temp = [
 	
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
-<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>forum</i><br><br>Our mission,</h2>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>leaderboard</i><br><br>Our mission,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'>Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
 <br>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>escalator_warning</i><br><br>Our vision,</h2>
@@ -333,13 +333,13 @@ $css_temp = [
 
 <div id='section-goals'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
-<h2><i class='material-icons'>bubble_chart</i><br><br>
+<h2><i class='material-icons'>mediation</i><br><br>
 Our three goals,</h2>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
-<h2><i class='material-icons'>account_tree</i><br><br>How we do them,</h2>
+<h2><i class='material-icons'>bubble_chart</i><br><br>How we do them,</h2>
 <div id='section-goals-array'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
