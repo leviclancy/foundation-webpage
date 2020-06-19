@@ -170,15 +170,24 @@ $css_temp = [
 		#section-banner span { clear: both; }
 		}
 
+	#section-header {
+		z-index: 10;
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		}
+	
 	#section-header amp-img {
 		max-width: 90%;
 		max-height: 90%;
 		}
 	
 	#section-mission, #section-goals, #section-more, #section-contact {
+		z-index: 100;
 		clear: both;
 		padding: 60px 20px;
-		margin: 95% 0 0 0;
+		margin: 0;
 		box-sizing: border-box;
 		display: block;
 		width: 100%;
@@ -188,6 +197,7 @@ $css_temp = [
 		}
 	
 	#section-mission {
+		margin: 95% 0 0 0;
 		background: rgba(240,240,240,1);
 		box-shaodw: -30px 0 30px -5px rgba(100,100,100,0.3);
 		color: #333;
