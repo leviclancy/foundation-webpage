@@ -184,8 +184,6 @@ $css_temp = [
 		}
 	
 	#section-header {
-		background: #fff;
-		color: #333;
 		}
 	
 	#section-header amp-img {
