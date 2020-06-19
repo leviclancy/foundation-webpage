@@ -187,13 +187,18 @@ $css_temp = [
 	#section-mission {
 		margin: 600px 0 0 0;
 		color: #333;
-		box-shadow: -30px 0 30px -5px rgba(100,100,100,0.3);
 		}
 	
 	#section-mission amp-img {
 		margin-top: 50px;
 		}
 	
+	#section-goals {
+		box-shadow: 0 0 30px -10px rgba(100,100,100,0.3);
+		background: #fff;
+		color: #333;
+		}
+
 	#section-goals-array {
 		margin: 50px 0 30px 0;
 		}
@@ -205,11 +210,6 @@ $css_temp = [
 		margin: 50px;
 		font-size: 140%;
 		cursor: pointer;
-		}
-
-	#section-goals {
-		background: #fff;
-		color: #333;
 		}
 	
 	#section-more {
