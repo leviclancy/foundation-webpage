@@ -156,7 +156,7 @@ $css_temp = [
 	#section-banner span {
 		font-family: Helvetica;
 		font-size: 60%;
-		color: #333;
+		color: #ccc;
 		margin: 20px 20px 0 0;
 		padding: 0;
 		float: right;
@@ -171,7 +171,7 @@ $css_temp = [
 		#section-banner span { clear: both; }
 		}
 
-	#section-header, #section-main, #section-more, #section-contact {
+	#section-header, #section-goals, #section-more, #section-contact {
 		clear: both;
 		padding: 60px 20px;
 		margin: 0;
@@ -184,29 +184,32 @@ $css_temp = [
 		}
 	
 	#section-header {
+		background: linear-gradient(45deg, rgba(150,150,150,.9), rgba(50,50,50,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
+		color: #fff;
 		}
 	
 	#section-header amp-img {
 		margin-top: 50px;
 		}
 	
-	#section-header-goals {
+	#section-goals-array {
 		margin: 50px 0 30px 0;
 		}
 	
-	#section-header-goals amp-img {
+	#section-goals-array amp-img {
 		display: inline-block;
 		vertical-align: middle;
 		padding: 0;
 		margin: 50px;
-		color: #333;
+		color: #fff;
+		background: #333;
 		font-size: 140%;
 		cursor: pointer;
 		}
 
-	#section-main {
-		background: linear-gradient(45deg, rgba(150,150,150,.9), rgba(50,50,50,.5) 70%), linear-gradient(135deg, rgba(30,30,30,1), rgba(200,200,200,.7) 70%), linear-gradient(225deg, rgba(100,100,100,1), rgba(200,200,200,1) 70%);
-		color: #fff;
+	#section-goals {
+		background: #fff;
+		color: #333;
 		}
 	
 
@@ -323,13 +326,13 @@ $css_temp = [
 </div>
 	
 <div id='section-header'>
-<amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
+<amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'>Who we are,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence with non-Jewish communities.</p>
 <p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of a peaceful, inclusive, and diverse society.</p>
 </div>
 
-<div id='section-main'>
+<div id='section-goals'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
 <h2><i class='material-icons'>timeline</i><br>
 Three goals</h2>
@@ -337,7 +340,7 @@ Three goals</h2>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <h2>Tap to learn more,</h2>
-<div id='section-header-goals'>
+<div id='section-goals-array'>
 <amp-img role='button' tabindex='1' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-white-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
