@@ -193,7 +193,7 @@ $css_temp = [
 		}
 	
 	#section-mission {
-		margin: 95% 0 0 0;
+		margin: 600px 0 0 0;
 		background: rgba(240,240,240,1);
 		box-shaodw: -30px 0 30px -5px rgba(100,100,100,0.3);
 		color: #333;
