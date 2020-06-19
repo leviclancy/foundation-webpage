@@ -169,9 +169,6 @@ $css_temp = [
 	@media only screen and (max-width: 780px)  {
 		#section-banner span { clear: both; }
 		}
-
-	#section-header {
-		}
 	
 	#section-mission, #section-goals, #section-more, #section-contact {
 		position: relative;
@@ -329,12 +326,9 @@ $css_temp = [
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'>חמרא טבא Hamra Tava</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
 </div>
-	
-<div id='section-header'>
-<amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
-</div>
 
 <div id='section-mission'>
+<amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>wysiwyg</i><br><br>Our mission,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'>Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
 <br>
