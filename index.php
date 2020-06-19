@@ -175,7 +175,6 @@ $css_temp = [
 	
 	#section-mission, #section-goals, #section-more, #section-contact {
 		position: relative;
-		z-index: 100;
 		clear: both;
 		padding: 60px 20px;
 		margin: 0;
