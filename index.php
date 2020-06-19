@@ -171,11 +171,6 @@ $css_temp = [
 		}
 
 	#section-header {
-		z-index: 10;
-		position: fixed;
-		left: 0;
-		right: 0;
-		top: 0;
 		}
 	
 	#section-mission, #section-goals, #section-more, #section-contact {
