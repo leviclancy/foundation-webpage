@@ -178,12 +178,8 @@ $css_temp = [
 		top: 0;
 		}
 	
-	#section-header amp-img {
-		max-width: 90%;
-		max-height: 90%;
-		}
-	
 	#section-mission, #section-goals, #section-more, #section-contact {
+		position: relative;
 		z-index: 100;
 		clear: both;
 		padding: 60px 20px;
