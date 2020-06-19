@@ -68,7 +68,6 @@ $css_temp = [
 		padding: 0;
 		font-size: 1.3em;
 		line-height: 1.6em;
-		background: rgba(240,240,240,1);
 		text-align: center;
 		}
 	
@@ -167,11 +166,19 @@ $css_temp = [
 		text-align: right;
 		}
 	
+	#section-header {
+		position: fixed;
+		z-index: -100;
+		left: 0;
+		right: 0;
+		top: 0;
+		}
+	
 	@media only screen and (max-width: 780px)  {
 		#section-banner span { clear: both; }
 		}
 
-	#section-header, #section-goals, #section-more, #section-contact {
+	#section-mission, #section-goals, #section-more, #section-contact {
 		clear: both;
 		padding: 60px 20px;
 		margin: 0;
@@ -183,10 +190,13 @@ $css_temp = [
 		vertical-align: middle;
 		}
 	
-	#section-header {
+	#section-mission {
+		background: rgba(240,240,240,1);
+		box-shaodw: -30px 0 30px -5px rgba(100,100,100,0.3);
+		color: #333;
 		}
 	
-	#section-header amp-img {
+	#section-mission amp-img {
 		margin-top: 50px;
 		}
 	
@@ -324,6 +334,9 @@ $css_temp = [
 	
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
+</div>
+
+<div id='section-mission'>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>wysiwyg</i><br><br>Our mission,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'>Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
 <br>
