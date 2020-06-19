@@ -231,7 +231,7 @@ $css_temp = [
 
 	#section-more span {
 		color: rgba(0,0,0,0.6);
-		background: rgab(255,255,255,0.8);
+		background: rgba(255,255,255,0.8);
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.4);
 		}
 	
