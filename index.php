@@ -336,22 +336,23 @@ Three goals</h2>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
-<br>
-<h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i></h2>
-<p>Our three goals are envisioned as being realized in one facility built to last for centuries.</p>
-<br><br>
+<h2>Tap to learn more,</h2>
+<div id='section-header-goals'>
+<amp-img role='button' tabindex='1' src='/logo-white-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-white-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-white-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
+</div>
 </div>
 
 <div id='section-more'>
-<h2>Tap to learn more,</h2>
-<div id='section-header-goals'>
-<amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
-<amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
-<amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
-</div>
 <h2>Stay up-to-date,</h2>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-news.open'>News</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'>Objectives</span>
+
+<h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i><br>
+The future,</h2>
+<p>Our three goals are envisioned as being realized in one facility built to last for centuries.</p>
+<br><br>
 </div>
 	
 <div id='section-contact'>
