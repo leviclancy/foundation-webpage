@@ -166,22 +166,19 @@ $css_temp = [
 		text-align: right;
 		}
 	
-	#section-header {
-		position: fixed;
-		z-index: -100;
-		left: 0;
-		right: 0;
-		top: 0;
-		}
-	
 	@media only screen and (max-width: 780px)  {
 		#section-banner span { clear: both; }
 		}
 
+	#section-header amp-img {
+		max-width: 90%;
+		max-height: 90%;
+		}
+	
 	#section-mission, #section-goals, #section-more, #section-contact {
 		clear: both;
 		padding: 60px 20px;
-		margin: 0;
+		margin: 95% 0 0 0;
 		box-sizing: border-box;
 		display: block;
 		width: 100%;
