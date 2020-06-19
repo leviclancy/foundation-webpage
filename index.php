@@ -214,8 +214,8 @@ $css_temp = [
 	
 	#section-more {
 		padding: 90px 20px;
-		background: rgba(240,240,240,1);
-		color: #333;
+		background: rgba(220,220,220,1);
+		color: #000;
 		}
 	
 	#section-more span, #section-contact span, amp-lightbox span {
@@ -344,7 +344,7 @@ Our three goals,</h2>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
-<h2><i class='material-icons'>bubble_chart</i><br><br>How we do them,</h2>
+<h2><i class='material-icons'>bubble_chart</i><br><br>How we do this,</h2>
 <div id='section-goals-array'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
