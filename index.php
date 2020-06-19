@@ -69,6 +69,7 @@ $css_temp = [
 		font-size: 1.3em;
 		line-height: 1.6em;
 		text-align: center;
+		background: rgba(240,240,240,1);
 		}
 	
 	a	{
@@ -185,7 +186,6 @@ $css_temp = [
 	
 	#section-mission {
 		margin: 600px 0 0 0;
-		background: rgba(240,240,240,1);
 		color: #333;
 		box-shadow: -30px 0 30px -5px rgba(100,100,100,0.3);
 		}
