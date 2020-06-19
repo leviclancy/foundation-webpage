@@ -199,8 +199,6 @@ $css_temp = [
 		vertical-align: middle;
 		padding: 0;
 		margin: 50px;
-		color: #fff;
-		background: #333;
 		font-size: 140%;
 		cursor: pointer;
 		}
