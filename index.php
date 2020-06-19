@@ -270,8 +270,8 @@ $css_temp = [
 		}
 
 	#lightbox-future {
-		background: #000;
-		color: rgba(255,255,255,0.9);
+		background: #eee;
+		color: rgba(30,30,30,1);
 		}
 
 	#lightbox-governance {
