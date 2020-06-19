@@ -324,20 +324,22 @@ $css_temp = [
 	
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
-<h2 amp-fx='parallax' data-parallax-factor='1.1'>Who we are,</h2>
-<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'>Our mission,</h2>
+<p amp-fx='parallax' data-parallax-factor='1.1'>Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
+<br>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>bubble_chart</i><br><br>Our vision,</h2>
 <p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of a peaceful, inclusive, and diverse society.</p>
 </div>
 
 <div id='section-goals'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
 <h2><i class='material-icons'>bubble_chart</i><br><br>
-Three goals</h2>
+Our three goals,</h2>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
 <br>
-<h2><i class='material-icons'>account_tree</i><br><br>How we do it,</h2>
+<h2><i class='material-icons'>account_tree</i><br><br>How we do them,</h2>
 <div id='section-goals-array'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
@@ -383,7 +385,7 @@ Three goals</h2>
 
 	<p><i>Mission statement</i> — Hamra Tava provides kosher services including dining, lodging, and logistics in Erbil and the broader Kurdistan Region, for congregants and Jewish pilgrims, as well as for all people to have a window into Jewish life.</p>
 	
-	<h3><i class='material-icons'>countertop</i><br> Dining</h3>
+	<h3><i class='material-icons'>countertops</i><br> Dining</h3>
 
 	<p>Providing a kosher pantry and meal options makes the Kurdistan Region more welcoming for Jewish pilgrims, and allows the public to sit together and learn more.</p>
 	
