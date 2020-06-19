@@ -34,9 +34,9 @@ $close_lightboxes = implode(",", [
 	"lightbox-museum.close",
 	"lightbox-news.close",
 	"lightbox-objectives.close",
+	"lightbox-future.close",
 	"lightbox-governance.close",
-	"lightbox-articles.close",
-	"lightbox-bylaws.close",
+	"lightbox-incorporation.close",
 	]);
 
 $css_temp = [
@@ -269,20 +269,21 @@ $css_temp = [
 		color: rgba(255,255,255,0.9);
 		}
 
+	#lightbox-future {
+		background: #000;
+		color: rgba(255,255,255,0.9);
+		}
+
 	#lightbox-governance {
 		background: #000;
 		color: rgba(255,255,255,0.9);
 		}
 
-	#lightbox-articles {
+	#lightbox-incorporation {
 		background: #000;
 		color: rgba(255,255,255,0.9);
 		}
 
-	#lightbox-bylaws {
-		background: #000;
-		color: rgba(255,255,255,0.9);
-		}
 	
 	.material-icons {
   font-family: 'Material Icons';
@@ -355,8 +356,7 @@ Three goals</h2>
 <p>To contact us, please reach out at +1-207-216-5608 or at info@ours.foundation</p>
 <br>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-governance.open'>Governance</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-articles.open'>Articles of Incorporation</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-bylaws.open'>Bylaws</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-incorporation.open'>Incorporation</span>
 <br>
 <br>
 </div>
@@ -585,7 +585,7 @@ Three goals</h2>
 
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-articles'>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-incorporation'>
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
@@ -597,18 +597,6 @@ Three goals</h2>
 	
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-bylaws'>
-
-	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
-
-	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
-
-	<h2>Bylaws</h2>
-
-	<p></p>
-	
-	</amp-lightbox>
-
 </body>
 	
 </html>
