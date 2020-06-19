@@ -324,7 +324,7 @@ $css_temp = [
 <div id='section-header'>
 <amp-img role='button' tabindex='1' amp-fx='parallax' data-parallax-factor='1.2' src='/logo-black-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='500' height='500' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-foundation.open'></amp-img>
 <h2 amp-fx='parallax' data-parallax-factor='1.1'>Who we are,</h2>
-<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence with non-Jewish communities.</p>
+<p amp-fx='parallax' data-parallax-factor='1.1'><i>Mission statement</i> — Foundation of Ours supports Jewish expression in the Kurdistan Region, and provides platforms for reconciliation and coexistence between all communities.</p>
 <p amp-fx='parallax' data-parallax-factor='1.1'><i>Vision statement</i> — Foundation of Ours envisions a Jewish presence in the Kurdistan Region that is a core component of a peaceful, inclusive, and diverse society.</p>
 </div>
 
@@ -368,7 +368,7 @@ Three goals</h2>
 
 	<h2>בית הלוי Beit HaLevi</h2>
 	
-	<p><i>Mission statement</i> — Beit HaLevi provides a Sefer Torah with an appropriate housing for the use of congregants and pilgrims.</p>
+	<p><i>Mission statement</i> — Beit HaLevi provides a prayer space in Erbil including an appropriately housed Sefer Torah for the use of congregants and pilgrims.</p>
 	
 	</amp-lightbox>
 
@@ -380,7 +380,7 @@ Three goals</h2>
 
 	<h2>חמרא טבא Hamra Tava</h2>
 
-	<p><i>Mission statement</i> — Hamra Tava provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
+	<p><i>Mission statement</i> — Hamra Tava provides kosher services including dining, lodging, and logistics in Erbil and the broader Kurdistan Region, for congregants and Jewish pilgrims, as well as for all people to have a window into Jewish life.</p>
 	
 	<h3><i class='material-icons'>countertop</i><br> Dining</h3>
 
@@ -404,7 +404,7 @@ Three goals</h2>
 
 	<h2>Museum of Ours</h2>
 
-	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications in and near the Kurdistan Region that apply historiography, museology, and demography to counter misinformation, systemic bias, and addiction to hate.</p>
+	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications that apply historiography, museology, and demography to counter misinformation, systemic bias, and addiction to hate for all people in and near the Kurdistan Region.</p>
 
 	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
 	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
