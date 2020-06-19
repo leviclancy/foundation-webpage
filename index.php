@@ -29,9 +29,9 @@ foreach (explode("===", $press_releases_unformatted_array) as $press_release_unf
 	
 $close_lightboxes = implode(",", [
 	"lightbox-foundation.close",
-	"lightbox-museum.close",
 	"lightbox-beit-halevi.close",
-	"lightbox-kosher.close",
+	"lightbox-hamra-tava.close",
+	"lightbox-museum.close",
 	"lightbox-news.close",
 	"lightbox-objectives.close",
 	"lightbox-governance.close",
@@ -68,7 +68,7 @@ $css_temp = [
 		padding: 0;
 		font-size: 1.3em;
 		line-height: 1.6em;
-		background: rgba(245,245,245,1);
+		background: rgba(240,240,240,1);
 		text-align: center;
 		}
 	
@@ -249,7 +249,7 @@ $css_temp = [
 		color: rgba(255,255,255,0.9);
 		}
 
-	#lightbox-kosher {
+	#lightbox-hamra-tava {
 		background: linear-gradient(45deg, rgba(140,40,40,.9), rgba(120,90,90,.5) 70%), linear-gradient(135deg, rgba(200,115,20,1), rgba(210,120,120,.7) 70%), linear-gradient(225deg, rgba(255,255,255,1), rgba(200,200,200,1) 70%);
 		color: rgba(255,255,255,0.9);
 		}
@@ -317,7 +317,7 @@ $css_temp = [
 
 <div id='section-banner'>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'>בית הלוי Beit HaLevi</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'>חמרא טבא Hamra Tava</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'>חמרא טבא Hamra Tava</span>
 <span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'>Museum of Ours</span>
 </div>
 	
@@ -330,28 +330,24 @@ $css_temp = [
 
 <div id='section-goals'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
-<h2><i class='material-icons'>timeline</i><br>
+<h2><i class='material-icons'>bubble_chart</i><br><br>
 Three goals</h2>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
-<h2>Tap to learn more,</h2>
+<h2>How we do it,</h2>
 <div id='section-goals-array'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
-<amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-kosher.open'></amp-img>
+<amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
 </div>
 </div>
 
 <div id='section-more'>
-<h2>Stay up-to-date,</h2>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-news.open'>News</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'>Objectives</span>
-
-<h2><i class='material-icons'>home_work</i><i class='material-icons'>place</i><br>
-The future,</h2>
-<p>Our three goals are envisioned as being realized in one facility built to last for centuries.</p>
-<br><br>
+<h2>More information,</h2>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-news.open'><i class='material-icons'>speaker_notes</i> News</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-objectives.open'><i class='material-icons'>timeline</i> Objectives</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-future.open'><i class='material-icons'>house</i> Future</span>
 </div>
 	
 <div id='section-contact'>
@@ -376,7 +372,7 @@ The future,</h2>
 	
 	</amp-lightbox>
 
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-kosher'>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-hamra-tava'>
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
@@ -385,6 +381,18 @@ The future,</h2>
 	<h2>חמרא טבא Hamra Tava</h2>
 
 	<p><i>Mission statement</i> — Hamra Tava provides dining, lodging, and logistics in Erbil and the broader Kurdistan Region that are completely kosher to support congregants and pilgrims, as well as foster reconciliation and cultural knowledge with the general public.</p>
+	
+	<h3><i class='material-icons'>countertop</i><br> Dining</h3>
+
+	<p>Providing a kosher pantry and meal options makes the Kurdistan Region more welcoming for Jewish pilgrims, and allows the public to sit together and learn more.</p>
+	
+	<h3><i class='material-icons'>night_shelter</i><br> Lodging</h3>
+
+	<p>Lodging allows pilgrims and scholars to stay on-premises with a comfortable setting.</p>
+
+	<h3><i class='material-icons'>room_service</i><br> Logistics</h3>
+
+	<p>By answering questions, supporting visitors, and serving as a liaison, Hamra Tava serves a much-needed role.</p>
 	
 	</amp-lightbox>
 	
@@ -417,11 +425,13 @@ The future,</h2>
 	
 	</amp-lightbox>
 	
-<amp-lightbox layout='nodisplay' scrollable id='lightbox-space'>
+<amp-lightbox layout='nodisplay' scrollable id='lightbox-future'>
 	
-	<p>with three wings surrounding around a central courtyard with eco-friendly planting and irrigation</p>
-
-	<p>The Museum's physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees.</p>
+	<p>Our three goals are envisioned as being realized in one facility built to last for centuries.</p>
+	
+	<h3><i class='material-icons'>foundation</i><br> Facility</h3>
+	
+	<p>The Museum's physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees. Overall, it should have three wings surrounding around a central courtyard with eco-friendly planting and irrigation.</p></p>
 	
 	</amp-lightbox>
 	
