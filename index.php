@@ -250,11 +250,12 @@ $css_temp = [
 
 	
 	#section-contact {
+		position:relative;
+		bottom: -100px;
 		background: rgba(60,60,60,1);
 		color: #fff;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
 		padding: 60px 20px 160px;
-		margin: 0 0 -100px 0;
 		}
 	
 	amp-lightbox span, #section-contact span {
