@@ -354,7 +354,7 @@ $css_temp = [
 <div id='section-goals'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
 <h2><i class='material-icons'>bubble_chart</i><br><br>
-Our three goals,</h2>
+Our three goals,</h2><br>
 <p>א — Establish and maintain <b>Beit HaLevi</b> in Erbil.<br>
 ב — Establish and maintain <b>Hamra Tava</b> in Erbil.<br>
 ג — Establish and maintain <b>Museum of Ours</b> in Erbil.</p>
