@@ -353,9 +353,9 @@ $css_temp = [
 
 <div id='section-goals'>
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
-<h2 amp-fx='parallax' data-parallax-factor='1.2'><i class='material-icons'>bubble_chart</i><br><br>
+<h2 amp-fx='parallax' data-parallax-factor='1.1'><i class='material-icons'>bubble_chart</i><br><br>
 The Foundation has three goals: one for each project it will establish and maintain.</h2>
-<div id='section-goals-array' amp-fx='parallax' data-parallax-factor='1.1'>
+<div id='section-goals-array' amp-fx='parallax' data-parallax-factor='1.05'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-museum-of-ours.png' alt='Foundation of Ours' width='250' height='248' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-museum.open'></amp-img>
