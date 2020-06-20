@@ -248,14 +248,19 @@ $css_temp = [
 		font-size: 300%;
 		}
 
-	
 	#section-contact {
-		position:relative;
-		bottom: -100px;
 		background: rgba(60,60,60,1);
 		color: #fff;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
 		padding: 60px 20px 160px;
+		}
+	
+	#section-contact-footer {
+		position: fixed;
+		height: 200px;
+		bottom: -190px;
+		width: 100%;
+		background: rgba(60,60,60,1);
 		}
 	
 	amp-lightbox span, #section-contact span {
@@ -380,6 +385,10 @@ The Foundation has three goals: one for each project it will establish and maint
 <br>
 <br>
 </div>
+
+<div id='section-contact-footer'>
+	&nbsp;
+	</div>
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-beit-halevi'>
 
