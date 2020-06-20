@@ -224,9 +224,9 @@ $css_temp = [
 		vertical-align: middle;
 		cursor: pointer;
 		font-size: 90%;
-		margin: 30px 30px -140px;
+		margin: 30px;
 		border-radius: 200px;
-		padding: 8px 30px 150px;		
+		padding: 8px 30px;		
 		}
 
 	#section-more span {
@@ -235,12 +235,12 @@ $css_temp = [
 		background: rgba(255,255,255,0.8);
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.4);
 		min-width: 100px;
-		transition: box-shadow .2s;
+		transition: box-shadow .1s;
 		}
 	
 	#section-more span:hover {
 		box-shadow: 0 8px 30px -10px rgba(50,50,50,0.8);
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 		}
 		
 	#section-more span i {
@@ -253,6 +253,8 @@ $css_temp = [
 		background: rgba(60,60,60,1);
 		color: #fff;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
+		padding: 60px 20px 160px;
+		margin: 0 0 -100px 0;
 		}
 	
 	amp-lightbox span, #section-contact span {
