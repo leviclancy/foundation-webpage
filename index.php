@@ -252,11 +252,11 @@ $css_temp = [
 		background: rgba(60,60,60,1);
 		color: #fff;
 		box-shadow: 0 -10px 30px -10px rgba(40,40,40,0.5);
-		padding: 60px 20px 160px;
 		}
 	
 	#section-contact-footer {
 		position: fixed;
+		display: block;
 		height: 200px;
 		bottom: -190px;
 		width: 100%;
