@@ -375,8 +375,8 @@ The Foundation has three goals: one for each project it will establish and maint
 <div id='section-contact'>
 <p>To contact us, please reach out at +1-207-216-5608 or at info@ours.foundation</p>
 <br>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-governance.open'>Governance</span>
-<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-incorporation.open'>Incorporation</span>
+<!--<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-governance.open'>Governance</span>
+<span role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>,lightbox-incorporation.open'>Incorporation</span>-->
 <br>
 <br>
 </div>
