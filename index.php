@@ -101,6 +101,7 @@ $css_temp = [
 	h1, h2, h3 {
 		text-align: center;
 		font-size: 170%;
+		line-height: 1.5em;
 		font-weight: 400;
 		font-style: italic;
 		padding: 70px 0 10px;
@@ -358,6 +359,7 @@ $css_temp = [
 <!--<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>-->
 <h2 amp-fx='parallax' data-parallax-factor='1.06'><i class='material-icons'>bubble_chart</i><br><br>
 The Foundation has three goals: one for each project it will establish and maintain.</h2>
+<h2>Tap to learn more,</h2>
 <div id='section-goals-array' amp-fx='parallax' data-parallax-factor='1.03'>
 <amp-img role='button' tabindex='1' src='/logo-black-beit-halevi.png' alt='Beit HaLevi' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-beit-halevi.open'></amp-img>
 <amp-img role='button' tabindex='1' src='/logo-black-hamra-tava.png' alt='Hamra Tava' width='250' height='250' layout='intrinsic' on='tap:<? echo $close_lightboxes; ?>,lightbox-hamra-tava.open'></amp-img>
