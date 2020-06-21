@@ -302,6 +302,10 @@ $css_temp = [
 		background: #000;
 		color: rgba(255,255,255,0.9);
 		}
+	
+	#lightbox-news span {
+		border: 0;
+		}
 
 	
 	.material-icons {
@@ -444,11 +448,21 @@ The Foundation has three goals: one for each project it will establish and maint
 	
 <amp-lightbox layout='nodisplay' scrollable id='lightbox-future'>
 	
+	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
+
+	<h2>A Future in Erbil</h2>
+	
 	<p>Our three goals are envisioned as being realized in one facility built to last for centuries.</p>
 	
 	<h3><i class='material-icons'>foundation</i><br> Facility</h3>
 	
-	<p>The Museum's physical space should have: exhibition galleries, study room, and archive/storage; community area with refreshments; semi-enclosed portico with booth for quiet study, studio work, meetings; staging area for music performances, as music fosters interest and common ground; and lodging for employees. Overall, it should have three wings surrounding around a central courtyard with eco-friendly planting and irrigation.</p></p>
+	<p>The Foundation will have a physical space that represents the three goals as three wings surrounding around a central courtyard, united around a courtyard with eco-friendly planting and irrigation.</p>
+	
+	<p>The Museum is both a space for conservation and exhibition. It requires exhibition galleries, a study room, and archive/storage areas.</p>
+	
+	<p>Hamra Tava includes a community area with refreshments, a semi-enclosed portico with booths for studying and meetings, and a staging area for music performances. Music fosters interest and common ground.</p>
+
+	<p>As a religious institution, the Foundation also offers lodging for pilgrims and certain employees.</p>
 	
 	</amp-lightbox>
 	
@@ -456,10 +470,10 @@ The Foundation has three goals: one for each project it will establish and maint
 
 	<div class='lightbox-go-back' role='button' tabindex='1' on='tap:<? echo $close_lightboxes; ?>'>Go back</div>
 
-	<amp-list [src]="news" height="560" layout="fixed-height" items=".">
+<!--	<amp-list [src]="news" height="560" layout="fixed-height" items=".">
 	<template type="amp-mustache">{{Title}} {{Date}} {{Body}}
 	</template>    
-	</amp-list>
+	</amp-list> -->
 	
 	<amp-img src='/logo-white-foundation-of-ours.png' alt='Foundation of Ours' id='foundation-logo' width='300' height='300' layout='intrinsic'></amp-img>
 
