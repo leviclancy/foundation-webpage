@@ -427,7 +427,7 @@ The Foundation has three goals: one for each project it will establish and maint
 
 	<h2>Museum of Ours</h2>
 
-	<p><i>Mission statement</i> — Museum of Ours provides exhibitions, discussions, and publications that apply historiography, museology, and demography to counter misinformation, systemic bias, and addiction to hate for all people in and near the Kurdistan Region.</p>
+	<p><i>Mission statement</i> — Museum of Ours is inclusive of all communities in and near the Kurdistan Region and provides eye-opening exhibitions, discussions, and publications that apply historiography, museology, and demography to counter misinformation and bias.</p>
 
 	<a href='https://chat.whatsapp.com/BrRCPuMcj1tCqVZE0ZS2qM' target='_blank'><span>WhatsApp</span></a>
 	<a href='https://www.facebook.com/museum.of.ours/' target='_blank'><span>Facebook</span></a>
