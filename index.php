@@ -462,7 +462,7 @@ The Foundation has three goals: one for each project it will establish and maint
 	
 	<p>The Museum is both a space for conservation and exhibition. It requires exhibition galleries, a study room, and archive/storage areas.</p>
 	
-	<p>Hamra Tava includes a community area with refreshments, a semi-enclosed portico with booths for studying and meetings, and a staging area for music performances. Music fosters interest and common ground.</p>
+	<p>Hamra Tava includes a community area with refreshments, a semi-enclosed portico with booths for studying and meetings, and a staging area for public events.</p>
 
 	<p>As a religious institution, the Foundation also offers lodging for pilgrims and certain employees.</p>
 	
@@ -588,7 +588,7 @@ The Foundation has three goals: one for each project it will establish and maint
 
 	<h3>Objectives for Hamra Tava</h3>
 
-	<p>א — Recruit Rabbis to advise on what is needed for a café and guesthouse to be kosher: prepare a prioritized list of these needs; and cross-check with potential visitors about their expectations.</p>
+	<p>א — Rabbinical monitoring to prepare a prioritized list of needs; and cross-check with potential pilgrims about their expectations.</p>
 	<p>ב — Begin to import necessary items based on the prioritized list.</p>
 	<p>ג — Identify a process for sponsoring visas for pilgrims to the Kurdistan Region: look at hurdles in the Kurdistan Region government; and look at hurdles in non-KR governments.</p>
 	
